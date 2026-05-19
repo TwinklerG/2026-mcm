@@ -1,0 +1,5 @@
+method_pair,mean_discrepancy,std_discrepancy,min_discrepancy,max_discrepancy,median_discrepancy,weeks_high_discrepancy,total_weeks,pct_high_discrepancy_weeks
+judge_rank_vs_percent_rank,0.7635223880597015,0.16164983577923522,0.04,0.97,0.81,305,335,91.04477611940298
+fan_rank_vs_judge_rank,0.8586567164179104,0.15131257573649376,0.04,0.98,0.91,319,335,95.22388059701493
+fan_rank_vs_rank_rank,0.7865970149253732,0.17241261430620736,0.01,0.96,0.85,304,335,90.74626865671642
+rank_rank_vs_percent_rank,0.7505373134328358,0.17253918485412545,0.01,0.98,0.81,300,335,89.55223880597015

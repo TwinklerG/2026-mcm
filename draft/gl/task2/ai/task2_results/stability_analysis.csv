@@ -1,0 +1,336 @@
+season,week,n_samples,rank_stability,rank_most_frequent,percentage_stability,percentage_most_frequent,stability_difference,season_week
+1,1,1000,0.545,Kelly Monaco_S1,1.0,Kelly Monaco_S1,0.45499999999999996,1-1
+1,2,1000,0.998,Trista Sutter_S1,1.0,Trista Sutter_S1,0.0020000000000000018,1-2
+1,3,1000,1.0,Evander Holyfield_S1,1.0,Evander Holyfield_S1,0.0,1-3
+1,4,1000,0.976,Rachel Hunter_S1,0.999,Rachel Hunter_S1,0.02300000000000002,1-4
+1,5,1000,0.978,Joey McIntyre_S1,0.967,Joey McIntyre_S1,-0.01100000000000001,1-5
+1,6,1000,1.0,John O'Hurley_S1,1.0,John O'Hurley_S1,0.0,1-6
+2,1,1000,1.0,Kenny Mayne_S2,1.0,Kenny Mayne_S2,0.0,2-1
+2,2,1000,0.996,Tatum O'Neal_S2,1.0,Tatum O'Neal_S2,0.0040000000000000036,2-2
+2,3,1000,0.988,Giselle Fernandez_S2,0.87,Giselle Fernandez_S2,-0.118,2-3
+2,4,1000,1.0,Master P_S2,1.0,Master P_S2,0.0,2-4
+2,5,1000,1.0,Tia Carrere_S2,1.0,Tia Carrere_S2,0.0,2-5
+2,6,1000,1.0,George Hamilton_S2,1.0,George Hamilton_S2,0.0,2-6
+2,7,1000,0.998,Lisa Rinna_S2,0.997,Lisa Rinna_S2,-0.0010000000000000009,2-7
+2,8,1000,0.97,Stacy Keibler_S2,0.989,Stacy Keibler_S2,0.019000000000000017,2-8
+3,1,1000,1.0,Tucker Carlson_S3,1.0,Tucker Carlson_S3,0.0,3-1
+3,2,1000,0.622,Shanna Moakler_S3,1.0,Shanna Moakler_S3,0.378,3-2
+3,3,1000,0.52,Harry Hamlin_S3,1.0,Harry Hamlin_S3,0.48,3-3
+3,4,1000,0.646,Vivica A. Fox_S3,1.0,Vivica A. Fox_S3,0.354,3-4
+3,5,1000,1.0,Sara Evans_S3,0.725,Sara Evans_S3,-0.275,3-5
+3,6,1000,0.756,Jerry Springer_S3,1.0,Jerry Springer_S3,0.244,3-6
+3,7,1000,1.0,Jerry Springer_S3,1.0,Jerry Springer_S3,0.0,3-7
+3,8,1000,1.0,Monique Coleman_S3,1.0,Monique Coleman_S3,0.0,3-8
+3,9,1000,1.0,Joey Lawrence_S3,1.0,Joey Lawrence_S3,0.0,3-9
+3,10,1000,1.0,Mario Lopez_S3,1.0,Mario Lopez_S3,0.0,3-10
+4,1,1000,0.406,Billy Ray Cyrus_S4,0.902,Billy Ray Cyrus_S4,0.496,4-1
+4,2,1000,0.546,Shandi Finnessey_S4,1.0,Paulina Porizkova_S4,0.45399999999999996,4-2
+4,3,1000,0.798,Shandi Finnessey_S4,1.0,Shandi Finnessey_S4,0.20199999999999996,4-3
+4,4,1000,0.991,Leeza Gibbons_S4,1.0,Leeza Gibbons_S4,0.009000000000000008,4-4
+4,5,1000,0.999,Clyde Drexler_S4,1.0,Clyde Drexler_S4,0.0010000000000000009,4-5
+4,6,1000,0.925,Heather Mills_S4,1.0,Heather Mills_S4,0.07499999999999996,4-6
+4,7,1000,0.997,John Ratzenberger_S4,1.0,John Ratzenberger_S4,0.0030000000000000027,4-7
+4,8,1000,1.0,Billy Ray Cyrus_S4,1.0,Billy Ray Cyrus_S4,0.0,4-8
+4,9,1000,1.0,Ian Ziering_S4,1.0,Ian Ziering_S4,0.0,4-9
+4,10,1000,1.0,Laila Ali_S4,1.0,Laila Ali_S4,0.0,4-10
+5,1,1000,1.0,Josie Maran_S5,1.0,Josie Maran_S5,0.0,5-1
+5,2,1000,0.671,Albert Reed_S5,1.0,Albert Reed_S5,0.32899999999999996,5-2
+5,3,1000,1.0,Wayne Newton_S5,1.0,Wayne Newton_S5,0.0,5-3
+5,4,1000,1.0,Floyd Mayweather Jr. _S5,1.0,Floyd Mayweather Jr. _S5,0.0,5-4
+5,5,1000,1.0,Mark Cuban_S5,1.0,Mark Cuban_S5,0.0,5-5
+5,6,1000,0.631,Sabrina Bryan_S5,1.0,Sabrina Bryan_S5,0.369,5-6
+5,7,1000,1.0,Jane Seymour_S5,1.0,Jane Seymour_S5,0.0,5-7
+5,8,1000,0.865,Cameron Mathison_S5,1.0,Cameron Mathison_S5,0.135,5-8
+5,9,1000,1.0,Jennie Garth_S5,1.0,Jennie Garth_S5,0.0,5-9
+5,10,1000,1.0,Marie Osmond_S5,1.0,Marie Osmond_S5,0.0,5-10
+6,1,1000,0.92,Adam Carolla_S6,0.632,Adam Carolla_S6,-0.28800000000000003,6-1
+6,2,1000,1.0,Monica Seles_S6,0.787,Penn Jillette_S6,-0.21299999999999997,6-2
+6,3,1000,0.898,Steve Guttenberg_S6,1.0,Steve Guttenberg_S6,0.10199999999999998,6-3
+6,4,1000,1.0,Adam Carolla_S6,1.0,Adam Carolla_S6,0.0,6-4
+6,5,1000,1.0,Priscilla Presley_S6,1.0,Priscilla Presley_S6,0.0,6-5
+6,6,1000,1.0,Marlee Matlin_S6,1.0,Marlee Matlin_S6,0.0,6-6
+6,7,1000,0.781,Shannon Elizabeth_S6,1.0,Shannon Elizabeth_S6,0.21899999999999997,6-7
+6,8,1000,0.625,Mario_S6,1.0,Mario_S6,0.375,6-8
+6,9,1000,1.0,Marissa Jaret Winokur_S6,1.0,Marissa Jaret Winokur_S6,0.0,6-9
+6,10,1000,1.0,Cristian de la Fuente_S6,1.0,Cristian de la Fuente_S6,0.0,6-10
+7,1,1000,0.998,Jeffrey Ross_S7,0.994,Jeffrey Ross_S7,-0.0040000000000000036,7-1
+7,2,1000,0.991,Kim Kardashian_S7,0.877,Kim Kardashian_S7,-0.11399999999999999,7-2
+7,3,1000,0.753,Cloris Leachman_S7,0.996,Cloris Leachman_S7,0.243,7-3
+7,4,1000,1.0,Rocco DiSpirito_S7,1.0,Rocco DiSpirito_S7,0.0,7-4
+7,5,1000,0.71,Toni Braxton_S7,1.0,Toni Braxton_S7,0.29000000000000004,7-5
+7,6,1000,1.0,Cloris Leachman_S7,1.0,Cloris Leachman_S7,0.0,7-6
+7,7,1000,0.858,Susan Lucci_S7,1.0,Susan Lucci_S7,0.14200000000000002,7-7
+7,8,1000,1.0,Maurice Greene_S7,1.0,Maurice Greene_S7,0.0,7-8
+7,9,1000,1.0,Cody Linley_S7,1.0,Cody Linley_S7,0.0,7-9
+7,10,1000,1.0,Lance Bass_S7,1.0,Lance Bass_S7,0.0,7-10
+8,1,1000,0.991,Steve Wozniak_S8,1.0,Steve Wozniak_S8,0.009000000000000008,8-1
+8,2,1000,0.623,Belinda Carlisle_S8,1.0,Belinda Carlisle_S8,0.377,8-2
+8,3,1000,0.999,Denise Richards_S8,1.0,Denise Richards_S8,0.0010000000000000009,8-3
+8,4,1000,1.0,Steve Wozniak_S8,0.997,Steve Wozniak_S8,-0.0030000000000000027,8-4
+8,5,1000,0.958,David Alan Grier_S8,1.0,David Alan Grier_S8,0.04200000000000004,8-5
+8,6,1000,1.0,Steve-O_S8,1.0,Steve-O_S8,0.0,8-6
+8,7,1000,1.0,Lawrence Taylor_S8,1.0,Lawrence Taylor_S8,0.0,8-7
+8,8,1000,1.0,Chuck Wicks_S8,1.0,Chuck Wicks_S8,0.0,8-8
+8,9,1000,1.0,Lil' Kim_S8,1.0,Lil' Kim_S8,0.0,8-9
+8,10,1000,1.0,Ty Murray_S8,1.0,Ty Murray_S8,0.0,8-10
+8,11,1000,1.0,Melissa Rycroft_S8,1.0,Melissa Rycroft_S8,0.0,8-11
+9,1,1000,0.53,Macy Gray_S9,0.53,Macy Gray_S9,0.0,9-1
+9,2,1000,1.0,Kathy Ireland_S9,1.0,Kathy Ireland_S9,0.0,9-2
+9,3,1000,1.0,Tom DeLay_S9,0.972,Tom DeLay_S9,-0.028000000000000025,9-3
+9,4,1000,1.0,Chuck Liddell_S9,1.0,Chuck Liddell_S9,0.0,9-4
+9,5,1000,0.981,Natalie Coughlin_S9,1.0,Natalie Coughlin_S9,0.019000000000000017,9-5
+9,6,1000,0.509,Melissa Joan Hart_S9,0.509,Melissa Joan Hart_S9,0.0,9-6
+9,7,1000,0.988,Mark Dacascos_S9,0.614,Mark Dacascos_S9,-0.374,9-7
+9,8,1000,1.0,Aaron Carter_S9,1.0,Aaron Carter_S9,0.0,9-8
+9,9,1000,0.547,Donny Osmond_S9,1.0,Joanna Krupa_S9,0.45299999999999996,9-9
+9,10,1000,1.0,Kelly Osbourne_S9,1.0,Kelly Osbourne_S9,0.0,9-10
+10,1,1000,1.0,Buzz Aldrin_S10,1.0,Buzz Aldrin_S10,0.0,10-1
+10,2,1000,0.567,Shannen Doherty_S10,0.997,Shannen Doherty_S10,0.43000000000000005,10-2
+10,3,1000,1.0,Buzz Aldrin_S10,1.0,Buzz Aldrin_S10,0.0,10-3
+10,4,1000,1.0,Aiden Turner_S10,1.0,Aiden Turner_S10,0.0,10-4
+10,5,1000,1.0,Kate Gosselin_S10,1.0,Kate Gosselin_S10,0.0,10-5
+10,6,1000,1.0,Jake Pavelka_S10,1.0,Jake Pavelka_S10,0.0,10-6
+10,7,1000,0.794,Pamela Anderson_S10,1.0,Pamela Anderson_S10,0.20599999999999996,10-7
+10,8,1000,1.0,Niecy Nash_S10,1.0,Niecy Nash_S10,0.0,10-8
+10,9,1000,1.0,Chad Ochocinco_S10,1.0,Chad Ochocinco_S10,0.0,10-9
+10,10,1000,1.0,Erin Andrews_S10,1.0,Erin Andrews_S10,0.0,10-10
+11,1,1000,1.0,David Hasselhoff_S11,1.0,David Hasselhoff_S11,0.0,11-1
+11,2,1000,1.0,Michael Bolton_S11,1.0,Michael Bolton_S11,0.0,11-2
+11,3,1000,1.0,Margaret Cho_S11,1.0,Margaret Cho_S11,0.0,11-3
+11,4,1000,1.0,The Situation_S11,1.0,The Situation_S11,0.0,11-4
+11,5,1000,0.944,Florence Henderson_S11,1.0,Florence Henderson_S11,0.05600000000000005,11-5
+11,6,1000,0.572,Bristol Palin_S11,1.0,Audrina Patridge_S11,0.42800000000000005,11-6
+11,7,1000,0.582,Rick Fox_S11,1.0,Rick Fox_S11,0.41800000000000004,11-7
+11,8,1000,0.934,Kurt Warner_S11,1.0,Kurt Warner_S11,0.06599999999999995,11-8
+11,9,1000,1.0,Brandy_S11,1.0,Brandy_S11,0.0,11-9
+11,10,1000,1.0,Bristol Palin_S11,1.0,Bristol Palin_S11,0.0,11-10
+12,1,1000,0.984,Mike Catherwood_S12,0.996,Mike Catherwood_S12,0.01200000000000001,12-1
+12,2,1000,1.0,Mike Catherwood_S12,1.0,Mike Catherwood_S12,0.0,12-2
+12,3,1000,1.0,Wendy Williams_S12,1.0,Wendy Williams_S12,0.0,12-3
+12,4,1000,0.998,Sugar Ray Leonard_S12,1.0,Sugar Ray Leonard_S12,0.0020000000000000018,12-4
+12,5,1000,1.0,Petra Nemcova_S12,1.0,Petra Nemcova_S12,0.0,12-5
+12,6,1000,1.0,Chris Jericho_S12,1.0,Chris Jericho_S12,0.0,12-6
+12,7,1000,1.0,Kendra Wilkinson_S12,1.0,Kendra Wilkinson_S12,0.0,12-7
+12,8,1000,0.92,Romeo_S12,1.0,Romeo_S12,0.07999999999999996,12-8
+12,9,1000,1.0,Ralph Macchio_S12,1.0,Ralph Macchio_S12,0.0,12-9
+12,10,1000,0.991,Kirstie Alley_S12,0.998,Chelsea Kane_S12,0.007000000000000006,12-10
+13,1,1000,1.0,Metta World Peace (Ron)_S13,1.0,Metta World Peace (Ron)_S13,0.0,13-1
+13,2,1000,0.336,Carson Kressley_S13,1.0,Elisabetta Canalis_S13,0.6639999999999999,13-2
+13,3,1000,0.412,Carson Kressley_S13,1.0,Kristin Cavallari_S13,0.5880000000000001,13-3
+13,4,1000,0.809,Chynna Phillips_S13,1.0,Chynna Phillips_S13,0.19099999999999995,13-4
+13,5,1000,1.0,Carson Kressley_S13,1.0,Carson Kressley_S13,0.0,13-5
+13,6,1000,1.0,Chaz Bono_S13,1.0,Chaz Bono_S13,0.0,13-6
+13,7,1000,1.0,David Arquette_S13,1.0,David Arquette_S13,0.0,13-7
+13,8,1000,1.0,Nancy Grace_S13,1.0,Nancy Grace_S13,0.0,13-8
+13,9,1000,1.0,Hope Solo_S13,1.0,Hope Solo_S13,0.0,13-9
+13,10,1000,1.0,Ricki Lake_S13,1.0,Ricki Lake_S13,0.0,13-10
+14,1,1000,0.456,Gavin DeGraw_S14,0.498,Gavin DeGraw_S14,0.04199999999999998,14-1
+14,2,1000,1.0,Martina Navratilova_S14,1.0,Martina Navratilova_S14,0.0,14-2
+14,3,1000,1.0,Jack Wagner_S14,1.0,Jack Wagner_S14,0.0,14-3
+14,4,1000,0.933,Sherri Sheperd_S14,1.0,Sherri Sheperd_S14,0.06699999999999995,14-4
+14,5,1000,1.0,Gavin DeGraw_S14,1.0,Gavin DeGraw_S14,0.0,14-5
+14,6,1000,1.0,Gladys Knight_S14,1.0,Gladys Knight_S14,0.0,14-6
+14,7,1000,1.0,Jaleel White_S14,1.0,Jaleel White_S14,0.0,14-7
+14,8,1000,1.0,Melissa Gilbert_S14,0.846,Melissa Gilbert_S14,-0.15400000000000003,14-8
+14,9,1000,0.575,Katherine Jenkins_S14,1.0,Maria Menounos_S14,0.42500000000000004,14-9
+14,10,1000,1.0,William Levy_S14,1.0,William Levy_S14,0.0,14-10
+15,1,1000,1.0,Pamela Anderson_S15,1.0,Pamela Anderson_S15,0.0,15-1
+15,2,1000,0.623,Joey Fatone_S15,1.0,Joey Fatone_S15,0.377,15-2
+15,3,1000,0.936,Drew Lachey_S15,0.848,Drew Lachey_S15,-0.08800000000000008,15-3
+15,4,1000,1.0,Bristol Palin_S15,1.0,Bristol Palin_S15,0.0,15-4
+15,5,1000,0.427,Kirstie Alley_S15,0.488,Kirstie Alley_S15,0.061,15-5
+15,6,1000,0.414,Emmitt Smith_S15,1.0,Sabrina Bryan_S15,0.5860000000000001,15-6
+15,7,1000,0.621,Kirstie Alley_S15,0.994,Kirstie Alley_S15,0.373,15-7
+15,8,1000,1.0,Kirstie Alley_S15,0.702,Kirstie Alley_S15,-0.29800000000000004,15-8
+15,9,1000,1.0,Emmitt Smith_S15,0.58,Emmitt Smith_S15,-0.42000000000000004,15-9
+15,10,1000,0.999,Kelly Monaco_S15,0.999,Kelly Monaco_S15,0.0,15-10
+16,1,1000,0.617,Andy Dick_S16,1.0,D. L. Hughley_S16,0.383,16-1
+16,2,1000,1.0,Dorothy Hamill_S16,1.0,Dorothy Hamill_S16,0.0,16-2
+16,3,1000,1.0,Wynonna Judd_S16,1.0,Wynonna Judd_S16,0.0,16-3
+16,4,1000,1.0,Lisa Vanderpump_S16,1.0,Lisa Vanderpump_S16,0.0,16-4
+16,5,1000,1.0,D. L. Hughley_S16,1.0,D. L. Hughley_S16,0.0,16-5
+16,6,1000,1.0,Victor Ortiz_S16,1.0,Victor Ortiz_S16,0.0,16-6
+16,7,1000,1.0,Andy Dick_S16,1.0,Andy Dick_S16,0.0,16-7
+16,8,1000,1.0,Sean Lowe_S16,1.0,Sean Lowe_S16,0.0,16-8
+16,9,1000,1.0,Ingo Rademacher_S16,1.0,Ingo Rademacher_S16,0.0,16-9
+16,10,1000,1.0,Alexandra Raisman_S16,1.0,Alexandra Raisman_S16,0.0,16-10
+17,1,1000,0.641,Bill Engvall_S17,0.973,Bill Nye_S17,0.33199999999999996,17-1
+17,2,1000,0.993,Keyshawn Johnson_S17,1.0,Keyshawn Johnson_S17,0.007000000000000006,17-2
+17,3,1000,1.0,Bill Nye_S17,1.0,Bill Nye_S17,0.0,17-3
+17,4,1000,1.0,Valerie Harper_S17,1.0,Valerie Harper_S17,0.0,17-4
+17,5,1000,0.698,Bill Engvall_S17,1.0,Christina Milian_S17,0.30200000000000005,17-5
+17,6,1000,0.959,Bill Engvall_S17,0.995,Bill Engvall_S17,0.03600000000000003,17-6
+17,7,1000,0.635,Bill Engvall_S17,1.0,"Nicole ""Snooki"" Polizzi_S17",0.365,17-7
+17,8,1000,0.634,Brant Daugherty_S17,1.0,Brant Daugherty_S17,0.366,17-8
+17,9,1000,0.595,Amber Riley_S17,1.0,Elizabeth Berkley Lauren_S17,0.405,17-9
+17,10,1000,0.772,Leah Remini_S17,1.0,Leah Remini_S17,0.22799999999999998,17-10
+17,11,1000,1.0,Bill Engvall_S17,1.0,Bill Engvall_S17,0.0,17-11
+18,1,1000,0.998,Diana Nyad_S18,1.0,Diana Nyad_S18,0.0020000000000000018,18-1
+18,2,1000,1.0,Billy Dee Williams_S18,0.954,Billy Dee Williams_S18,-0.04600000000000004,18-2
+18,3,1000,0.971,Drew Carey_S18,0.979,Drew Carey_S18,0.008000000000000007,18-3
+18,4,1000,0.744,Cody Simpson_S18,0.358,Cody Simpson_S18,-0.386,18-4
+18,5,1000,1.0,Cody Simpson_S18,1.0,Cody Simpson_S18,0.0,18-5
+18,6,1000,1.0,Drew Carey_S18,1.0,Drew Carey_S18,0.0,18-6
+18,7,1000,1.0,NeNe Leakes_S18,1.0,NeNe Leakes_S18,0.0,18-7
+18,8,1000,0.893,Danica McKellar_S18,1.0,Danica McKellar_S18,0.10699999999999998,18-8
+18,9,1000,0.699,Charlie White_S18,1.0,Charlie White_S18,0.30100000000000005,18-9
+18,10,1000,0.733,Candace Cameron Bure_S18,0.999,James Maslow_S18,0.266,18-10
+19,1,1000,0.917,Lolo Jones_S19,1.0,Lolo Jones_S19,0.08299999999999996,19-1
+19,2,1000,0.99,Tavis Smiley_S19,1.0,Tavis Smiley_S19,0.010000000000000009,19-2
+19,3,1000,1.0,Randy Couture_S19,1.0,Randy Couture_S19,0.0,19-3
+19,4,1000,0.626,Tommy Chong_S19,1.0,Betsey Johnson_S19,0.374,19-4
+19,5,1000,0.955,Tommy Chong_S19,0.925,Tommy Chong_S19,-0.029999999999999916,19-5
+19,6,1000,0.488,Tommy Chong_S19,1.0,Jonathan Bennett_S19,0.512,19-6
+19,7,1000,1.0,Antonio Sabato Jr._S19,1.0,Antonio Sabato Jr._S19,0.0,19-7
+19,8,1000,1.0,Michael Waltrip_S19,1.0,Michael Waltrip_S19,0.0,19-8
+19,9,1000,1.0,Lea Thompson_S19,1.0,Lea Thompson_S19,0.0,19-9
+19,10,1000,1.0,Tommy Chong_S19,1.0,Tommy Chong_S19,0.0,19-10
+19,11,1000,1.0,Bethany Mota_S19,0.995,Bethany Mota_S19,-0.0050000000000000044,19-11
+20,1,1000,0.992,Charlotte McKinney_S20,0.852,Charlotte McKinney_S20,-0.14,20-1
+20,2,1000,0.568,Noah Galloway_S20,1.0,Redfoo_S20,0.43200000000000005,20-2
+20,3,1000,1.0,Charlotte McKinney_S20,1.0,Charlotte McKinney_S20,0.0,20-3
+20,4,1000,0.962,Michael Sam_S20,1.0,Michael Sam_S20,0.038000000000000034,20-4
+20,5,1000,0.603,Robert Herjavec_S20,1.0,Suzanne Somers_S20,0.397,20-5
+20,6,1000,0.833,Patti LaBelle_S20,1.0,Patti LaBelle_S20,0.16700000000000004,20-6
+20,7,1000,0.607,Robert Herjavec_S20,1.0,Willow Shields_S20,0.393,20-7
+20,8,1000,1.0,Robert Herjavec_S20,0.95,Robert Herjavec_S20,-0.050000000000000044,20-8
+20,9,1000,0.992,Noah Galloway_S20,1.0,Nastia Liukin_S20,0.008000000000000007,20-9
+20,10,1000,1.0,Noah Galloway_S20,1.0,Noah Galloway_S20,0.0,20-10
+21,1,1000,0.65,Chaka Khan_S21,0.541,Chaka Khan_S21,-0.10899999999999999,21-1
+21,2,1000,1.0,Chaka Khan_S21,0.816,Chaka Khan_S21,-0.18400000000000005,21-2
+21,3,1000,0.424,Gary Busey_S21,0.951,Paula Deen_S21,0.5269999999999999,21-3
+21,4,1000,1.0,Gary Busey_S21,1.0,Gary Busey_S21,0.0,21-4
+21,5,1000,0.698,Alek Skarlatos_S21,1.0,Alek Skarlatos_S21,0.30200000000000005,21-5
+21,6,1000,1.0,Paula Deen_S21,1.0,Paula Deen_S21,0.0,21-6
+21,7,1000,0.999,Alek Skarlatos_S21,1.0,Hayes Grier_S21,0.0010000000000000009,21-7
+21,8,1000,1.0,Andy Grammer_S21,1.0,Andy Grammer_S21,0.0,21-8
+21,9,1000,1.0,Tamar Braxton_S21,0.891,Tamar Braxton_S21,-0.10899999999999999,21-9
+21,10,1000,1.0,Alek Skarlatos_S21,1.0,Alek Skarlatos_S21,0.0,21-10
+21,11,1000,1.0,Alek Skarlatos_S21,0.998,Carlos PenaVega_S21,-0.0020000000000000018,21-11
+22,1,1000,1.0,Geraldo Rivera_S22,1.0,Geraldo Rivera_S22,0.0,22-1
+22,2,1000,1.0,Geraldo Rivera_S22,1.0,Geraldo Rivera_S22,0.0,22-2
+22,3,1000,1.0,Mischa Barton_S22,1.0,Mischa Barton_S22,0.0,22-3
+22,4,1000,0.993,Marla Maples_S22,1.0,Marla Maples_S22,0.007000000000000006,22-4
+22,5,1000,0.284,Kim Fields_S22,0.433,Antonio Brown_S22,0.14900000000000002,22-5
+22,6,1000,1.0,Doug Flutie_S22,1.0,Doug Flutie_S22,0.0,22-6
+22,7,1000,0.469,Kim Fields_S22,0.505,Kim Fields_S22,0.03600000000000003,22-7
+22,8,1000,0.358,Antonio Brown_S22,1.0,Jodie Sweetin_S22,0.642,22-8
+22,9,1000,1.0,Antonio Brown_S22,0.667,Antonio Brown_S22,-0.33299999999999996,22-9
+22,10,1000,1.0,Ginger Zee_S22,1.0,Ginger Zee_S22,0.0,22-10
+23,1,1000,1.0,Rick Perry_S23,1.0,Rick Perry_S23,0.0,23-1
+23,2,1000,0.577,Rick Perry_S23,1.0,Jake T. Austin_S23,0.42300000000000004,23-2
+23,3,1000,1.0,Rick Perry_S23,1.0,Rick Perry_S23,0.0,23-3
+23,4,1000,1.0,Babyface_S23,0.796,Babyface_S23,-0.20399999999999996,23-4
+23,5,1000,0.95,Amber Rose_S23,0.943,Amber Rose_S23,-0.007000000000000006,23-5
+23,6,1000,1.0,Amber Rose_S23,1.0,Amber Rose_S23,0.0,23-6
+23,7,1000,0.845,Maureen McCormick_S23,1.0,Maureen McCormick_S23,0.15500000000000003,23-7
+23,8,1000,0.871,Ryan Lochte_S23,1.0,Ryan Lochte_S23,0.129,23-8
+23,9,1000,1.0,Marilu Henner_S23,1.0,Marilu Henner_S23,0.0,23-9
+23,10,1000,0.819,Calvin Johnson Jr._S23,1.0,Terra Jole_S23,0.18100000000000005,23-10
+23,11,1000,0.994,Jana Kramer_S23,1.0,Jana Kramer_S23,0.006000000000000005,23-11
+24,1,1000,0.765,Chris Kattan_S24,0.989,Chris Kattan_S24,0.22399999999999998,24-1
+24,2,1000,1.0,Chris Kattan_S24,1.0,Chris Kattan_S24,0.0,24-2
+24,3,1000,1.0,Charo_S24,1.0,Charo_S24,0.0,24-3
+24,4,1000,1.0,Mr. T_S24,1.0,Mr. T_S24,0.0,24-4
+24,5,1000,0.805,Erika Jayne_S24,1.0,Erika Jayne_S24,0.19499999999999995,24-5
+24,6,1000,0.316,David Ross_S24,1.0,Heather Morris_S24,0.6839999999999999,24-6
+24,7,1000,0.84,Nancy Kerrigan_S24,0.536,Nancy Kerrigan_S24,-0.30399999999999994,24-7
+24,8,1000,1.0,Bonner Bolton_S24,1.0,Bonner Bolton_S24,0.0,24-8
+24,9,1000,0.618,David Ross_S24,1.0,Simone Biles_S24,0.382,24-9
+24,10,1000,0.969,David Ross_S24,1.0,Normani_S24,0.031000000000000028,24-10
+25,1,1000,1.0,Barbara Corcoran_S25,1.0,Barbara Corcoran_S25,0.0,25-1
+25,2,1000,1.0,Barbara Corcoran_S25,0.998,Barbara Corcoran_S25,-0.0020000000000000018,25-2
+25,3,1000,0.935,Sasha Pieterse_S25,0.961,Sasha Pieterse_S25,0.025999999999999912,25-3
+25,4,1000,1.0,Derek Fisher_S25,1.0,Derek Fisher_S25,0.0,25-4
+25,5,1000,0.92,Sasha Pieterse_S25,1.0,Sasha Pieterse_S25,0.07999999999999996,25-5
+25,6,1000,1.0,Nick Lachey_S25,1.0,Nick Lachey_S25,0.0,25-6
+25,7,1000,1.0,Nikki Bella_S25,0.752,Nikki Bella_S25,-0.248,25-7
+25,8,1000,0.795,Terrell Owens_S25,1.0,Terrell Owens_S25,0.20499999999999996,25-8
+25,9,1000,0.582,Victoria Arlen_S25,1.0,Victoria Arlen_S25,0.41800000000000004,25-9
+25,10,1000,1.0,Drew Scott_S25,0.999,Drew Scott_S25,-0.0010000000000000009,25-10
+26,1,1000,0.662,Jamie Anderson_S26,0.684,Johnny Damon_S26,0.02200000000000002,26-1
+26,2,1000,1.0,Kareem Abdul-Jabbar_S26,0.95,Kareem Abdul-Jabbar_S26,-0.050000000000000044,26-2
+26,3,1000,0.872,Chris Mazdzer_S26,0.73,Jennie Finch Daigle_S26,-0.14200000000000002,26-3
+26,4,1000,1.0,Tonya Harding_S26,1.0,Tonya Harding_S26,0.0,26-4
+27,1,1000,0.998,Nikki Glaser_S27,1.0,Nikki Glaser_S27,0.0020000000000000018,27-1
+27,2,1000,1.0,Danelle Umstead_S27,1.0,Danelle Umstead_S27,0.0,27-2
+27,3,1000,0.971,Nancy McKeon_S27,1.0,Nancy McKeon_S27,0.029000000000000026,27-3
+27,4,1000,0.88,Bobby Bones_S27,1.0,Tinashe_S27,0.12,27-4
+27,5,1000,0.999,Bobby Bones_S27,0.732,Bobby Bones_S27,-0.267,27-5
+27,6,1000,0.515,Bobby Bones_S27,1.0,Mary Lou Retton_S27,0.485,27-6
+27,7,1000,0.99,DeMarcus Ware_S27,0.75,John Schneider_S27,-0.24,27-7
+27,8,1000,0.861,Joe Amabile_S27,0.992,Joe Amabile_S27,0.131,27-8
+27,9,1000,1.0,Alexis Ren_S27,1.0,Alexis Ren_S27,0.0,27-9
+28,1,1000,0.961,Sean Spicer_S28,0.94,Sean Spicer_S28,-0.02100000000000002,28-1
+28,2,1000,0.845,Mary Wilson_S28,0.615,Mary Wilson_S28,-0.22999999999999998,28-2
+28,3,1000,0.928,Sean Spicer_S28,0.527,Sean Spicer_S28,-0.401,28-3
+28,4,1000,0.78,Lamar Odom_S28,0.674,Lamar Odom_S28,-0.10599999999999998,28-4
+28,5,1000,0.972,Sean Spicer_S28,0.997,Sean Spicer_S28,0.025000000000000022,28-5
+28,6,1000,1.0,Sean Spicer_S28,1.0,Sailor Brinkley-Cook_S28,0.0,28-6
+28,7,1000,0.622,Sean Spicer_S28,0.628,Karamo Brown_S28,0.006000000000000005,28-7
+28,8,1000,0.686,Sean Spicer_S28,0.916,Sean Spicer_S28,0.22999999999999998,28-8
+28,9,1000,0.999,Sean Spicer_S28,1.0,Sean Spicer_S28,0.0010000000000000009,28-9
+28,10,1000,0.913,James Van Der Beek_S28,0.919,James Van Der Beek_S28,0.006000000000000005,28-10
+28,11,1000,1.0,Lauren Alaina_S28,0.996,Ally Brooke_S28,-0.0040000000000000036,28-11
+29,1,1000,0.605,Carole Baskin_S29,0.888,Carole Baskin_S29,0.28300000000000003,29-1
+29,2,1000,0.999,Charles Oakley_S29,0.999,Charles Oakley_S29,0.0,29-2
+29,3,1000,1.0,Carole Baskin_S29,1.0,Carole Baskin_S29,0.0,29-3
+29,4,1000,0.998,Anne Heche_S29,0.993,Anne Heche_S29,-0.0050000000000000044,29-4
+29,5,1000,1.0,Jesse Metcalfe_S29,1.0,Jesse Metcalfe_S29,0.0,29-5
+29,6,1000,0.937,Veron Davis_S29,0.884,Veron Davis_S29,-0.05300000000000005,29-6
+29,7,1000,0.457,Monica Aldama_S29,0.868,Monica Aldama_S29,0.411,29-7
+29,8,1000,0.938,Chrishell Stause_S29,1.0,Chrishell Stause_S29,0.062000000000000055,29-8
+29,9,1000,1.0,AJ McLean_S29,0.993,AJ McLean_S29,-0.007000000000000006,29-9
+29,10,1000,0.355,Nelly_S29,0.757,Nev Schulman_S29,0.402,29-10
+29,11,1000,0.585,Nelly_S29,1.0,Justina Machado_S29,0.41500000000000004,29-11
+30,1,1000,0.603,Martin Kove_S30,1.0,Martin Kove_S30,0.397,30-1
+30,2,1000,1.0,Martin Kove_S30,1.0,Martin Kove_S30,0.0,30-2
+30,3,1000,0.803,Cody Rigsby_S30,0.999,Christine Chiu_S30,0.19599999999999995,30-3
+30,4,1000,0.544,Brian Austin Green_S30,0.756,Cody Rigsby_S30,0.21199999999999997,30-4
+30,5,1000,0.999,Cody Rigsby_S30,0.986,Melanie C_S30,-0.013000000000000012,30-5
+30,6,1000,1.0,Kenya Moore_S30,0.952,Kenya Moore_S30,-0.04800000000000004,30-6
+30,7,1000,1.0,"Mike ""The Miz"" Mizanin_S30",0.872,"Mike ""The Miz"" Mizanin_S30",-0.128,30-7
+30,8,1000,0.969,Jimmie Allen_S30,0.666,Jimmie Allen_S30,-0.30299999999999994,30-8
+30,9,1000,1.0,Cody Rigsby_S30,0.972,Cody Rigsby_S30,-0.028000000000000025,30-9
+30,10,1000,1.0,Amanda Kloots_S30,0.718,Amanda Kloots_S30,-0.28200000000000003,30-10
+31,1,1000,1.0,Jason Lewis_S31,1.0,Jason Lewis_S31,0.0,31-1
+31,2,1000,0.972,Teresa Giudice_S31,1.0,Teresa Giudice_S31,0.028000000000000025,31-2
+31,3,1000,1.0,Cheryl Ladd_S31,0.999,Cheryl Ladd_S31,-0.0010000000000000009,31-3
+31,4,1000,1.0,Sam Champion_S31,1.0,Sam Champion_S31,0.0,31-4
+31,5,1000,0.946,Joseph Baena_S31,1.0,Joseph Baena_S31,0.05400000000000005,31-5
+31,6,1000,1.0,Jessie James Decker_S31,0.974,Jessie James Decker_S31,-0.026000000000000023,31-6
+31,7,1000,1.0,Jordin Sparks_S31,0.914,Jordin Sparks_S31,-0.08599999999999997,31-7
+31,8,1000,0.954,Vinny Guadagnino_S31,0.999,Vinny Guadagnino_S31,0.04500000000000004,31-8
+31,9,1000,0.679,Trevor Donovan_S31,0.716,Trevor Donovan_S31,0.03699999999999992,31-9
+31,10,1000,1.0,Shangela_S31,1.0,Shangela_S31,0.0,31-10
+32,1,1000,1.0,Matt Walsh_S32,1.0,Matt Walsh_S32,0.0,32-1
+32,2,1000,0.957,Jamie Lynn Spears_S32,1.0,Jamie Lynn Spears_S32,0.04300000000000004,32-2
+32,3,1000,1.0,Tyson Beckford_S32,1.0,Tyson Beckford_S32,0.0,32-3
+32,4,1000,0.676,Adrian Peterson_S32,0.994,Adrian Peterson_S32,0.31799999999999995,32-4
+32,5,1000,0.924,Mira Sorvino_S32,0.958,Mira Sorvino_S32,0.03399999999999992,32-5
+32,6,1000,0.882,Mauricio Umansky_S32,1.0,Mauricio Umansky_S32,0.118,32-6
+32,7,1000,0.502,Harry Jowsey_S32,1.0,Lele Pons_S32,0.498,32-7
+32,8,1000,0.872,Barry Williams_S32,0.874,Barry Williams_S32,0.0020000000000000018,32-8
+32,9,1000,0.995,Harry Jowsey_S32,1.0,Harry Jowsey_S32,0.0050000000000000044,32-9
+32,10,1000,0.677,Alyson Hannigan_S32,0.913,Alyson Hannigan_S32,0.236,32-10
+32,11,1000,0.987,Alyson Hannigan_S32,0.918,Charity Lawson_S32,-0.06899999999999995,32-11
+33,1,1000,0.37,Eric Roberts_S33,1.0,Anna Delvey_S33,0.63,33-1
+33,2,1000,1.0,Anna Delvey_S33,1.0,Anna Delvey_S33,0.0,33-2
+33,3,1000,1.0,Reginald VelJohnson_S33,1.0,Reginald VelJohnson_S33,0.0,33-3
+33,4,1000,0.717,Brooks Nader_S33,0.999,Brooks Nader_S33,0.28200000000000003,33-4
+33,5,1000,1.0,Phaedra Parks_S33,1.0,Phaedra Parks_S33,0.0,33-5
+33,6,1000,0.49,Jenn Tran_S33,1.0,Jenn Tran_S33,0.51,33-6
+33,7,1000,0.952,Dwight Howard _S33,0.987,Dwight Howard _S33,0.03500000000000003,33-7
+33,8,1000,0.486,Stephen Nedoroscik_S33,0.542,Stephen Nedoroscik_S33,0.05600000000000005,33-8
+33,9,1000,1.0,Danny Amendola_S33,0.998,Chandler Kinney_S33,-0.0020000000000000018,33-9
+34,1,1000,0.96,Andy Richter_S34,0.961,Andy Richter_S34,0.0010000000000000009,34-1
+34,2,1000,0.633,Corey Feldman_S34,0.862,Corey Feldman_S34,0.22899999999999998,34-2
+34,3,1000,0.999,Lauren Jauregui_S34,0.855,Lauren Jauregui_S34,-0.14400000000000002,34-3
+34,4,1000,0.529,Andy Richter_S34,1.0,Hilaria Baldwin_S34,0.471,34-4
+34,5,1000,0.991,Andy Richter_S34,0.993,Andy Richter_S34,0.0020000000000000018,34-5
+34,6,1000,0.59,Scott Hoying_S34,0.981,Scott Hoying_S34,0.391,34-6
+34,7,1000,0.644,Andy Richter_S34,0.899,Jen Affleck_S34,0.255,34-7
+34,8,1000,0.875,Danielle Fishel_S34,0.936,Danielle Fishel_S34,0.061000000000000054,34-8
+34,9,1000,0.999,Andy Richter_S34,0.994,Andy Richter_S34,-0.0050000000000000044,34-9
+34,10,1000,0.803,Dylan Efron_S34,0.999,Whitney Leavitt_S34,0.19599999999999995,34-10
+34,11,1000,1.0,Dylan Efron_S34,0.619,Dylan Efron_S34,-0.381,34-11

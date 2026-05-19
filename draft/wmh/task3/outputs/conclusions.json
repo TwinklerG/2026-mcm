@@ -1,0 +1,48 @@
+{
+  "athlete_paradox": {
+    "exists": true,
+    "fan_coefficient": 0.05210845,
+    "judge_coefficient": -0.12873325
+  },
+  "celebrity_characteristics": {
+    "fan": {
+      "coefficient": -0.00184831,
+      "significant": true
+    },
+    "judge": {
+      "coefficient": -0.03284824,
+      "significant": true
+    }
+  },
+  "performance_conversion": {
+    "gamma": 0.00371382,
+    "p_value": 0.42198557,
+    "significant": false,
+    "std_error": 0.00462504,
+    "z_value": 0.80298125
+  },
+  "pro_dancer_impact": {
+    "category_distribution": {
+      "Fan Favorite": 9,
+      "Kingmaker": 8,
+      "Technician": 13,
+      "Underperformer": 12
+    },
+    "kingmakers": [
+      "Derek Hough",
+      "Jonathan Roberts",
+      "Kym Johnson",
+      "Tony Dovolani",
+      "Maksim Chmerkoskiy"
+    ],
+    "technicians": [
+      "Artem Chigvintsev",
+      "Witney Carson (Xoshitl Gomez week 9)",
+      "Valentin Chmerkovskiy"
+    ]
+  },
+  "variance_explained": {
+    "fan_icc": 0.21773037,
+    "judge_icc": 0.09486542
+  }
+}

@@ -1,0 +1,422 @@
+contestant_id,celebrity_name,season,weeks_competed,season_total_score,season_avg_weekly_score,season_avg_judge_score,score_volatility,avg_rank,weeks_ranked_first,placement,results,ballroom_partner,celebrity_industry,celebrity_age_during_season,is_withdrew,industry_code,voting_method,is_controversy_case
+Sugar Ray Leonard_S12,Sugar Ray Leonard,12,4,75.0,18.75,6.25,2.0615528128088303,9.0,0,9,Eliminated Week 4,Anna Trebunskaya,Athlete,54,false,2,percentage,false
+Xochitl Gomez_S32,Xochitl Gomez,32,11,349.0,31.727272727272727,9.121212121212121,7.603826787755086,2.0,5,1,1st Place,Valentin Chmerkovskiy,Actor/Actress,17,false,0,rank_v2,false
+Vanilla Ice_S23,Vanilla Ice,23,4,97.0,24.25,6.541666666666667,1.5000000000000004,8.0,0,10,Eliminated Week 4,Witney Carson,Singer/Rapper,48,false,21,percentage,false
+Billy Dee Williams_S18,Billy Dee Williams,18,2,30.0,15.0,5.0,0.0,11.5,0,10,Withdrew,Emma Slater,Actor/Actress,76,true,0,percentage,false
+Donny Osmond_S9,Donny Osmond,9,10,264.6662,26.46662,8.822206666666666,3.15520052851021,3.5,2,1,1st Place,Kym Johnson,Singer/Rapper,51,false,21,percentage,false
+The Situation_S11,The Situation,11,4,67.0,16.75,5.583333333333334,2.753785273643051,9.0,0,9,Eliminated Week 4,Karina Smirnoff,TV Personality,28,false,25,percentage,false
+Pamela Anderson_S15,Pamela Anderson,15,1,17.0,17.0,5.666666666666667,,13.0,0,13,Eliminated Week 1,Tristan MacManus,Model,45,false,13,percentage,false
+Justina Machado_S29,Justina Machado,29,11,275.9996,25.090872727272725,8.363624242424242,3.645643478205435,4.454545454545454,1,4,4th Place,Sasha Farber,Actor/Actress,48,false,0,rank_v2,false
+Johnny Weir_S29,Johnny Weir,29,10,250.5,25.05,8.35,4.60947092649712,4.1,1,6,Eliminated Week 10,Britt Stewart,Athlete,36,false,2,rank_v2,false
+Wayne Newton_S5,Wayne Newton,5,3,52.0,17.333333333333332,5.777777777777778,2.081665999466133,10.333333333333334,0,10,Eliminated Week 3,Cheryl Burke,Singer/Rapper,65,false,21,percentage,false
+Maureen McCormick_S23,Maureen McCormick,23,7,188.0,26.857142857142858,7.285714285714286,4.017817460121495,7.428571428571429,0,8,Eliminated Week 7,Artem Chigvintsev,Actor/Actress,60,false,0,percentage,false
+Cloris Leachman_S7,Cloris Leachman,7,6,105.0,17.5,5.833333333333333,3.146426544510455,8.833333333333334,0,7,Eliminated Week 6,Corky Ballas,Actor/Actress,82,false,0,percentage,false
+Robert Herjavec_S20,Robert Herjavec,20,8,238.5,29.8125,7.453125,3.272586351583626,6.5,0,6,Eliminated Week 8,Kym Johnson,Entrepreneur,52,false,7,percentage,false
+David Alan Grier_S8,David Alan Grier,8,5,104.0,20.8,6.933333333333333,2.7748873851023212,6.8,0,9,Eliminated Week 5,Kym Johnson,Actor/Actress,52,false,0,percentage,false
+Sherri Sheperd_S14,Sherri Sheperd,14,4,91.0,22.75,7.583333333333334,1.2583057392117916,6.5,0,10,Eliminated Week 4,Valentin Chmerkovskiy,Actor/Actress,44,false,0,percentage,false
+Chaz Bono_S13,Chaz Bono,13,6,113.0,18.833333333333332,6.277777777777778,1.834847859269718,8.166666666666666,0,7,Eliminated Week 6,Lacey Schwimmer,TV Personality,42,false,25,percentage,false
+Danelle Umstead_S27,Danelle Umstead,27,2,36.5,18.25,6.083333333333334,0.3535533905932738,10.5,0,12,Eliminated Week 2,Artem Chigvintsev,Athlete,46,false,2,percentage,false
+Pamela Anderson_S10,Pamela Anderson,10,7,163.9998,23.428542857142855,7.809514285714286,3.3469303642079473,4.0,0,6,Eliminated Week 7,Damian Whitewood,Model,42,false,13,percentage,false
+Adrian Peterson_S32,Adrian Peterson,32,4,76.0,19.0,5.875,3.1622776601683795,8.5,0,11,Eliminated Week 4,Britt Stewart,Athlete,38,false,2,rank_v2,false
+Carlos PenaVega_S21,Carlos PenaVega,21,11,323.9998,29.454527272727272,8.999993939393939,5.377987119562654,3.5454545454545454,2,4,Eliminated Week 11,Witney Carson,Actor/Actress,26,false,0,percentage,false
+Chrishell Stause_S29,Chrishell Stause,29,8,171.0,21.375,7.125,4.596194077712558,8.0,0,8,Eliminated Week 8,Gleb Savchenko,Actor/Actress,39,false,0,rank_v2,false
+Redfoo_S20,Redfoo,20,2,53.0,26.5,6.625,6.363961030678928,8.5,0,12,Eliminated Week 2,Emma Slater,Singer/Rapper,39,false,21,percentage,false
+Von Miller_S22,Von Miller,22,7,172.0,24.571428571428573,7.464285714285714,4.68533680244878,6.571428571428571,0,7,Eliminated Week 7,Witney Carson,Athlete,27,false,2,percentage,false
+Joey McIntyre_S1,Joey McIntyre,1,5,105.5,21.1,7.033333333333333,1.1401754250991376,3.2,0,3,3rd Place,Ashly DelGrosso,Singer/Rapper,32,false,21,rank_v1,false
+Joseph Baena_S31,Joseph Baena,31,5,139.0,27.8,6.95,4.764451699828639,10.0,0,11,Eliminated Week 5,Daniella Karagach,Actor/Actress,24,false,0,rank_v2,false
+Alix Earle_S34,Alix Earle,34,11,331.5,30.136363636363637,8.791666666666666,9.203507236621563,3.6363636363636362,2,2,2nd Place,Val Chmerkovskiy (Joey Graziadei week 9),Social media personality,24,false,23,rank_v2,false
+Mike Catherwood_S12,Mike Catherwood,12,2,30.0,15.0,5.0,2.8284271247461903,10.0,0,11,Eliminated Week 2,Lacey Schwimmer,Radio Personality,32,false,20,percentage,false
+Tom DeLay_S9,Tom DeLay,9,3,52.9999,17.666633333333333,5.888877777777778,2.5165651200263683,12.666666666666666,0,13,Withdrew,Cheryl Burke,Politician,62,true,17,percentage,false
+Shannon Elizabeth_S6,Shannon Elizabeth,6,7,169.5,24.214285714285715,8.071428571428571,2.1574897229794407,4.714285714285714,0,6,Eliminated Week 7,Derek Hough,Actor/Actress,34,false,0,percentage,false
+Mary Wilson_S28,Mary Wilson,28,2,32.0,16.0,5.333333333333334,1.4142135623730951,8.5,0,12,Eliminated Week 2,Brandon Armstrong,Singer/Rapper,75,false,21,rank_v2,false
+Melanie C_S30,Melanie C,30,5,148.0,29.6,7.766666666666666,5.412947441089743,4.4,0,11,Eliminated Week 5,Gleb Savchenko,Singer/Rapper,47,false,21,rank_v2,false
+Jeannie Mai_S29,Jeannie Mai,29,7,153.0,21.857142857142858,7.285714285714286,3.023715784073817,7.857142857142857,0,9,Withdrew,Brandon Armstrong,TV Personality,41,true,25,rank_v2,false
+Dorothy Hamill_S16,Dorothy Hamill,16,2,36.0,18.0,6.0,4.242640687119285,7.0,0,12,Withdrew,Tristan MacManus,Athlete,56,true,2,percentage,false
+Normani_S24,Normani,24,10,358.83320000000003,35.883320000000005,8.970830000000001,4.585291460698608,2.4,5,3,3rd Place,Valentin Chmerkovskiy,Singer/Rapper,20,false,21,percentage,false
+Sailor Brinkley-Cook_S28,Sailor Brinkley-Cook,28,6,141.0,23.5,7.402777777777779,5.089204259999788,4.666666666666667,0,9,Eliminated Week 6,Valentin Chmerkovskiy,Model,21,false,13,rank_v2,false
+Debbie Gibson_S25,Debbie Gibson,25,2,37.5,18.75,6.25,2.4748737341529163,9.0,0,12,Eliminated Week 2,Alan Bersten,Singer/Rapper,47,false,21,percentage,false
+Karamo Brown_S28,Karamo Brown,28,7,150.5,21.5,6.833333333333334,4.481443219916251,6.571428571428571,0,8,Eliminated Week 7,Jenna Johnson,TV Personality,38,false,25,rank_v2,false
+Baron Davis_S34,Baron Davis,34,2,28.0,14.0,5.5,5.656854249492381,10.0,0,13,Eliminated Week 2,Britt Stewart,Athlete,46,false,2,rank_v2,false
+Trevor Donovan_S31,Trevor Donovan,31,9,286.5,31.833333333333332,7.958333333333333,5.958187643906494,7.0,0,6,Eliminated Week 9,Emma Slater,Actor/Actress,39,false,0,rank_v2,false
+Hilaria Baldwin_S34,Hilaria Baldwin,34,4,80.0,20.0,7.25,4.08248290463863,5.5,0,11,Eliminated Week 4,Gleb Savchenko,Entrepreneur,41,false,7,rank_v2,false
+Selma Blair_S31,Selma Blair,31,5,156.0,31.2,7.8,5.215361924162119,6.4,0,12,Withdrew,Sasha Farber,Actor/Actress,50,true,0,rank_v2,false
+Monica Aldama_S29,Monica Aldama,29,7,155.0,22.142857142857142,7.3809523809523805,3.8913824205360674,6.571428571428571,0,10,Eliminated Week 7,Valentin Chmerkovskiy,TV Personality,48,false,25,rank_v2,false
+Corbin Bleu_S17,Corbin Bleu,17,11,313.6663,28.51511818181818,9.220948484848485,3.5122396674538545,2.090909090909091,5,2,2nd Place,Karina Smirnoff,Actor/Actress,24,false,0,percentage,false
+Jordin Sparks_S31,Jordin Sparks,31,7,220.0,31.428571428571427,7.857142857142857,3.9626229889280347,7.714285714285714,0,9,Eliminated Week 7,Brandon Armstrong,Singer/Rapper,32,false,21,rank_v2,false
+Harry Jowsey_S32,Harry Jowsey,32,9,209.0,23.22222222222222,6.416666666666667,7.120003121097943,8.777777777777779,0,6,Eliminated Week 9,Rylee Arnold,TV Personality,26,false,25,rank_v2,false
+Steve Wozniak_S8,Steve Wozniak,8,4,52.0,13.0,4.333333333333333,2.9439202887759492,12.0,0,10,Eliminated Week 4,Karina Smirnoff,Entrepreneur,58,false,7,percentage,false
+Betsey Johnson_S19,Betsey Johnson,19,4,106.0,26.5,6.625,4.358898943540673,9.0,0,10,Eliminated Week 4,Tony Dovolani,Fashion Designer,72,false,8,percentage,false
+Barbara Corcoran_S25,Barbara Corcoran,25,2,31.0,15.5,5.166666666666667,2.1213203435596424,13.0,0,13,Eliminated Week 2,Keo Motsepe,Entrepreneur,68,false,7,percentage,false
+Cody Simpson_S18,Cody Simpson,18,5,144.0,28.8,7.933333333333333,6.3796551630946325,6.8,0,9,Eliminated Week 5,Witney Carson,Singer/Rapper,17,false,21,percentage,false
+Donald Driver_S14,Donald Driver,14,10,271.1665,27.11665,9.038883333333334,3.411146489329748,3.8,1,1,1st Place,Peta Murgatroyd,Athlete,37,false,2,percentage,false
+Kellie Pickler_S16,Kellie Pickler,16,10,267.5,26.75,8.916666666666666,2.5522321385189257,2.3,3,1,1st Place,Derek Hough,Singer/Rapper,26,false,21,percentage,false
+Brian Austin Green_S30,Brian Austin Green,30,4,92.0,23.0,6.145833333333333,2.943920288775949,12.25,0,13,Eliminated Week 4,Sharna Burgess,Actor/Actress,48,false,0,rank_v2,false
+Gavin DeGraw_S14,Gavin DeGraw,14,5,107.0,21.4,7.133333333333333,2.0736441353327715,9.0,0,9,Eliminated Week 5,Karina Smirnoff,Singer/Rapper,35,false,21,percentage,false
+Nick Carter_S21,Nick Carter,21,11,328.0,29.818181818181817,9.106060606060607,5.254867873090281,3.1818181818181817,3,2,2nd Place,Sharna Burgess,Singer/Rapper,35,false,21,percentage,false
+Margaret Cho_S11,Margaret Cho,11,3,51.0,17.0,5.666666666666667,1.7320508075688772,10.0,0,10,Eliminated Week 3,Louis van Amstel,Comedian,41,false,4,percentage,false
+Willow Shields_S20,Willow Shields,20,7,237.5,33.92857142857143,8.482142857142858,4.919591543246346,3.5714285714285716,1,7,Eliminated Week 7,Mark Ballas,Actor/Actress,14,false,0,percentage,false
+Nikki Bella_S25,Nikki Bella,25,7,171.5,24.5,7.738095238095239,5.722761571129798,5.857142857142857,0,8,Eliminated Week 7,Artem Chigvintsev,Athlete,33,false,2,percentage,false
+Tyson Beckford_S32,Tyson Beckford,32,3,50.0,16.666666666666668,5.0,4.163331998932265,11.333333333333334,0,12,Eliminated Week 3,Jenna Johnson,Model,52,false,13,rank_v2,false
+Bristol Palin_S15,Bristol Palin,15,4,92.0,23.0,7.0,6.284902544988268,10.5,0,9,Eliminated Week 4,Mark Ballas,TV Personality,21,false,25,percentage,false
+Maurice Greene_S7,Maurice Greene,7,8,179.5,22.4375,7.479166666666667,2.94518371971209,5.125,0,5,Eliminated Week 8,Cheryl Burke,Athlete,34,false,2,percentage,false
+Wanya Morris_S22,Wanya Morris,22,9,247.5,27.5,8.564814814814815,3.905124837953327,2.888888888888889,2,4,Eliminated Week 9,Lindsay Arnold,Singer/Rapper,42,false,21,percentage,false
+Mauricio Umansky_S32,Mauricio Umansky,32,6,126.0,21.0,6.222222222222221,7.456540752922899,8.833333333333334,0,9,Eliminated Week 6,Emma Slater,TV Personality,53,false,25,rank_v2,false
+Kaitlyn Bristowe_S29,Kaitlyn Bristowe,29,11,286.0,26.0,8.666666666666666,3.4641016151377544,2.909090909090909,2,1,1st Place,Artem Chigvintsev,TV Personality,35,false,25,rank_v2,false
+Jenn Tran_S33,Jenn Tran,33,6,157.5,26.25,7.875,6.064239441183041,6.0,0,7,Eliminated Week 6,Sasha Farber,TV Personality,26,false,25,rank_v2,false
+Jerry Rice_S2,Jerry Rice,2,8,180.16660000000002,22.520825000000002,7.506941666666666,2.3560586372462926,4.625,0,2,2nd Place,Anna Trebunskaya,Athlete,43,false,2,rank_v1,true
+Nicole Scherzinger_S10,Nicole Scherzinger,10,10,280.7776,28.07776,9.359253333333333,3.559693356393996,1.4,7,1,1st Place,Derek Hough,Singer/Rapper,31,false,21,percentage,false
+Laurie Hernandez_S23,Laurie Hernandez,23,11,362.83320000000003,32.98483636363637,9.140148484848485,4.45372757300505,2.3636363636363638,4,1,1st Place,Valentin Chmerkovskiy,Athlete,16,false,2,percentage,false
+Jordan Fisher_S25,Jordan Fisher,25,10,295.0,29.5,9.175,5.9113826169894,1.6,6,1,1st Place,Lindsay Arnold,Actor/Actress,23,false,0,percentage,false
+Lisa Rinna_S2,Lisa Rinna,2,7,168.5,24.071428571428573,8.023809523809524,3.2201005603936688,4.285714285714286,0,4,Eliminated Week 7,Louis van Amstel,Actor/Actress,42,false,0,rank_v1,false
+Jimmie Allen_S30,Jimmie Allen,30,8,243.5,30.4375,7.817708333333334,6.821381824821126,7.5,0,7,Eliminated Week 8,Emma Slater,Singer/Rapper,36,false,21,rank_v2,false
+Eric Roberts_S33,Eric Roberts,33,3,53.0,17.666666666666668,5.25,4.618802153517006,12.0,0,10,Eliminated Week 3,Britt Stewart,Actor/Actress,68,false,0,rank_v2,false
+Ted McGinley_S7,Ted McGinley,7,1,18.5,18.5,6.166666666666667,,8.0,0,12,Eliminated Week 1,Inna Brayer,Actor/Actress,50,false,0,percentage,false
+Sean Avery_S18,Sean Avery,18,2,41.0,20.5,6.833333333333334,0.7071067811865476,9.5,0,11,Eliminated Week 2,Karina Smirnoff,Athlete,33,false,2,percentage,false
+Drew Lachey_S2,Drew Lachey,2,8,219.4998,27.437475,9.145825,1.761416841839059,1.375,5,1,1st Place,Cheryl Burke,Singer/Rapper,29,false,21,rank_v1,false
+JoJo Siwa_S30,JoJo Siwa,30,10,359.0,35.9,9.175,5.933895104491747,1.9,4,2,2nd Place,Jenna Johnson,Social Media Personality,18,false,22,rank_v2,false
+Nick Lachey_S25,Nick Lachey,25,6,128.0,21.333333333333332,6.75,2.804757862395018,9.666666666666666,0,9,Eliminated Week 6,Peta Murgatroyd,Singer/Rapper,43,false,21,percentage,false
+Kyle Massey_S11,Kyle Massey,11,10,255.8331,25.58331,8.248603333333332,4.6102580873646435,3.9,0,2,2nd Place,Lacey Schwimmer,Actor/Actress,19,false,0,percentage,false
+Cristian de la Fuente_S6,Cristian de la Fuente,6,10,247.5,24.75,8.25,2.8987545218210142,4.2,1,3,3rd Place,Cheryl Burke,Actor/Actress,34,false,0,percentage,false
+John O'Hurley_S1,John O'Hurley,1,6,145.0,24.166666666666668,8.055555555555555,3.060501048303474,1.8333333333333333,2,2,2nd Place,Charlotte Jorgensen,Actor/Actress,50,false,0,rank_v1,false
+Erika Jayne_S24,Erika Jayne,24,5,140.0,28.0,7.0,3.1622776601683795,7.2,0,9,Eliminated Week 5,Gleb Savchenko,Singer/Rapper,45,false,21,percentage,false
+Sara Evans_S3,Sara Evans,3,5,105.0,21.0,7.0,3.9370039370059056,7.2,0,6,Withdrew,Tony Dovolani,Singer/Rapper,35,true,21,percentage,false
+Danielle Fishel_S34,Danielle Fishel,34,8,210.0,26.25,7.572916666666666,9.300537618869138,7.625,0,8,Eliminated Week 8,Pasha Pashkov,Actor/Actress,44,false,0,rank_v2,false
+Cheryl Ladd_S31,Cheryl Ladd,31,3,66.0,22.0,5.5,1.7320508075688772,12.666666666666666,0,14,Eliminated Week 3,Louis van Amstel,Actor/Actress,71,false,0,rank_v2,false
+Helio Castroneves_S15,Helio Castroneves,15,3,70.0,23.333333333333332,7.777777777777779,2.0207259421636907,6.333333333333333,0,10,Eliminated Week 3,Chelsie Hightower,Racing Driver,37,false,19,percentage,false
+Leah Remini_S17,Leah Remini,17,10,256.9999,25.699990000000003,8.29583,3.392795307854574,6.0,0,5,Eliminated Week 10,Tony Dovolani,Actor/Actress,43,false,0,percentage,false
+Vivica A. Fox_S3,Vivica A. Fox,3,4,97.0,24.25,8.083333333333332,2.0615528128088303,3.25,0,8,Eliminated Week 4,Nick Kosovich,Actor/Actress,42,false,0,percentage,false
+Heather Morris_S24,Heather Morris,24,6,197.0,32.833333333333336,8.208333333333334,3.311595788538611,3.3333333333333335,1,8,Eliminated Week 6,Maksim Chmerkoskiy,Actor/Actress,30,false,0,percentage,false
+Louie Vito_S9,Louie Vito,9,6,127.9998,21.333299999999998,7.1111,3.88152203909755,8.666666666666666,0,8,Eliminated Week 6,Chelsie Hightower,Athlete,21,false,2,percentage,false
+Shannen Doherty_S10,Shannen Doherty,10,2,38.0,19.0,6.333333333333334,1.4142135623730951,7.0,0,11,Eliminated Week 2,Mark Ballas,Actor/Actress,38,false,0,percentage,false
+Nev Schulman_S29,Nev Schulman,29,11,289.9998,26.363618181818183,8.787872727272728,3.748925179786383,2.5454545454545454,5,2,2nd Place,Jenna Johnson,Producer,35,false,18,rank_v2,false
+Dwight Howard _S33,Dwight Howard ,33,7,178.0,25.428571428571427,7.821428571428571,3.4572215654165057,5.571428571428571,0,6,Eliminated Week 7,Daniella Karagach,Athlete,38,false,2,rank_v2,false
+Chelsea Kane_S12,Chelsea Kane,12,10,267.6666,26.76666,8.655553333333334,5.354813826040599,2.5,5,3,3rd Place,Mark Ballas,Actor/Actress,22,false,0,percentage,false
+Jen Affleck_S34,Jen Affleck,34,7,171.0,24.428571428571427,7.297619047619047,7.764387566686397,6.714285714285714,1,9,Eliminated Week 7,Jan Ravnik,TV Personality,26,false,25,rank_v2,false
+Jesse Metcalfe_S29,Jesse Metcalfe,29,5,98.0,19.6,6.533333333333333,1.1401754250991385,9.0,0,12,Eliminated Week 5,Sharna Burgess,Actor/Actress,41,false,0,rank_v2,false
+Penn Jillette_S6,Penn Jillette,6,2,33.0,16.5,5.5,0.7071067811865476,10.0,0,12,Eliminated Week 2,Kym Johnson,Magician,53,false,11,percentage,false
+Mira Sorvino_S32,Mira Sorvino,32,5,104.0,20.8,6.5,3.5637059362410928,7.2,0,10,Eliminated Week 5,Gleb Savchenko,Actor/Actress,55,false,0,rank_v2,false
+Andy Richter_S34,Andy Richter,34,9,204.0,22.666666666666668,6.398148148148148,7.937253933193772,10.333333333333334,0,7,Eliminated Week 9,Emma Slater/Kaitlyn Bristowe (week 9),Comedian,59,false,4,rank_v2,false
+Adam Rippon_S26,Adam Rippon,26,4,131.0,32.75,9.291666666666666,7.675719293112969,1.5,2,1,1st Place,Jenna Johnson,Athlete,28,false,2,percentage,false
+Rick Perry_S23,Rick Perry,23,3,65.0,21.666666666666668,5.416666666666667,1.5275252316519463,12.666666666666666,0,12,Eliminated Week 3,Emma Slater,Politician,66,false,17,percentage,false
+Steve Guttenberg_S6,Steve Guttenberg,6,3,55.0,18.333333333333332,6.111111111111111,2.5166114784235836,9.666666666666666,0,10,Eliminated Week 3,Anna Trebunskaya,Actor/Actress,49,false,0,percentage,false
+Carole Baskin_S29,Carole Baskin,29,3,39.0,13.0,4.333333333333333,2.6457513110645907,13.666666666666666,0,14,Eliminated Week 3,Pasha Pashkov,TV Personality,59,false,25,rank_v2,false
+Alexa PenaVega_S21,Alexa PenaVega,21,9,256.4998,28.499977777777776,8.518511111111112,6.373780275820971,4.111111111111111,2,6,Eliminated Week 9,Mark Ballas,Actor/Actress,27,false,0,percentage,false
+Janel Parrish_S19,Janel Parrish,19,11,397.9998,36.1818,9.04545,4.07596904306203,3.1818181818181817,2,3,3rd Place,Valentin Chmerkovskiy,Actor/Actress,25,false,0,percentage,false
+Elizabeth Berkley Lauren_S17,Elizabeth Berkley Lauren,17,9,238.9998,26.555533333333333,8.851844444444446,2.4036442249218166,3.888888888888889,0,6,Eliminated Week 9,Valentin Chmerkovskiy,Actor/Actress,39,false,0,percentage,false
+Kurt Warner_S11,Kurt Warner,11,8,184.9999,23.1249875,7.343745833333333,5.3835095431558395,5.125,0,5,Eliminated Week 8,Anna Trebunskaya,Athlete,39,false,2,percentage,false
+Stephen Nedoroscik_S33,Stephen Nedoroscik,33,9,242.0,26.88888888888889,8.37037037037037,4.021642837337884,4.0,0,4,4th Place,Rylee Arnold,Athlete,26,false,2,rank_v2,false
+Mark Cuban_S5,Mark Cuban,5,5,102.0,20.4,6.8,1.51657508881031,8.0,0,8,Eliminated Week 5,Kym Johnson,TV Personality,49,false,25,percentage,false
+Melissa Rycroft_S8,Melissa Rycroft,8,11,293.5,26.681818181818183,8.893939393939393,2.2053653583105826,2.5454545454545454,2,3,3rd Place,Tony Dovolani,TV Personality,26,false,25,percentage,false
+Frankie Muniz_S25,Frankie Muniz,25,10,268.8887,26.888869999999997,8.380550833333334,5.683481805695051,3.8,1,3,3rd Place,Witney Carson,Actor/Actress,31,false,0,percentage,false
+Elaine Hendrix_S34,Elaine Hendrix,34,11,306.9998,27.909072727272726,8.1856,7.806463056863961,5.7272727272727275,0,5,5th Place,Alan Bersten (Rashad Jennings week 9),Actor/Actress,55,false,0,rank_v2,false
+Hope Solo_S13,Hope Solo,13,9,207.4998,23.055533333333333,7.685177777777778,2.4295484271773637,4.444444444444445,0,4,Eliminated Week 9,Maksim Chmerkoskiy,Athlete,30,false,2,percentage,false
+Michael Waltrip_S19,Michael Waltrip,19,8,205.0,25.625,6.40625,3.067688753070345,9.0,0,7,Eliminated Week 8,Emma Slater,Racing Driver,51,false,19,percentage,false
+Lauren Jauregui_S34,Lauren Jauregui,34,3,52.0,17.333333333333332,6.5,4.041451884327381,7.0,0,12,Eliminated Week 3,Brandon Armstrong,Singer/Rapper,29,false,21,rank_v2,false
+Leeza Gibbons_S4,Leeza Gibbons,4,4,76.0,19.0,6.333333333333333,4.242640687119285,6.0,1,9,Eliminated Week 4,Tony Dovolani,TV Personality,50,false,25,percentage,false
+Robert Irwin_S34,Robert Irwin,34,11,332.1666,30.196963636363638,8.838381818181817,8.982952822682831,3.272727272727273,1,1,1st Place,Witney Carson (Xoshitl Gomez week 9),Conservationist,22,false,6,rank_v2,false
+Jamie Anderson_S26,Jamie Anderson,26,1,19.0,19.0,6.333333333333333,,8.0,0,10,Eliminated Week 1,Artem Chigvintsev,Athlete,27,false,2,percentage,false
+Erin Andrews_S10,Erin Andrews,10,10,249.4998,24.94998,8.31666,4.212734398833033,3.2,0,3,3rd Place,Maksim Chmerkoskiy,Sports Broadcaster,32,false,24,percentage,false
+David Hasselhoff_S11,David Hasselhoff,11,1,15.0,15.0,5.0,,12.0,0,12,Eliminated Week 1,Kym Johnson,Actor/Actress,58,false,0,percentage,false
+Jennie Garth_S5,Jennie Garth,5,9,227.5,25.27777777777778,8.425925925925926,2.705447180124654,4.444444444444445,0,4,Eliminated Week 9,Derek Hough,Actor/Actress,35,false,0,percentage,false
+Olivia Jade_S30,Olivia Jade,30,8,261.0,32.625,8.40625,6.457277179386724,4.25,2,8,Eliminated Week 8,Valentin Chmerkovskiy,Social Media Personality,21,false,22,rank_v2,false
+Calvin Johnson Jr._S23,Calvin Johnson Jr.,23,11,340.3331,30.939372727272726,8.530297727272727,5.654501952266161,4.454545454545454,1,3,3rd Place,Lindsay Arnold,Athlete,30,false,2,percentage,false
+Bethany Mota_S19,Bethany Mota,19,11,396.5,36.04545454545455,9.011363636363637,3.0533141457647743,2.909090909090909,2,4,Eliminated Week 11,Derek Hough,Social Media Personality,18,false,22,percentage,false
+Drew Carey_S18,Drew Carey,18,6,165.0,27.5,7.458333333333333,5.319774431308154,7.5,0,8,Eliminated Week 6,Cheryl Burke,Comedian,55,false,4,percentage,false
+Gary Busey_S21,Gary Busey,21,4,72.5,18.125,5.520833333333333,4.62556302879264,10.5,0,10,Eliminated Week 4,Anna Trebunskaya,Actor/Actress,71,false,0,percentage,false
+Natalie Coughlin_S9,Natalie Coughlin,9,5,119.9998,23.999959999999998,7.999986666666667,2.5494509228459368,5.8,0,10,Eliminated Week 5,Alec Mazo,Athlete,27,false,2,percentage,false
+Apolo Anton Ohno_S15,Apolo Anton Ohno,15,9,255.6387,28.4043,9.148655555555555,3.974091277889827,4.111111111111111,0,5,Eliminated Week 9,Karina Smirnoff,Athlete,30,false,2,percentage,false
+William Levy_S14,William Levy,14,10,277.6666,27.76666,9.255553333333333,3.8258344043271566,2.9,2,3,3rd Place,Cheryl Burke,Actor/Actress,31,false,0,percentage,false
+Nikki Glaser_S27,Nikki Glaser,27,1,17.5,17.5,5.833333333333333,,12.0,0,13,Eliminated Week 1,Gleb Savchenko,Comedian,34,false,4,percentage,false
+Ingo Rademacher_S16,Ingo Rademacher,16,9,202.5,22.5,7.5,2.091650066335189,5.555555555555555,0,5,Eliminated Week 9,Kym Johnson,Actor/Actress,41,false,0,percentage,false
+Christine Chiu_S30,Christine Chiu,30,3,70.0,23.333333333333332,6.416666666666667,2.081665999466132,8.666666666666666,0,14,Eliminated Week 3,Pasha Pashkov,TV Personality,38,false,25,rank_v2,false
+Joey Graziadei_S33,Joey Graziadei,33,9,258.0,28.666666666666668,8.898148148148147,5.2141634036535525,2.3333333333333335,2,1,1st Place,Jenna Johnson,TV Personality,29,false,25,rank_v2,false
+Matt James_S30,Matt James,30,4,94.5,23.625,6.322916666666667,3.637192140465866,11.75,0,12,Eliminated Week 4,Lindsay Arnold,Athlete,29,false,2,rank_v2,false
+Clyde Drexler_S4,Clyde Drexler,4,5,78.0,15.6,5.2,1.8165902124584952,9.4,0,8,Eliminated Week 5,Elena Grinenko,Athlete,44,false,2,percentage,false
+Ryan Lochte_S23,Ryan Lochte,23,8,208.0,26.0,7.25,3.664501525251616,8.125,0,7,Eliminated Week 8,Cheryl Burke,Athlete,32,false,2,percentage,false
+Lance Bass_S7,Lance Bass,7,10,243.5,24.35,8.116666666666667,3.009706519468855,3.5,3,3,3rd Place,Lacey Schwimmer,Singer/Rapper,29,false,21,percentage,false
+Bill Engvall_S17,Bill Engvall,17,11,257.4998,23.409072727272726,7.575751515151516,3.1370137800433424,7.181818181818182,0,4,Eliminated Week 11,Emma Slater,Comedian,56,false,4,percentage,false
+Nick Viall_S24,Nick Viall,24,7,203.5,29.071428571428573,7.267857142857143,4.147575310031266,7.285714285714286,0,6,Eliminated Week 7,Peta Murgatroyd,TV Personality,36,false,25,percentage,false
+Victoria Arlen_S25,Victoria Arlen,25,9,228.5,25.38888888888889,8.175925925925926,3.8550111687401274,4.555555555555555,0,5,Eliminated Week 9,Valentin Chmerkovskiy,Athlete,22,false,2,percentage,false
+James Van Der Beek_S28,James Van Der Beek,28,10,265.4998,26.549979999999998,8.31666,4.821512211329552,3.1,2,5,Eliminated Week 10,Emma Slater,Actor/Actress,42,false,0,rank_v2,false
+Juan Pablo Di Pace_S27,Juan Pablo Di Pace,27,8,219.0,27.375,9.125,3.067688753070345,2.375,3,5,Eliminated Week 8,Cheryl Burke,Actor/Actress,39,false,0,percentage,false
+Kelly Monaco_S1,Kelly Monaco,1,6,128.0,21.333333333333332,7.111111111111111,5.5287129303904585,3.1666666666666665,2,1,1st Place,Alec Mazo,Actor/Actress,29,false,0,rank_v1,false
+Joey Fatone_S4,Joey Fatone,4,10,267.6665,26.76665,8.922216666666667,2.350713840162884,2.3,2,2,2nd Place,Kym Johnson,Singer/Rapper,30,false,21,percentage,false
+Brandy_S11,Brandy,11,9,248.4999,27.6111,8.865737037037038,5.504398367669257,2.3333333333333335,4,4,Eliminated Week 9,Maksim Chmerkoskiy,Singer/Rapper,31,false,21,percentage,false
+Chuck Wicks_S8,Chuck Wicks,8,8,183.5,22.9375,7.645833333333334,2.4266010914740095,5.5,0,6,Eliminated Week 8,Julianne Hough,Singer/Rapper,29,false,21,percentage,false
+Shawn Johnson_S8,Shawn Johnson,8,11,291.0,26.454545454545453,8.818181818181818,2.018099916438051,2.6363636363636362,1,1,1st Place,Mark Ballas,Athlete,17,false,2,percentage,false
+Josh Norman_S26,Josh Norman,26,4,122.0,30.5,8.71875,5.873670062235365,2.75,1,2,2nd Place,Sharna Burgess,Athlete,30,false,2,percentage,false
+Mario_S6,Mario,6,8,202.0,25.25,8.416666666666666,2.2038926600773596,3.625,0,5,Eliminated Week 8,Karina Smirnoff,Singer/Rapper,21,false,21,percentage,false
+Arike Ogunbowale_S26,Arike Ogunbowale,26,2,55.0,27.5,7.708333333333334,10.606601717798213,5.0,0,7,Eliminated Week 2,Gleb Savchenko,Athlete,21,false,2,percentage,false
+Evander Holyfield_S1,Evander Holyfield,1,3,45.0,15.0,5.0,2.6457513110645907,5.0,0,5,Eliminated Week 3,Edyta Sliwinska,Athlete,42,false,2,rank_v1,false
+Susan Lucci_S7,Susan Lucci,7,7,153.5,21.928571428571427,7.30952380952381,1.966989481173607,5.285714285714286,0,6,Eliminated Week 7,Tony Dovolani,Actor/Actress,61,false,0,percentage,false
+Vanessa Lachey_S25,Vanessa Lachey,25,7,178.5,25.5,8.071428571428571,4.958158260214505,5.142857142857143,0,7,Eliminated Week 7,Maksim Chmerkoskiy,TV Personality,36,false,25,percentage,false
+Romeo_S12,Romeo,12,8,195.0,24.375,7.8125,3.8149143409218813,4.125,1,5,Eliminated Week 8,Chelsie Hightower,Singer/Rapper,21,false,21,percentage,false
+Antonio Brown_S22,Antonio Brown,22,9,228.5,25.38888888888889,7.898148148148148,4.897561751638372,6.444444444444445,0,5,Eliminated Week 9,Sharna Burgess,Athlete,27,false,2,percentage,false
+Melissa Joan Hart_S9,Melissa Joan Hart,9,6,136.9999,22.833316666666665,7.6111055555555565,3.4302507199425913,7.333333333333333,0,9,Eliminated Week 6,Mark Ballas,Actor/Actress,33,false,0,percentage,false
+Hannah Brown_S28,Hannah Brown,28,11,294.4998,26.77270909090909,8.412872727272728,4.740043536815786,3.4545454545454546,1,1,1st Place,Alan Bersten,TV Personality,24,false,25,rank_v2,false
+Andy Grammer_S21,Andy Grammer,21,8,222.9998,27.874975,8.197908333333334,6.916610958255289,5.75,0,7,Eliminated Week 8,Allison Holker,Singer/Rapper,31,false,21,percentage,false
+Cody Linley_S7,Cody Linley,7,9,205.5,22.833333333333332,7.611111111111111,2.2638462845343543,4.666666666666667,0,4,Eliminated Week 9,Julianne Hough,Actor/Actress,18,false,0,percentage,false
+Amy Purdy_S18,Amy Purdy,18,10,339.1666,33.91666,9.126386666666667,5.971775280470997,2.6,0,2,2nd Place,Derek Hough,Athlete,34,false,2,percentage,false
+Ty Murray_S8,Ty Murray,8,10,218.0,21.8,7.2666666666666675,3.6453928305312844,6.4,0,4,Eliminated Week 10,Chelsie Hightower,Athlete,39,false,2,percentage,false
+Shawn Johnson_S15,Shawn Johnson,15,10,293.5274,29.35274,9.455079999999999,5.420423685203133,2.9,2,2,2nd Place,Derek Hough,Athlete,20,false,2,percentage,false
+Tinashe_S27,Tinashe,27,4,102.0,25.5,8.5,1.7320508075688776,2.75,0,10,Eliminated Week 4,Brandon Armstrong,Singer/Rapper,25,false,21,percentage,false
+Skai Jackson_S29,Skai Jackson,29,10,235.4996,23.54996,7.849986666666666,5.155595019695701,6.5,2,5,Eliminated Week 10,Alan Bersten,Actor/Actress,18,false,0,rank_v2,false
+Priscilla Presley_S6,Priscilla Presley,6,5,114.0,22.8,7.6,2.16794833886788,5.6,0,8,Eliminated Week 5,Louis van Amstel,Actor/Actress,62,false,0,percentage,false
+Tavis Smiley_S19,Tavis Smiley,19,2,57.0,28.5,7.125,0.7071067811865476,8.5,0,12,Eliminated Week 2,Sharna Burgess,Radio Personality,50,false,20,percentage,false
+Belinda Carlisle_S8,Belinda Carlisle,8,2,35.0,17.5,5.833333333333334,0.7071067811865476,10.0,0,13,Eliminated Week 2,Jonathan Roberts,Singer/Rapper,50,false,21,percentage,false
+Sadie Robertson_S19,Sadie Robertson,19,11,386.83320000000003,35.16665454545455,8.791663636363637,2.84114609140876,3.6363636363636362,1,2,2nd Place,Mark Ballas,TV Personality,17,false,25,percentage,false
+Marie Osmond_S5,Marie Osmond,5,10,242.5,24.25,8.083333333333332,2.3003622903070435,5.1,0,3,3rd Place,Jonathan Roberts,Singer/Rapper,47,false,21,percentage,false
+Chris Mazdzer_S26,Chris Mazdzer,26,3,87.0,29.0,7.833333333333333,6.928203230275509,5.0,0,5,Eliminated Week 3,Witney Carson,Athlete,29,false,2,percentage,false
+Jennifer Grey_S11,Jennifer Grey,11,10,279.0,27.9,8.995833333333334,3.9214509786273974,1.9,5,1,1st Place,Derek Hough,Actor/Actress,50,false,0,percentage,false
+Lisa Vanderpump_S16,Lisa Vanderpump,16,4,75.0,18.75,6.25,1.5,9.25,0,10,Eliminated Week 4,Gleb Savchenko,TV Personality,52,false,25,percentage,false
+Warren Sapp_S7,Warren Sapp,7,10,242.5,24.25,8.083333333333332,2.188987589427283,3.2,0,2,2nd Place,Kym Johnson,Athlete,35,false,2,percentage,false
+Martin Kove_S30,Martin Kove,30,2,28.0,14.0,3.5,1.4142135623730951,15.0,0,15,Eliminated Week 2,Britt Stewart,Actor/Actress,75,false,0,rank_v2,false
+Ralph Macchio_S12,Ralph Macchio,12,9,217.0,24.11111111111111,7.731481481481481,3.6209268304000712,4.111111111111111,1,4,Eliminated Week 9,Karina Smirnoff,Actor/Actress,49,false,0,percentage,false
+Paige VanZant_S22,Paige VanZant,22,10,277.6666,27.76666,8.69722,4.317060213772022,2.4,3,2,2nd Place,Mark Ballas,Athlete,22,false,2,percentage,false
+Kel Mitchell_S28,Kel Mitchell,28,11,290.4998,26.409072727272726,8.28029696969697,6.015876117256887,3.8181818181818183,0,2,2nd Place,Witney Carson,Actor/Actress,41,false,0,rank_v2,false
+Nastia Liukin_S20,Nastia Liukin,20,9,327.5,36.388888888888886,9.097222222222221,3.389116567943793,2.111111111111111,3,4,Eliminated Week 9,Derek Hough,Athlete,25,false,2,percentage,false
+Martina Navratilova_S14,Martina Navratilova,14,2,37.0,18.5,6.166666666666667,2.1213203435596424,11.0,0,12,Eliminated Week 2,Tony Dovolani,Athlete,55,false,2,percentage,false
+Brant Daugherty_S17,Brant Daugherty,17,8,206.5,25.8125,8.604166666666666,3.463457191057183,4.75,1,7,Eliminated Week 8,Peta Murgatroyd,Actor/Actress,28,false,0,percentage,false
+Sam Champion_S31,Sam Champion,31,4,96.0,24.0,6.0,2.70801280154532,12.0,0,13,Eliminated Week 4,Cheryl Burke,News Anchor,61,false,16,rank_v2,false
+Doug Flutie_S22,Doug Flutie,22,6,128.0,21.333333333333332,6.388888888888889,4.366539438350085,8.5,0,9,Eliminated Week 6,Karina Smirnoff,Athlete,53,false,2,percentage,false
+Alfonso Ribeiro_S19,Alfonso Ribeiro,19,11,404.0,36.72727272727273,9.181818181818182,3.2966925574250654,2.1818181818181817,5,1,1st Place,Witney Carson,Actor/Actress,42,false,0,percentage,false
+Shanna Moakler_S3,Shanna Moakler,3,2,40.0,20.0,6.666666666666666,2.8284271247461903,6.5,0,10,Eliminated Week 2,Jesse DeSoto,Model,31,false,13,percentage,false
+Bindi Irwin_S21,Bindi Irwin,21,11,333.5,30.318181818181817,9.28030303030303,4.849086136957804,2.5454545454545454,2,1,1st Place,Derek Hough,TV Personality,17,false,25,percentage,false
+Jamie Lynn Spears_S32,Jamie Lynn Spears,32,2,31.0,15.5,5.166666666666666,0.7071067811865476,9.5,0,13,Eliminated Week 2,Alan Bersten,Actor/Actress,32,false,0,rank_v2,false
+Kristin Cavallari_S13,Kristin Cavallari,13,3,65.0,21.666666666666668,7.222222222222221,2.5166114784235827,4.0,0,10,Eliminated Week 3,Mark Ballas,TV Personality,24,false,25,percentage,false
+Lamar Odom_S28,Lamar Odom,28,4,55.0,13.75,4.166666666666666,4.193248541803041,11.0,0,10,Eliminated Week 4,Peta Murgatroyd,Athlete,39,false,2,rank_v2,false
+Michael Bolton_S11,Michael Bolton,11,2,28.0,14.0,4.666666666666666,2.8284271247461903,10.0,0,11,Eliminated Week 2,Chelsie Hightower,Singer/Rapper,57,false,21,percentage,false
+Teresa Giudice_S31,Teresa Giudice,31,2,43.0,21.5,5.375,2.1213203435596424,14.0,0,15,Eliminated Week 2,Pasha Pashkov,TV Personality,50,false,25,rank_v2,false
+Ray Lewis_S28,Ray Lewis,28,2,30.0,15.0,5.0,0.0,9.5,0,11,Withdrew,Cheryl Burke,Athlete,44,true,2,rank_v2,false
+Gladys Knight_S14,Gladys Knight,14,6,132.0,22.0,7.333333333333333,2.097617696340303,8.666666666666666,0,8,Eliminated Week 6,Tristan MacManus,Singer/Rapper,67,false,21,percentage,false
+Mirai Nagasu_S26,Mirai Nagasu,26,3,95.0,31.666666666666668,8.555555555555555,7.571877794400365,2.3333333333333335,1,4,Eliminated Week 3,Alan Bersten,Athlete,25,false,2,percentage,false
+Chad Ochocinco_S10,Chad Ochocinco,10,9,199.4999,22.166655555555554,7.388885185185185,4.808823054321896,5.222222222222222,0,4,Eliminated Week 9,Cheryl Burke,Athlete,32,false,2,percentage,false
+NeNe Leakes_S18,NeNe Leakes,18,7,207.0,29.571428571428573,7.892857142857143,6.0513674172907095,7.0,0,7,Eliminated Week 7,Tony Dovolani,TV Personality,46,false,25,percentage,false
+Zendaya_S16,Zendaya,16,10,272.9998,27.299979999999998,9.099993333333334,2.097631469485949,2.1,3,2,2nd Place,Valentin Chmerkovskiy,Actor/Actress,16,false,0,percentage,false
+Hayes Grier_S21,Hayes Grier,21,7,190.5,27.214285714285715,7.976190476190476,4.081024614574371,5.571428571428571,0,8,Eliminated Week 7,Emma Slater,Social Media Personality,15,false,22,percentage,false
+Riker Lynch_S20,Riker Lynch,20,10,363.0,36.3,9.075,3.301514803843837,2.3,3,2,2nd Place,Allison Holker,Actor/Actress,23,false,0,percentage,false
+Lele Pons_S32,Lele Pons,32,7,186.5,26.642857142857142,7.684523809523809,7.341175460568774,4.142857142857143,0,8,Eliminated Week 7,Brandon Armstrong,Social Media Personality,27,false,22,rank_v2,false
+Albert Reed_S5,Albert Reed,5,2,42.0,21.0,7.0,0.0,7.5,0,11,Eliminated Week 2,Anna Trebunskaya,Model,22,false,13,percentage,false
+Jake Pavelka_S10,Jake Pavelka,10,6,127.9999,21.333316666666665,7.1111055555555565,2.2508931564307217,5.666666666666667,0,7,Eliminated Week 6,Chelsie Hightower,TV Personality,32,false,25,percentage,false
+Debi Mazar_S9,Debi Mazar,9,3,60.0,20.0,6.666666666666667,2.6457513110645907,8.333333333333334,0,12,Eliminated Week 3,Maksim Chmerkoskiy,Actor/Actress,45,false,0,percentage,false
+Wynonna Judd_S16,Wynonna Judd,16,3,51.0,17.0,5.666666666666667,1.7320508075688772,9.333333333333334,0,11,Eliminated Week 3,Tony Dovolani,Singer/Rapper,48,false,21,percentage,false
+Chris Jericho_S12,Chris Jericho,12,6,134.0,22.333333333333332,7.444444444444444,2.3380903889000244,4.833333333333333,0,7,Eliminated Week 6,Cheryl Burke,Athlete,40,false,2,percentage,false
+Amber Riley_S17,Amber Riley,17,11,313.8331,28.53028181818182,9.210851515151516,4.502957199178819,3.0,5,1,1st Place,Derek Hough,Actor/Actress,27,false,0,percentage,false
+Alyson Hannigan_S32,Alyson Hannigan,32,11,281.0,25.545454545454547,7.318181818181818,7.424468147465331,7.181818181818182,0,5,5th Place,Sasha Farber,Actor/Actress,49,false,0,rank_v2,false
+Monica Seles_S6,Monica Seles,6,2,30.0,15.0,5.0,0.0,11.5,0,11,Eliminated Week 2,Jonathan Roberts,Athlete,34,false,2,percentage,false
+Kelly Osbourne_S9,Kelly Osbourne,9,10,244.7216,24.47216,8.157386666666667,3.3584126922633497,5.2,0,3,3rd Place,Louis van Amstel,TV Personality,24,false,25,percentage,false
+Jeffrey Ross_S7,Jeffrey Ross,7,1,12.0,12.0,4.0,,13.0,0,13,Eliminated Week 1,Edyta Sliwinska,Comedian,43,false,4,percentage,false
+Laila Ali_S4,Laila Ali,4,10,262.3332,26.23332,8.74444,3.3565762982870244,2.7,4,3,3rd Place,Maksim Chmerkoskiy,Athlete,29,false,2,percentage,false
+Daniel Durant_S31,Daniel Durant,31,9,293.5,32.611111111111114,8.152777777777779,3.911343900900446,6.666666666666667,0,5,Eliminated Week 9,Britt Stewart,Actor/Actress,32,false,0,rank_v2,false
+Whitney Leavitt_S34,Whitney Leavitt,34,10,310.5,31.05,8.970833333333333,9.476432755936052,2.2,4,6,Eliminated Week 10,Mark Ballas,TV Personality,32,false,25,rank_v2,false
+Sean Spicer_S28,Sean Spicer,28,9,170.0,18.88888888888889,5.87037037037037,3.919325338768282,8.555555555555555,0,6,Eliminated Week 9,Lindsay Arnold,Politician,48,false,17,rank_v2,false
+Marilu Henner_S23,Marilu Henner,23,9,255.0,28.333333333333332,7.740740740740741,4.898979485566357,6.111111111111111,0,6,Eliminated Week 9,Derek Hough,Actor/Actress,64,false,0,percentage,false
+Holly Madison_S8,Holly Madison,8,4,69.0,17.25,5.75,0.9574271077563385,8.75,0,11,Eliminated Week 4,Dmitry Chaplin,TV Personality,30,false,25,percentage,false
+Evanna Lynch_S27,Evanna Lynch,27,9,234.5,26.055555555555557,8.685185185185185,3.924637279772206,4.111111111111111,1,3,3rd Place,Keo Motsepe,Actor/Actress,27,false,0,percentage,false
+Tommy Chong_S19,Tommy Chong,19,10,286.5,28.65,7.1625,2.828918128503859,6.9,0,5,Eliminated Week 10,Peta Murgatroyd,Comedian,76,false,4,percentage,false
+Rick Fox_S11,Rick Fox,11,7,175.0,25.0,7.922619047619047,5.361902647381804,4.0,0,6,Eliminated Week 7,Cheryl Burke,Athlete,41,false,2,percentage,false
+Lawrence Taylor_S8,Lawrence Taylor,8,7,138.0,19.714285714285715,6.571428571428571,1.8898223650461359,7.857142857142857,0,7,Eliminated Week 7,Edyta Sliwinska,Athlete,50,false,2,percentage,false
+Sasha Pieterse_S25,Sasha Pieterse,25,5,107.5,21.5,7.166666666666666,2.8284271247461903,7.8,0,10,Eliminated Week 5,Gleb Savchenko,Actor/Actress,21,false,0,percentage,false
+Nyle DiMarco_S22,Nyle DiMarco,22,10,278.4998,27.84998,8.69166,5.011370848558085,2.8,4,1,1st Place,Peta Murgatroyd,Model,26,false,13,percentage,false
+Joe Amabile_S27,Joe Amabile,27,8,150.0,18.75,6.25,3.6449573777637356,9.5,0,6,Eliminated Week 8,Jenna Johnson,TV Personality,32,false,25,percentage,false
+DeMarcus Ware_S27,DeMarcus Ware,27,7,173.0,24.714285714285715,8.238095238095237,1.8224786888818671,5.0,1,7,Eliminated Week 7,Lindsay Arnold,Athlete,36,false,2,percentage,false
+Alexandra Raisman_S16,Alexandra Raisman,16,10,264.5,26.45,8.816666666666666,3.3203915431767985,2.5,3,4,Eliminated Week 10,Mark Ballas,Athlete,18,false,2,percentage,false
+Nancy Kerrigan_S24,Nancy Kerrigan,24,7,227.5,32.5,8.125,3.329164059239696,4.0,0,7,Eliminated Week 7,Artem Chigvintsev,Athlete,47,false,2,percentage,false
+Jacoby Jones_S16,Jacoby Jones,16,10,251.9997,25.19997,8.399989999999999,2.830373356624332,3.8,1,3,3rd Place,Karina Smirnoff,Athlete,28,false,2,percentage,false
+Elisabetta Canalis_S13,Elisabetta Canalis,13,2,36.0,18.0,6.0,4.242640687119285,8.5,0,11,Eliminated Week 2,Valentin Chmerkovskiy,Actor/Actress,33,false,0,percentage,false
+Anne Heche_S29,Anne Heche,29,4,72.0,18.0,6.0,2.449489742783178,9.0,0,13,Eliminated Week 4,Keo Motsepe,Actor/Actress,51,false,0,rank_v2,false
+Kenya Moore_S30,Kenya Moore,30,6,168.5,28.083333333333332,7.3125,5.499242372060597,8.666666666666666,0,10,Eliminated Week 6,Brandon Armstrong,TV Personality,50,false,25,rank_v2,false
+Vinny Guadagnino_S31,Vinny Guadagnino,31,8,215.5,26.9375,6.734375,4.799088455113117,10.875,0,7,Eliminated Week 8,Koko Iwasaki,TV Personality,34,false,25,rank_v2,false
+Tonya Harding_S26,Tonya Harding,26,4,119.0,29.75,8.5,5.377421934967226,3.75,0,3,3rd Place,Sasha Farber,Athlete,47,false,2,percentage,false
+Alek Skarlatos_S21,Alek Skarlatos,21,11,293.9999,26.727263636363638,8.212118181818182,3.349351633457654,5.454545454545454,0,3,3rd Place,Lindsay Arnold,Military,22,false,12,percentage,false
+Matt Walsh_S32,Matt Walsh,32,1,12.0,12.0,4.0,,13.0,0,14,Eliminated Week 1,Koko Iwasaki,Comedian,58,false,4,rank_v2,false
+Joey Fatone_S15,Joey Fatone,15,2,43.0,21.5,7.166666666666666,1.4142135623730951,9.5,0,12,Eliminated Week 2,Kym Johnson,Singer/Rapper,35,false,21,percentage,false
+Sabrina Bryan_S15,Sabrina Bryan,15,6,168.75,28.125,8.881944444444445,4.521476528745892,2.8333333333333335,3,8,Eliminated Week 6,Louis van Amstel,Actor/Actress,28,false,0,percentage,false
+Rachel Hunter_S1,Rachel Hunter,1,4,95.0,23.75,7.916666666666667,2.6299556396765835,1.5,2,4,Eliminated Week 4,Jonathan Roberts,Model,35,false,13,rank_v1,false
+Floyd Mayweather Jr. _S5,Floyd Mayweather Jr. ,5,4,83.0,20.75,6.916666666666667,2.0615528128088303,9.0,0,9,Eliminated Week 4,Karina Smirnoff,Athlete,30,false,2,percentage,false
+Emmitt Smith_S15,Emmitt Smith,15,9,253.0553,28.117255555555555,9.039085185185185,4.499844849856245,5.444444444444445,1,4,Eliminated Week 9,Cheryl Burke,Athlete,43,false,2,percentage,false
+Victor Ortiz_S16,Victor Ortiz,16,6,118.0,19.666666666666668,6.555555555555556,2.065591117977289,7.666666666666667,0,8,Eliminated Week 6,Lindsay Arnold,Athlete,26,false,2,percentage,false
+Ariana Madix_S32,Ariana Madix,32,11,339.5,30.863636363636363,8.840909090909092,7.836105247796603,2.727272727272727,2,3,3rd Place,Pasha Pashkov,TV Personality,38,false,25,rank_v2,false
+Lindsey Stirling_S25,Lindsey Stirling,25,10,286.5,28.65,8.883333333333333,6.346696428501645,2.5,3,2,2nd Place,Mark Ballas,Musician,31,false,15,percentage,false
+Master P_S2,Master P,2,4,50.0,12.5,4.166666666666667,3.415650255319866,8.5,0,7,Eliminated Week 4,Ashly DelGrosso,Singer/Rapper,35,false,21,rank_v1,false
+Niecy Nash_S10,Niecy Nash,10,8,167.9998,20.999975,6.999991666666666,3.035457132789063,6.0,0,5,Eliminated Week 8,Louis van Amstel,Actor/Actress,40,false,0,percentage,false
+Tamar Braxton_S21,Tamar Braxton,21,9,256.0,28.444444444444443,8.537037037037036,5.240732561176707,4.111111111111111,2,5,Withdrew,Valentin Chmerkovskiy,Singer/Rapper,38,true,21,percentage,false
+Mark Dacascos_S9,Mark Dacascos,9,7,169.4998,24.214257142857143,8.071419047619047,4.965324044093915,5.857142857142857,0,6,Eliminated Week 7,Lacey Schwimmer,Actor/Actress,45,false,0,percentage,false
+Christina Milian_S17,Christina Milian,17,5,125.0,25.0,8.333333333333332,2.23606797749979,3.6,0,9,Eliminated Week 5,Mark Ballas,Singer/Rapper,31,false,21,percentage,false
+Kirstie Alley_S15,Kirstie Alley,15,8,201.2499,25.1562375,8.0729125,3.681354928337236,8.625,0,7,Eliminated Week 8,Maksim Chmerkoskiy,Actor/Actress,61,false,0,percentage,false
+Bill Nye_S17,Bill Nye,17,3,47.0,15.666666666666666,5.222222222222222,1.5275252316519468,11.666666666666666,0,11,Eliminated Week 3,Tyne Stecklein,TV Personality,57,false,25,percentage,false
+Kate Gosselin_S10,Kate Gosselin,10,5,77.0,15.4,5.133333333333333,0.5477225575051662,9.0,0,8,Eliminated Week 5,Tony Dovolani,TV Personality,35,false,25,percentage,false
+Kristi Yamaguchi_S6,Kristi Yamaguchi,6,10,282.0,28.2,9.4,1.2516655570345725,1.3,7,1,1st Place,Mark Ballas,Athlete,36,false,2,percentage,false
+Joanna Krupa_S9,Joanna Krupa,9,9,243.4998,27.055533333333333,9.018511111111112,5.077142952241939,2.6666666666666665,3,4,Eliminated Week 9,Derek Hough,Model,30,false,13,percentage,false
+Jordan Chiles_S34,Jordan Chiles,34,11,325.1666,29.5606,8.588381818181817,9.204549742382842,3.909090909090909,1,3,3rd Place,Ezra Sosa (Apolo Anton Ohno week 9),Athlete,24,false,2,rank_v2,false
+Simone Biles_S24,Simone Biles,24,9,316.5,35.166666666666664,8.791666666666666,3.640054944640261,2.6666666666666665,2,4,Eliminated Week 9,Sasha Farber,Athlete,20,false,2,percentage,false
+Jaleel White_S14,Jaleel White,14,7,181.4998,25.928542857142855,8.642847619047618,5.135008230716268,4.857142857142857,1,7,Eliminated Week 7,Kym Johnson,Actor/Actress,35,false,0,percentage,false
+Danny Amendola_S33,Danny Amendola,33,9,241.0,26.77777777777778,8.314814814814817,4.757304325397361,4.888888888888889,0,5,5th Place,Witney Carson,Athlete,39,false,2,rank_v2,false
+Andy Dick_S16,Andy Dick,16,7,132.5,18.928571428571427,6.30952380952381,1.880349511584026,7.714285714285714,0,7,Eliminated Week 7,Sharna Burgess,Comedian,47,false,4,percentage,false
+Jane Seymour_S5,Jane Seymour,5,7,171.0,24.428571428571427,8.142857142857142,2.2253945610567474,4.857142857142857,0,6,Eliminated Week 7,Tony Dovolani,Actor/Actress,56,false,0,percentage,false
+Chris Kattan_S24,Chris Kattan,24,2,39.0,19.5,4.875,3.5355339059327378,12.0,0,12,Eliminated Week 2,Witney Carson,Comedian,46,false,4,percentage,false
+Jana Kramer_S23,Jana Kramer,23,11,340.0,30.90909090909091,8.545454545454545,5.774158734474581,3.909090909090909,1,4,Eliminated Week 11,Gleb Savchenko,Singer/Rapper,32,false,21,percentage,false
+Emmitt Smith_S3,Emmitt Smith,3,10,257.6666,25.76666,8.588886666666667,3.255755246124416,3.1,2,1,1st Place,Cheryl Burke,Athlete,37,false,2,percentage,false
+Mel B_S5,Mel B,5,10,272.3332,27.23332,9.077773333333333,2.362509024462481,2.4,4,2,2nd Place,Maksim Chmerkoskiy,Singer/Rapper,32,false,21,percentage,false
+Ally Brooke_S28,Ally Brooke,28,11,300.5,27.318181818181817,8.56060606060606,6.325633277675553,2.727272727272727,6,3,3rd Place,Sasha Farber,Singer/Rapper,26,false,21,rank_v2,false
+Nelly_S29,Nelly,29,11,252.5,22.954545454545453,7.651515151515152,4.221697202870816,7.818181818181818,0,3,3rd Place,Daniella Karagach,Singer/Rapper,45,false,21,rank_v2,false
+Monique Coleman_S3,Monique Coleman,3,8,199.5,24.9375,8.3125,2.833946012188658,3.375,2,4,Eliminated Week 8,Louis van Amstel,Actor/Actress,25,false,0,percentage,false
+Jennie Finch Daigle_S26,Jennie Finch Daigle,26,3,81.5,27.166666666666668,7.375,5.484827557301444,6.333333333333333,0,6,Eliminated Week 3,Keo Motsepe,Athlete,37,false,2,percentage,false
+Kim Kardashian_S7,Kim Kardashian,7,2,35.5,17.75,5.916666666666667,1.0606601717798212,9.5,0,11,Eliminated Week 2,Mark Ballas,TV Personality,27,false,25,percentage,false
+Melissa Rycroft_S15,Melissa Rycroft,15,10,293.3607,29.33607,9.470356666666666,5.406697929019768,3.2,3,1,1st Place,Tony Dovolani,TV Personality,29,false,25,percentage,false
+Meryl Davis_S18,Meryl Davis,18,10,348.0,34.8,9.358333333333333,6.196773353931867,2.3,7,1,1st Place,Maksim Chmerkoskiy,Athlete,27,false,2,percentage,false
+Charo_S24,Charo,24,3,70.0,23.333333333333332,5.833333333333333,2.081665999466133,9.333333333333334,0,11,Eliminated Week 3,Keo Motsepe,Actor/Actress,66,false,0,percentage,false
+Mischa Barton_S22,Mischa Barton,22,3,49.0,16.333333333333332,5.444444444444444,1.5275252316519472,10.666666666666666,0,11,Eliminated Week 3,Artem Chigvintsev,Actor/Actress,30,false,0,percentage,false
+Mary Lou Retton_S27,Mary Lou Retton,27,6,142.0,23.666666666666668,7.888888888888889,2.0655911179772892,5.5,0,9,Eliminated Week 6,Sasha Farber,Athlete,50,false,2,percentage,false
+Harry Hamlin_S3,Harry Hamlin,3,3,60.0,20.0,6.666666666666667,2.6457513110645907,6.666666666666667,0,9,Eliminated Week 3,Ashly DelGrosso,Actor/Actress,54,false,0,percentage,false
+Terra Jole_S23,Terra Jole,23,10,294.5,29.45,8.245833333333334,4.437529342625992,4.0,1,5,Eliminated Week 10,Sasha Farber,TV Personality,36,false,25,percentage,false
+Chaka Khan_S21,Chaka Khan,21,2,28.0,14.0,4.666666666666666,1.4142135623730951,12.5,0,13,Eliminated Week 2,Keo Motsepe,Singer/Rapper,62,false,21,percentage,false
+Jack Wagner_S14,Jack Wagner,14,3,68.0,22.666666666666668,7.555555555555556,1.5275252316519463,8.0,0,11,Eliminated Week 3,Anna Trebunskaya,Actor/Actress,52,false,0,percentage,false
+Jack Osbourne_S17,Jack Osbourne,17,11,295.9997,26.909063636363637,8.700748484848486,3.7869359171427037,4.545454545454546,0,3,3rd Place,Cheryl Burke,TV Personality,27,false,25,percentage,false
+Maria Menounos_S14,Maria Menounos,14,9,240.4999,26.72221111111111,8.907403703703704,2.6938564366185345,3.7777777777777777,2,4,Eliminated Week 9,Derek Hough,TV Personality,33,false,25,percentage,false
+Toni Braxton_S7,Toni Braxton,7,5,111.5,22.3,7.433333333333333,0.44721359549995804,4.2,0,8,Eliminated Week 5,Alec Mazo,Singer/Rapper,40,false,21,percentage,false
+Roshon Fegan_S14,Roshon Fegan,14,8,207.9998,25.999975,8.666658333333334,1.6035318178053988,4.25,1,6,Eliminated Week 8,Chelsie Hightower,Actor/Actress,20,false,0,percentage,false
+Scott Hoying_S34,Scott Hoying,34,6,129.0,21.5,6.638888888888889,7.20416546173115,9.333333333333334,0,10,Eliminated Week 6,Rylee Arnold,Singer/Rapper,34,false,21,rank_v2,false
+Josie Maran_S5,Josie Maran,5,1,16.0,16.0,5.333333333333333,,12.0,0,12,Eliminated Week 1,Alec Mazo,Model,29,false,13,percentage,false
+Bonner Bolton_S24,Bonner Bolton,24,8,227.5,28.4375,7.109375,3.6394416761758555,6.875,0,5,Eliminated Week 8,Sharna Burgess,Athlete,29,false,2,percentage,false
+Mr. T_S24,Mr. T,24,4,94.0,23.5,5.875,3.415650255319866,10.75,0,10,Eliminated Week 4,Kym Herjavec,Actor/Actress,64,false,0,percentage,false
+Macy Gray_S9,Macy Gray,9,1,18.9999,18.9999,6.3333,,16.0,0,15,Eliminated Week 1,Jonathan Roberts,Singer/Rapper,42,false,21,percentage,false
+Carson Kressley_S13,Carson Kressley,13,5,97.0,19.4,6.466666666666667,2.302172886644268,8.4,0,8,Eliminated Week 5,Anna Trebunskaya,TV Personality,41,false,25,percentage,false
+Jake T. Austin_S23,Jake T. Austin,23,2,46.0,23.0,5.75,1.4142135623730951,10.5,0,13,Eliminated Week 2,Jenna Johnson,Actor/Actress,21,false,0,percentage,false
+Stacy Keibler_S2,Stacy Keibler,2,8,220.16649999999998,27.520812499999998,9.173604166666667,2.641894800780844,1.875,3,3,3rd Place,Tony Dovolani,Athlete,26,false,2,rank_v1,false
+Gabby Windey_S31,Gabby Windey,31,10,362.5,36.25,9.0625,4.250816914952283,2.6,2,2,2nd Place,Valentin Chmerkovskiy,TV Personality,31,false,25,rank_v2,false
+Sean Lowe_S16,Sean Lowe,16,8,172.0,21.5,7.166666666666667,1.9272482233188626,6.0,0,6,Eliminated Week 8,Peta Murgatroyd,TV Personality,29,false,25,percentage,false
+Steve-O_S8,Steve-O,8,6,95.0,15.833333333333334,5.277777777777778,1.4719601443879742,10.0,0,8,Eliminated Week 6,Lacey Schwimmer,TV Personality,34,false,25,percentage,false
+Trista Sutter_S1,Trista Sutter,1,2,37.0,18.5,6.166666666666666,0.7071067811865476,4.5,0,6,Eliminated Week 2,Louis van Amstel,TV Personality,32,false,25,rank_v1,false
+Candace Cameron Bure_S18,Candace Cameron Bure,18,10,307.9998,30.799979999999998,8.299993333333333,5.513638847198221,5.6,0,3,3rd Place,Mark Ballas,Actor/Actress,37,false,0,percentage,false
+Bristol Palin_S11,Bristol Palin,11,10,229.1664,22.91664,7.368046666666666,5.278775812460899,5.9,0,3,3rd Place,Mark Ballas,TV Personality,19,false,25,percentage,true
+Joey Lawrence_S3,Joey Lawrence,3,9,233.0,25.88888888888889,8.62962962962963,3.0697900760656434,3.3333333333333335,2,3,3rd Place,Edyta Sliwinska,Actor/Actress,30,false,0,percentage,false
+Charlotte McKinney_S20,Charlotte McKinney,20,3,70.0,23.333333333333332,5.833333333333333,2.309401076758503,11.0,0,11,Eliminated Week 3,Keo Motsepe,Model,21,false,13,percentage,false
+Marlee Matlin_S6,Marlee Matlin,6,6,134.0,22.333333333333332,7.444444444444444,1.3662601021279468,6.5,0,7,Eliminated Week 6,Fabian Sanchez,Actor/Actress,42,false,0,percentage,false
+Rashad Jennings_S24,Rashad Jennings,24,10,351.6666,35.16666,8.791665,4.1499585005154005,2.8,2,1,1st Place,Emma Slater,Athlete,32,false,2,percentage,false
+Diana Nyad_S18,Diana Nyad,18,1,18.0,18.0,6.0,,11.0,0,12,Eliminated Week 2,Henry Byalikov,Athlete,64,false,2,percentage,false
+James Maslow_S18,James Maslow,18,10,330.0,33.0,8.875,6.036923425424945,3.9,1,4,Eliminated Week 10,Peta Murgatroyd,Actor/Actress,23,false,0,percentage,false
+Babyface_S23,Babyface,23,4,99.0,24.75,6.5625,4.9916597106239795,7.25,0,11,Eliminated Week 4,Allison Holker,Singer/Rapper,57,false,21,percentage,false
+Marla Maples_S22,Marla Maples,22,4,90.0,22.5,6.916666666666667,3.696845502136472,7.25,0,10,Eliminated Week 4,Tony Dovolani,TV Personality,52,false,25,percentage,false
+Paula Deen_S21,Paula Deen,21,6,121.5,20.25,5.777777777777778,4.071240597164456,9.666666666666666,0,9,Eliminated Week 6,Louis van Amstel,TV Personality,68,false,25,percentage,false
+Michael Irvin_S9,Michael Irvin,9,7,135.4998,19.357114285714285,6.452371428571429,3.350524480052127,10.0,0,7,Eliminated Week 7,Anna Demidova,Athlete,43,false,2,percentage,false
+Patti LaBelle_S20,Patti LaBelle,20,6,166.0,27.666666666666668,6.916666666666667,4.1311822359545785,8.166666666666666,0,8,Eliminated Week 6,Artem Chigvintsev,Singer/Rapper,70,false,21,percentage,false
+Rob Kardashian_S13,Rob Kardashian,13,10,243.833,24.3833,8.127766666666666,4.372312296714405,4.2,1,2,2nd Place,Cheryl Burke,TV Personality,24,false,25,percentage,false
+Wendy Williams_S12,Wendy Williams,12,3,46.0,15.333333333333334,5.111111111111112,1.5275252316519468,10.333333333333334,0,10,Eliminated Week 3,Tony Dovolani,TV Personality,46,false,25,percentage,false
+David Ross_S24,David Ross,24,10,312.8333,31.28333,7.8208325,2.9038543352088295,5.6,0,2,2nd Place,Lindsay Arnold,Athlete,40,false,2,percentage,false
+Adam Carolla_S6,Adam Carolla,6,4,74.0,18.5,6.166666666666666,2.5166114784235836,9.0,0,9,Eliminated Week 4,Julianne Hough,Radio Personality,43,false,20,percentage,false
+Hines Ward_S12,Hines Ward,12,10,267.6666,26.76666,8.64722,3.5208313412854344,2.2,2,1,1st Place,Kym Johnson,Athlete,35,false,2,percentage,false
+Billy Ray Cyrus_S4,Billy Ray Cyrus,4,8,152.0,19.0,6.333333333333333,2.8284271247461903,7.0,0,5,Eliminated Week 8,Karina Smirnoff,Singer/Rapper,45,false,21,percentage,true
+Tatum O'Neal_S2,Tatum O'Neal,2,2,40.0,20.0,6.666666666666667,4.242640687119285,5.5,0,9,Eliminated Week 2,Nick Kosovich,Actor/Actress,42,false,0,rank_v1,false
+Gilles Marini_S15,Gilles Marini,15,8,233.0275,29.1284375,9.298020833333332,5.109596682416753,3.75,0,6,Eliminated Week 8,Peta Murgatroyd,Actor/Actress,36,false,0,percentage,false
+George Hamilton_S2,George Hamilton,2,6,130.0,21.666666666666668,7.222222222222222,2.0655911179772892,5.5,0,5,Eliminated Week 6,Edyta Sliwinska,Actor/Actress,66,false,0,rank_v1,false
+Melora Hardin_S30,Melora Hardin,30,9,298.5,33.166666666666664,8.50462962962963,6.344288770224761,4.777777777777778,1,6,Eliminated Week 9,Artem Chigvintsev,Actor/Actress,54,false,0,rank_v2,false
+Helio Castroneves_S5,Helio Castroneves,5,10,266.4999,26.649990000000003,8.88333,2.1608827930835237,2.6,3,1,1st Place,Julianne Hough,Racing Driver,32,false,19,percentage,false
+Randy Couture_S19,Randy Couture,19,3,85.0,28.333333333333332,7.083333333333333,2.5166114784235827,9.0,0,11,Eliminated Week 3,Karina Smirnoff,Athlete,51,false,2,percentage,false
+D. L. Hughley_S16,D. L. Hughley,16,5,83.0,16.6,5.533333333333333,3.2863353450309964,9.6,0,9,Eliminated Week 5,Cheryl Burke,Comedian,50,false,4,percentage,false
+Kirstie Alley_S12,Kirstie Alley,12,10,246.4999,24.64999,7.966663333333334,3.3002412371252827,4.5,0,2,2nd Place,Maksim Chmerkoskiy,Actor/Actress,60,false,0,percentage,false
+Milo Manheim_S27,Milo Manheim,27,9,245.5,27.27777777777778,9.092592592592592,3.073181485764296,2.4444444444444446,4,2,2nd Place,Witney Carson,Actor/Actress,17,false,0,percentage,false
+Ian Ziering_S4,Ian Ziering,4,9,218.5,24.27777777777778,8.092592592592592,2.4123524710216877,3.7777777777777777,0,4,Eliminated Week 9,Cheryl Burke,Actor/Actress,42,false,0,percentage,false
+Katherine Jenkins_S14,Katherine Jenkins,14,10,285.4999,28.54999,9.516663333333332,4.071894317677379,2.2,3,2,2nd Place,Mark Ballas,Singer/Rapper,31,false,21,percentage,false
+Jason Mraz_S32,Jason Mraz,32,11,339.5,30.863636363636363,8.886363636363637,6.834072391667025,3.090909090909091,2,2,2nd Place,Daniella Karagach,Singer/Rapper,46,false,21,rank_v2,false
+Gilles Marini_S8,Gilles Marini,8,11,304.5,27.681818181818183,9.227272727272727,1.7926618096106033,1.7272727272727273,6,2,2nd Place,Cheryl Burke,Actor/Actress,33,false,0,percentage,false
+Lauren Alaina_S28,Lauren Alaina,28,11,280.5,25.5,7.992424242424241,5.191338940966964,4.909090909090909,0,4,4th Place,Gleb Savchenko,Singer/Rapper,24,false,21,rank_v2,false
+J.R. Martinez_S13,J.R. Martinez,13,10,263.1665,26.31665,8.772216666666667,2.8419682151831167,2.2,3,1,1st Place,Karina Smirnoff,Actor/Actress,28,false,0,percentage,false
+Charity Lawson_S32,Charity Lawson,32,11,337.0,30.636363636363637,8.825757575757576,6.557785102803038,2.909090909090909,2,4,4th Place,Artem Chigvintsev,TV Personality,27,false,25,rank_v2,false
+Rocco DiSpirito_S7,Rocco DiSpirito,7,4,71.5,17.875,5.958333333333333,1.6520189667999179,9.5,0,9,Eliminated Week 4,Karina Smirnoff,TV Personality,41,false,25,percentage,false
+Ilona Maher_S33,Ilona Maher,33,9,232.0,25.77777777777778,8.037037037037036,4.25816209701374,5.0,0,2,2nd Place,Alan Bersten,Athlete,28,false,2,rank_v2,false
+Shandi Finnessey_S4,Shandi Finnessey,4,3,60.0,20.0,6.666666666666667,1.0,7.0,0,10,Eliminated Week 3,Brian Fortuna,Beauty Pagent,28,false,3,percentage,false
+Jason Taylor_S6,Jason Taylor,6,10,261.5,26.15,8.716666666666665,2.3693646593314597,3.0,2,2,2nd Place,Edyta Sliwinska,Athlete,33,false,2,percentage,false
+Drew Scott_S25,Drew Scott,25,10,252.0,25.2,7.8375,5.798467230417209,6.2,0,4,Eliminated Week 10,Emma Slater,TV Personality,39,false,25,percentage,false
+Mario Lopez_S3,Mario Lopez,3,10,268.6666,26.866660000000003,8.955553333333333,3.0447214797635156,2.8,4,2,2nd Place,Karina Smirnoff,Actor/Actress,32,false,0,percentage,false
+Michael Sam_S20,Michael Sam,20,4,108.0,27.0,6.75,2.581988897471611,7.5,0,10,Eliminated Week 4,Peta Murgatroyd,Athlete,25,false,2,percentage,false
+Victor Espinoza_S21,Victor Espinoza,21,2,33.5,16.75,5.583333333333334,2.4748737341529163,9.0,0,12,Eliminated Week 2,Karina Smirnoff,Athlete,43,false,2,percentage,false
+"Mike ""The Miz"" Mizanin_S30","Mike ""The Miz"" Mizanin",30,7,202.5,28.928571428571427,7.494047619047619,4.799553550666382,8.285714285714286,0,9,Eliminated Week 7,Witney Carson,Athlete,40,false,2,rank_v2,false
+Shangela_S31,Shangela,31,10,345.5,34.55,8.6375,4.781038938696623,4.8,0,4,4th Place,Gleb Savchenko,TV Personality,40,false,25,rank_v2,false
+Lil' Kim_S8,Lil' Kim,8,9,230.0,25.555555555555557,8.518518518518519,2.2973414586817036,3.2222222222222223,2,5,Eliminated Week 9,Derek Hough,Singer/Rapper,34,false,21,percentage,false
+Charles Oakley_S29,Charles Oakley,29,2,27.0,13.5,4.5,2.1213203435596424,14.5,0,15,Eliminated Week 2,Emma Slater,Athlete,56,false,2,rank_v2,false
+Brooks Nader_S33,Brooks Nader,33,4,100.5,25.125,7.072916666666667,7.145802963978227,7.25,0,9,Eliminated Week 4,Gleb Savchenko,Model,27,false,13,rank_v2,false
+Keyshawn Johnson_S17,Keyshawn Johnson,17,2,35.0,17.5,5.833333333333334,0.7071067811865476,11.0,0,12,Eliminated Week 2,Sharna Burgess,Athlete,41,false,2,percentage,false
+Lea Thompson_S19,Lea Thompson,19,9,305.0,33.888888888888886,8.472222222222221,2.472066162365221,3.7777777777777777,1,6,Eliminated Week 9,Artem Chigvintsev,Actor/Actress,53,false,0,percentage,false
+Marissa Jaret Winokur_S6,Marissa Jaret Winokur,6,9,209.0,23.22222222222222,7.74074074074074,3.1135902820449006,5.555555555555555,0,4,Eliminated Week 9,Tony Dovolani,Actor/Actress,35,false,0,percentage,false
+Audrina Patridge_S11,Audrina Patridge,11,6,145.9998,24.333299999999998,8.1111,4.366469207494769,3.1666666666666665,1,7,Eliminated Week 6,Tony Dovolani,TV Personality,25,false,25,percentage,false
+Johnny Damon_S26,Johnny Damon,26,1,18.0,18.0,6.0,,9.0,0,9,Eliminated Week 1,Emma Slater,Athlete,44,false,2,percentage,false
+Aiden Turner_S10,Aiden Turner,10,4,70.5,17.625,5.875,2.286737122335374,8.25,0,9,Eliminated Week 4,Edyta Sliwinska,Actor/Actress,32,false,0,percentage,false
+Kendra Wilkinson_S12,Kendra Wilkinson,12,7,155.5,22.214285714285715,7.041666666666667,4.526377717126051,5.857142857142857,0,6,Eliminated Week 7,Louis van Amstel,TV Personality,25,false,25,percentage,false
+Noah Galloway_S20,Noah Galloway,20,10,320.5,32.05,8.0125,4.387165625118594,5.3,0,3,3rd Place,Sharna Burgess,Motivational Speaker,33,false,14,percentage,false
+Tia Carrere_S2,Tia Carrere,2,5,115.0,23.0,7.666666666666667,2.449489742783178,5.0,0,6,Eliminated Week 5,Maksim Chmerkoskiy,Actor/Actress,39,false,0,rank_v1,false
+Antonio Sabato Jr._S19,Antonio Sabato Jr.,19,7,199.5,28.5,7.125,1.848422751068236,7.428571428571429,0,8,Eliminated Week 7,Cheryl Burke,Actor/Actress,42,false,0,percentage,false
+Heidi D'Amelio_S31,Heidi D'Amelio,31,8,263.0,32.875,8.21875,4.793969425970806,5.625,0,8,Eliminated Week 8,Artem Chigvintsev,Social Media Personality,50,false,22,rank_v2,false
+Tori Spelling_S33,Tori Spelling,33,2,36.0,18.0,6.0,1.4142135623730951,10.5,0,12,Eliminated Week 2,Pasha Pashkov,Actor/Actress,51,false,0,rank_v2,false
+John Ratzenberger_S4,John Ratzenberger,4,7,133.5,19.071428571428573,6.357142857142857,2.280872848797353,7.142857142857143,0,6,Eliminated Week 7,Edyta Sliwinska,Actor/Actress,59,false,0,percentage,false
+Valerie Harper_S17,Valerie Harper,17,4,74.0,18.5,6.166666666666666,2.081665999466133,9.75,0,10,Eliminated Week 4,Tristan MacManus,Actor/Actress,74,false,0,percentage,false
+Jessie James Decker_S31,Jessie James Decker,31,6,170.0,28.333333333333332,7.083333333333333,5.750362307426086,10.0,0,10,Eliminated Week 6,Alan Bersten,Singer/Rapper,34,false,21,rank_v2,false
+Wayne Brady_S31,Wayne Brady,31,10,362.5,36.25,9.0625,4.614289399969042,3.0,0,3,3rd Place,Witney Carson,Comedian,50,false,4,rank_v2,false
+Barry Williams_S32,Barry Williams,32,8,197.5,24.6875,6.932291666666666,7.887320294534222,7.625,0,7,Eliminated Week 8,Peta Murgatroyd,Actor/Actress,68,false,0,rank_v2,false
+Giselle Fernandez_S2,Giselle Fernandez,2,3,69.0,23.0,7.666666666666667,1.0,3.6666666666666665,0,8,Eliminated Week 3,Jonathan Roberts,News Anchor,44,false,16,rank_v1,false
+Kareem Abdul-Jabbar_S26,Kareem Abdul-Jabbar,26,2,46.5,23.25,6.520833333333334,8.838834764831844,9.0,0,8,Eliminated Week 2,Lindsay Arnold,Athlete,71,false,2,percentage,false
+Alexis Ren_S27,Alexis Ren,27,9,238.5,26.5,8.833333333333334,2.358495283014151,3.6666666666666665,0,4,4th Place,Alan Bersten,Social Media Personality,21,false,22,percentage,false
+Mya_S9,Mya,9,10,284.33299999999997,28.433299999999996,9.477766666666666,2.37423048024688,1.9,5,2,2nd Place,Dmitry Chaplin,Singer/Rapper,29,false,21,percentage,false
+Rumer Willis_S20,Rumer Willis,20,10,362.5,36.25,9.0625,3.2080627591533553,2.5,3,1,1st Place,Valentin Chmerkovskiy,Actor/Actress,26,false,0,percentage,false
+Paulina Porizkova_S4,Paulina Porizkova,4,2,40.0,20.0,6.666666666666666,1.4142135623730951,7.5,0,11,Eliminated Week 2,Alec Mazo,Model,41,false,13,percentage,false
+Chandler Kinney_S33,Chandler Kinney,33,9,261.5,29.055555555555557,9.069444444444445,3.7950991789119,1.6666666666666667,7,3,3rd Place,Brandon Armstrong,Actor/Actress,24,false,0,rank_v2,false
+Corey Feldman_S34,Corey Feldman,34,2,24.0,12.0,4.75,4.242640687119285,14.0,0,13,Eliminated Week 2,Jenna Johnson,Actor/Actress,54,false,0,rank_v2,false
+Denise Richards_S8,Denise Richards,8,3,55.0,18.333333333333332,6.111111111111111,2.5166114784235827,7.333333333333333,0,12,Eliminated Week 3,Maksim Chmerkoskiy,Actor/Actress,38,false,0,percentage,false
+Geraldo Rivera_S22,Geraldo Rivera,22,2,26.0,13.0,4.333333333333333,0.0,12.0,0,12,Eliminated Week 2,Edyta Sliwinska,Journalist,72,false,10,percentage,false
+"Nicole ""Snooki"" Polizzi_S17","Nicole ""Snooki"" Polizzi",17,7,176.0,25.142857142857142,8.380952380952381,3.2366943748507473,5.142857142857143,0,8,Eliminated Week 7,Sasha Farber,TV Personality,25,false,25,percentage,false
+Suni Lee_S30,Suni Lee,30,9,296.5,32.94444444444444,8.430555555555555,6.277163195088828,4.333333333333333,1,5,Eliminated Week 9,Sasha Farber,Athlete,18,false,2,rank_v2,false
+Drew Lachey_S15,Drew Lachey,15,3,68.0,22.666666666666668,7.555555555555556,1.2583057392117911,8.0,0,11,Eliminated Week 3,Anna Trebunskaya,Singer/Rapper,36,false,21,percentage,false
+Charli D'Amelio_S31,Charli D'Amelio,31,10,379.0,37.9,9.475,4.458450154232722,1.3,8,1,1st Place,Mark Ballas,Social Media Personality,18,false,22,rank_v2,false
+Chynna Phillips_S13,Chynna Phillips,13,4,90.0,22.5,7.5,2.3804761428476167,4.0,1,9,Eliminated Week 4,Tony Dovolani,Singer/Rapper,43,false,21,percentage,false
+Ricki Lake_S13,Ricki Lake,13,10,265.9998,26.59998,8.86666,3.725264196686068,2.2,5,3,3rd Place,Derek Hough,Actor/Actress,42,false,0,percentage,false
+Cody Rigsby_S30,Cody Rigsby,30,10,310.5,31.05,7.9125,6.9938465016676545,8.3,0,3,3rd Place,Cheryl Burke,Fitness Instructor,34,false,9,rank_v2,false
+Suzanne Somers_S20,Suzanne Somers,20,5,134.0,26.8,6.7,1.6431676725154982,7.6,0,9,Eliminated Week 5,Tony Dovolani,Actor/Actress,68,false,0,percentage,false
+Kenny Mayne_S2,Kenny Mayne,2,1,13.0,13.0,4.333333333333333,,9.0,0,10,Eliminated Week 1,Andrea Hale,Sports Broadcaster,46,false,24,rank_v1,false
+AJ McLean_S29,AJ McLean,29,9,210.9998,23.444422222222222,7.8148074074074065,3.3582287004378446,6.555555555555555,0,7,Eliminated Week 9,Cheryl Burke,Singer/Rapper,42,false,21,rank_v2,false
+David Arquette_S13,David Arquette,13,7,154.5,22.071428571428573,7.357142857142857,2.863979914800547,5.285714285714286,0,6,Eliminated Week 7,Kym Johnson,Actor/Actress,40,false,0,percentage,false
+Tucker Carlson_S3,Tucker Carlson,3,1,12.0,12.0,4.0,,11.0,0,11,Eliminated Week 1,Elena Grinenko,TV Personality,37,false,25,percentage,false
+Florence Henderson_S11,Florence Henderson,11,5,95.5,19.1,6.366666666666666,1.431782106327635,7.2,0,8,Eliminated Week 5,Corky Ballas,Actor/Actress,76,false,0,percentage,false
+Ashley Hamiliton_S9,Ashley Hamiliton,9,1,18.9999,18.9999,6.3333,,15.0,0,16,Eliminated Week 1,Edyta Sliwinska,Actor/Actress,34,false,0,percentage,false
+Bobby Bones_S27,Bobby Bones,27,9,201.5,22.38888888888889,7.462962962962964,2.7474735869724243,7.222222222222222,0,1,1st Place,Sharna Burgess,Radio Personality,38,false,20,percentage,true
+Misty May-Treanor_S7,Misty May-Treanor,7,2,42.0,21.0,7.0,0.0,5.0,0,10,Withdrew,Maksim Chmerkoskiy,Athlete,31,true,2,percentage,false
+Amber Rose_S23,Amber Rose,23,6,149.0,24.833333333333332,6.875,1.6020819787597227,8.333333333333334,0,9,Eliminated Week 6,Maksim Chmerkoskiy,Model,32,false,13,percentage,false
+Nancy Grace_S13,Nancy Grace,13,8,169.0,21.125,7.041666666666666,2.2951812875799473,6.125,0,5,Eliminated Week 8,Tristan MacManus,TV Personality,51,false,25,percentage,false
+Evan Lysacek_S10,Evan Lysacek,10,10,262.8887,26.288869999999996,8.762956666666666,1.7781178851371033,2.1,3,2,2nd Place,Anna Trebunskaya,Athlete,24,false,2,percentage,false
+Chris Soules_S20,Chris Soules,20,8,227.0,28.375,7.09375,4.274091382136926,7.375,0,5,Eliminated Week 8,Witney Carson,TV Personality,33,false,25,percentage,false
+Kim Fields_S22,Kim Fields,22,7,171.0,24.428571428571427,7.428571428571429,4.613644360558612,7.142857142857143,0,8,Eliminated Week 7,Sasha Farber,Actor/Actress,46,false,0,percentage,false
+Charlie White_S18,Charlie White,18,9,307.5,34.166666666666664,9.023148148148147,5.024937810560446,3.3333333333333335,2,5,Eliminated Week 9,Sharna Burgess,Athlete,26,false,2,percentage,false
+Apolo Anton Ohno_S4,Apolo Anton Ohno,4,10,268.8332,26.883319999999998,8.961106666666668,2.9731703994221403,2.4,3,1,1st Place,Julianne Hough,Athlete,24,false,2,percentage,false
+Nancy McKeon_S27,Nancy McKeon,27,3,62.0,20.666666666666668,6.888888888888888,1.2583057392117911,8.666666666666666,0,11,Eliminated Week 3,Valentin Chmerkovskiy,Actor/Actress,52,false,0,percentage,false
+Phaedra Parks_S33,Phaedra Parks,33,5,124.0,24.8,7.266666666666666,5.263078946776306,6.0,0,8,Eliminated Week 5,Val Chmerkovskiy,TV Personality,51,false,25,rank_v2,false
+Cameron Mathison_S5,Cameron Mathison,5,8,194.0,24.25,8.083333333333334,2.2990681342044392,4.875,0,5,Eliminated Week 8,Edyta Sliwinska,Actor/Actress,38,false,0,percentage,false
+Lolo Jones_S19,Lolo Jones,19,1,22.0,22.0,5.5,,12.0,0,13,Eliminated Week 1,Keo Motsepe,Athlete,32,false,2,percentage,false
+Jodie Sweetin_S22,Jodie Sweetin,22,8,206.5,25.8125,7.958333333333334,4.913083843895081,5.375,0,6,Eliminated Week 8,Keo Motsepe,Actor/Actress,34,false,0,percentage,false
+Metta World Peace (Ron)_S13,Metta World Peace (Ron),13,1,14.0,14.0,4.666666666666667,,12.0,0,12,Eliminated Week 1,Peta Murgatroyd,Athlete,31,false,2,percentage,false
+Dylan Efron_S34,Dylan Efron,34,11,318.8332,28.98483636363636,8.404036363636363,9.515032805752456,5.181818181818182,2,4,4th Place,Daniella Karagach (Rumer Willis week 9),TV Personality,33,false,25,rank_v2,false
+Buzz Aldrin_S10,Buzz Aldrin,10,3,39.0,13.0,4.333333333333333,1.0,10.666666666666666,0,10,Eliminated Week 3,Ashly DelGrosso,Astronaut,80,false,1,percentage,false
+Heather Mills_S4,Heather Mills,4,6,133.0,22.166666666666668,7.388888888888889,2.3166067138525404,4.5,0,7,Eliminated Week 6,Jonathan Roberts,Model,39,false,13,percentage,false
+Kathy Ireland_S9,Kathy Ireland,9,2,37.9999,18.99995,6.333316666666667,1.4141428516949752,13.0,0,14,Eliminated Week 2,Tony Dovolani,Model,46,false,13,percentage,false
+Amanda Kloots_S30,Amanda Kloots,30,10,349.5,34.95,8.9375,5.68843856724614,2.9,1,4,4th Place,Alan Bersten,TV Personality,39,false,25,rank_v2,false
+Melissa Gilbert_S14,Melissa Gilbert,14,8,186.0,23.25,7.75,3.3594217189442426,7.875,0,5,Eliminated Week 8,Maksim Chmerkoskiy,Actor/Actress,47,false,0,percentage,false
+Petra Nemcova_S12,Petra Nemcova,12,5,106.0,21.2,7.066666666666667,3.1144823004794877,5.8,1,8,Eliminated Week 5,Dmitry Chaplin,Model,31,false,13,percentage,false
+Jonathan Bennett_S19,Jonathan Bennett,19,6,172.0,28.666666666666668,7.166666666666667,3.7237973450050514,6.666666666666667,0,9,Eliminated Week 6,Allison Holker,Actor/Actress,33,false,0,percentage,false
+Willa Ford_S3,Willa Ford,3,5,122.0,24.4,8.133333333333335,2.880972058177587,3.8,0,7,Eliminated Week 5,Maksim Chmerkoskiy,Singer/Rapper,25,false,21,percentage,false
+Sabrina Bryan_S5,Sabrina Bryan,5,6,162.0,27.0,9.0,1.7888543819998317,2.0,3,7,Eliminated Week 6,Mark Ballas,Actor/Actress,23,false,0,percentage,false
+Iman Shumpert_S30,Iman Shumpert,30,10,311.0,31.1,7.933333333333333,7.589466384404112,7.8,1,1,1st Place,Daniella Karagach,Athlete,31,false,2,rank_v2,false
+Kim Zolciak-Biermann_S21,Kim Zolciak-Biermann,21,2,30.5,15.25,5.083333333333334,4.596194077712559,11.5,0,11,Withdrew,Tony Dovolani,TV Personality,37,true,25,percentage,false
+Kate Flannery_S28,Kate Flannery,28,8,186.9998,23.374975,7.520825,3.8521598771709513,5.0,2,7,Eliminated Week 8,Pasha Pashkov,Actor/Actress,55,false,0,rank_v2,false
+Aaron Carter_S9,Aaron Carter,9,8,206.4997,25.8124625,8.604154166666667,5.070427391661095,4.0,0,5,Eliminated Week 8,Karina Smirnoff,Singer/Rapper,21,false,21,percentage,false
+Chuck Liddell_S9,Chuck Liddell,9,4,75.0,18.75,6.25,2.362907813126304,9.75,0,11,Eliminated Week 4,Anna Trebunskaya,Athlete,39,false,2,percentage,false
+Veron Davis_S29,Veron Davis,29,6,121.0,20.166666666666668,6.722222222222222,2.136976056643281,9.0,0,11,Eliminated Week 6,Peta Murgatroyd,Athlete,36,false,2,rank_v2,false
+Kelly Monaco_S15,Kelly Monaco,15,10,281.3052,28.13052,9.06434,5.180386665062325,4.9,1,3,3rd Place,Valentin Chmerkovskiy,Actor/Actress,36,false,0,percentage,false
+Brooke Burke_S7,Brooke Burke,7,10,269.5,26.95,8.983333333333333,2.27852291335125,1.4,7,1,1st Place,Derek Hough,TV Personality,37,false,25,percentage,false
+Reginald VelJohnson_S33,Reginald VelJohnson,33,3,52.0,17.333333333333332,5.194444444444444,3.214550253664319,11.666666666666666,0,10,Eliminated Week 3,Emma Slater,Actor/Actress,74,false,0,rank_v2,false
+James Hinchcliffe_S23,James Hinchcliffe,23,11,360.4996,32.772690909090905,9.113625757575758,4.227037218065284,2.3636363636363638,4,2,2nd Place,Sharna Burgess,Racing Driver,29,false,19,percentage,false
+Danica McKellar_S18,Danica McKellar,18,8,265.0,33.125,8.78125,5.986592162013855,4.25,0,6,Eliminated Week 8,Valentin Chmerkovskiy,Actor/Actress,39,false,0,percentage,false
+Terrell Owens_S25,Terrell Owens,25,8,191.5,23.9375,7.59375,6.355186296021766,7.5,0,6,Eliminated Week 8,Cheryl Burke,Athlete,43,false,2,percentage,false
+Anna Delvey_S33,Anna Delvey,33,2,35.0,17.5,5.833333333333334,0.7071067811865476,10.5,0,12,Eliminated Week 2,Ezra Sosa,Con artist,33,false,5,rank_v2,false
+John Schneider_S27,John Schneider,27,7,151.5,21.642857142857142,7.214285714285714,3.0374644814697795,8.142857142857142,0,8,Eliminated Week 7,Emma Slater,Actor/Actress,58,false,0,percentage,false
+Jason Lewis_S31,Jason Lewis,31,1,18.0,18.0,4.5,,15.0,0,16,Eliminated Week 1,Peta Murgatroyd,Actor/Actress,51,false,0,rank_v2,false
+Ginger Zee_S22,Ginger Zee,22,10,270.8332,27.083319999999997,8.461106666666668,4.887148680365678,3.4,1,3,3rd Place,Valentin Chmerkovskiy,News Anchor,35,false,16,percentage,false
+Jerry Springer_S3,Jerry Springer,3,7,143.0,20.428571428571427,6.809523809523809,2.878491668515698,7.285714285714286,0,5,Eliminated Week 7,Kym Johnson,TV Personality,62,false,25,percentage,false
+Derek Fisher_S25,Derek Fisher,25,4,81.0,20.25,6.75,2.2173557826083456,9.0,0,11,Eliminated Week 4,Sharna Burgess,Athlete,43,false,2,percentage,false

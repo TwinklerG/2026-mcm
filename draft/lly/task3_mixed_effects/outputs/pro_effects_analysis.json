@@ -1,0 +1,112 @@
+{
+  "category_distribution": {
+    "Fan Favorite": 9,
+    "Kingmaker": 8,
+    "Technician": 13,
+    "Underperformer": 12
+  },
+  "experience_correlation": {
+    "pop_vs_experience": {
+      "correlation": 0.20526419,
+      "p_value": 0.19221477,
+      "significant": false
+    },
+    "tech_vs_experience": {
+      "correlation": 0.24961491,
+      "p_value": 0.11088645,
+      "significant": false
+    }
+  },
+  "top_overall": [
+    {
+      "category": "Kingmaker",
+      "pop_boost": 0.06028636,
+      "pro_id": "Derek Hough",
+      "tech_boost": 0.6560879
+    },
+    {
+      "category": "Kingmaker",
+      "pop_boost": 0.18014519,
+      "pro_id": "Jonathan Roberts",
+      "tech_boost": 0.14902496
+    },
+    {
+      "category": "Kingmaker",
+      "pop_boost": 0.10252087,
+      "pro_id": "Kym Johnson",
+      "tech_boost": 0.21346891
+    },
+    {
+      "category": "Kingmaker",
+      "pop_boost": 0.07210651,
+      "pro_id": "Tony Dovolani",
+      "tech_boost": 0.28565158
+    },
+    {
+      "category": "Kingmaker",
+      "pop_boost": 0.06123674,
+      "pro_id": "Maksim Chmerkoskiy",
+      "tech_boost": 0.29917455
+    }
+  ],
+  "top_popularity": [
+    {
+      "category": "Fan Favorite",
+      "pop_boost": 0.37326675,
+      "pro_id": "Ashly DelGrosso"
+    },
+    {
+      "category": "Fan Favorite",
+      "pop_boost": 0.20339138,
+      "pro_id": "Alec Mazo"
+    },
+    {
+      "category": "Kingmaker",
+      "pop_boost": 0.18014519,
+      "pro_id": "Jonathan Roberts"
+    },
+    {
+      "category": "Fan Favorite",
+      "pop_boost": 0.15132282,
+      "pro_id": "Edyta Sliwinska"
+    },
+    {
+      "category": "Fan Favorite",
+      "pop_boost": 0.11065887,
+      "pro_id": "Louis van Amstel"
+    }
+  ],
+  "top_technicians": [
+    {
+      "category": "Kingmaker",
+      "pro_id": "Derek Hough",
+      "tech_boost": 0.6560879
+    },
+    {
+      "category": "Technician",
+      "pro_id": "Artem Chigvintsev",
+      "tech_boost": 0.42948661
+    },
+    {
+      "category": "Technician",
+      "pro_id": "Witney Carson (Xoshitl Gomez week 9)",
+      "tech_boost": 0.32864289
+    },
+    {
+      "category": "Technician",
+      "pro_id": "Valentin Chmerkovskiy",
+      "tech_boost": 0.32470761
+    },
+    {
+      "category": "Kingmaker",
+      "pro_id": "Maksim Chmerkoskiy",
+      "tech_boost": 0.29917455
+    }
+  ],
+  "variance_explained": {
+    "fan_model_icc": 0.21773037,
+    "fan_pro_pct": 21.77303703,
+    "judge_model_icc": 0.09486542,
+    "judge_pro_pct": 9.48654228
+  }
+}

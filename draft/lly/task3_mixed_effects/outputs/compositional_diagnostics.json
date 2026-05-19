@@ -1,0 +1,10 @@
+{
+  "assessment": "经验残差相关性 (0.000) 弱于理论值 (-0.145)。成分数据约束的影响可能已被模型部分吸收。",
+  "concern_level": "low",
+  "empirical_residual_correlation": 0.0,
+  "mean_contestants_per_week": 7.91940299,
+  "n_correlation_pairs": 10648,
+  "n_week_episodes": 335,
+  "se_inflation_factor": 1.0,
+  "theoretical_negative_correlation": -0.14452114
+}

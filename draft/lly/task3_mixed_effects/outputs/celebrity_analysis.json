@@ -1,0 +1,89 @@
+{
+  "age_effect": {
+    "fan": {
+      "coefficient": -0.00184831,
+      "significant": true
+    },
+    "judge": {
+      "coefficient": -0.03284824,
+      "significant": true
+    }
+  },
+  "athlete_paradox": {
+    "exists": true,
+    "fan_coefficient": 0.05210845,
+    "judge_coefficient": -0.12873325
+  },
+  "industry_effects": {
+    "Athlete": {
+      "fan": {
+        "coefficient": 0.05210845,
+        "significant": true
+      },
+      "judge": {
+        "coefficient": -0.12873325,
+        "significant": true
+      }
+    },
+    "Entertainment": {
+      "fan": {
+        "coefficient": -0.12508574,
+        "significant": true
+      },
+      "judge": {
+        "coefficient": -0.22307462,
+        "significant": false
+      }
+    },
+    "Model": {
+      "fan": {
+        "coefficient": -0.21693004,
+        "significant": true
+      },
+      "judge": {
+        "coefficient": -0.53490052,
+        "significant": true
+      }
+    },
+    "Other": {
+      "fan": {
+        "coefficient": -0.24568638,
+        "significant": true
+      },
+      "judge": {
+        "coefficient": -0.68919432,
+        "significant": true
+      }
+    },
+    "Singer": {
+      "fan": {
+        "coefficient": -0.01855297,
+        "significant": false
+      },
+      "judge": {
+        "coefficient": -0.02098667,
+        "significant": false
+      }
+    },
+    "TV": {
+      "fan": {
+        "coefficient": -0.03341763,
+        "significant": true
+      },
+      "judge": {
+        "coefficient": -0.41926642,
+        "significant": true
+      }
+    }
+  },
+  "week_effect": {
+    "fan": {
+      "coefficient": 0.11357965,
+      "significant": true
+    },
+    "judge": {
+      "coefficient": 0.31143668,
+      "significant": true
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "by_elimination_status": {
+    "eliminated": {
+      "count": 303,
+      "mean_ci_width": 0.08050776
+    },
+    "survived": {
+      "count": 2474,
+      "mean_ci_width": 0.09660852
+    }
+  },
+  "by_industry": {
+    "Actor/Actress": {
+      "count": 882,
+      "mean_ci_width": 0.09605773,
+      "std_ci_width": 0.03091598
+    },
+    "Astronaut": {
+      "count": 3,
+      "mean_ci_width": 0.07658442,
+      "std_ci_width": 0.01815043
+    },
+    "Athlete": {
+      "count": 616,
+      "mean_ci_width": 0.09739348,
+      "std_ci_width": 0.03044205
+    },
+    "Beauty Pagent": {
+      "count": 3,
+      "mean_ci_width": 0.08325968,
+      "std_ci_width": 0.00709678
+    },
+    "Comedian": {
+      "count": 66,
+      "mean_ci_width": 0.08762484,
+      "std_ci_width": 0.02330067
+    },
+    "Con artist": {
+      "count": 2,
+      "mean_ci_width": 0.0793209,
+      "std_ci_width": 0.00315194
+    },
+    "Conservationist": {
+      "count": 11,
+      "mean_ci_width": 0.0982541,
+      "std_ci_width": 0.02619046
+    },
+    "Entrepreneur": {
+      "count": 18,
+      "mean_ci_width": 0.07747085,
+      "std_ci_width": 0.01505664
+    },
+    "Fashion Designer": {
+      "count": 4,
+      "mean_ci_width": 0.06123697,
+      "std_ci_width": 0.00517885
+    },
+    "Fitness Instructor": {
+      "count": 10,
+      "mean_ci_width": 0.09278598,
+      "std_ci_width": 0.04280571
+    },
+    "Journalist": {
+      "count": 2,
+      "mean_ci_width": 0.07687061,
+      "std_ci_width": 0.00611072
+    },
+    "Magician": {
+      "count": 2,
+      "mean_ci_width": 0.06857375,
+      "std_ci_width": 0.01370783
+    },
+    "Military": {
+      "count": 11,
+      "mean_ci_width": 0.09967265,
+      "std_ci_width": 0.04320919
+    },
+    "Model": {
+      "count": 73,
+      "mean_ci_width": 0.08593984,
+      "std_ci_width": 0.02755385
+    },
+    "Motivational Speaker": {
+      "count": 10,
+      "mean_ci_width": 0.09976777,
+      "std_ci_width": 0.04157566
+    },
+    "Musician": {
+      "count": 10,
+      "mean_ci_width": 0.09616845,
+      "std_ci_width": 0.02482575
+    },
+    "News Anchor": {
+      "count": 17,
+      "mean_ci_width": 0.08948148,
+      "std_ci_width": 0.02376537
+    },
+    "Politician": {
+      "count": 15,
+      "mean_ci_width": 0.08176087,
+      "std_ci_width": 0.03070344
+    },
+    "Producer": {
+      "count": 11,
+      "mean_ci_width": 0.09565113,
+      "std_ci_width": 0.02904866
+    },
+    "Racing Driver": {
+      "count": 32,
+      "mean_ci_width": 0.10030783,
+      "std_ci_width": 0.03013641
+    },
+    "Radio Personality": {
+      "count": 17,
+      "mean_ci_width": 0.0765002,
+      "std_ci_width": 0.01467713
+    },
+    "Singer/Rapper": {
+      "count": 404,
+      "mean_ci_width": 0.09574462,
+      "std_ci_width": 0.03313609
+    },
+    "Social Media Personality": {
+      "count": 70,
+      "mean_ci_width": 0.09416317,
+      "std_ci_width": 0.02766456
+    },
+    "Social media personality": {
+      "count": 11,
+      "mean_ci_width": 0.09763432,
+      "std_ci_width": 0.01665992
+    },
+    "Sports Broadcaster": {
+      "count": 11,
+      "mean_ci_width": 0.11495765,
+      "std_ci_width": 0.03159411
+    },
+    "TV Personality": {
+      "count": 466,
+      "mean_ci_width": 0.09243648,
+      "std_ci_width": 0.0283509
+    }
+  },
+  "by_week_position": {
+    "early": {
+      "count": 1511,
+      "mean_ci_width": 0.07840176
+    },
+    "late": {
+      "count": 1266,
+      "mean_ci_width": 0.1144852
+    }
+  },
+  "controversial_contestants": [
+    {
+      "ci_width": 0.29180649,
+      "contestant_id": "John O'Hurley_S1",
+      "season": 1,
+      "week": 5
+    },
+    {
+      "ci_width": 0.26588671,
+      "contestant_id": "Drew Lachey_S2",
+      "season": 2,
+      "week": 8
+    },
+    {
+      "ci_width": 0.26384898,
+      "contestant_id": "Joey McIntyre_S1",
+      "season": 1,
+      "week": 5
+    },
+    {
+      "ci_width": 0.26293103,
+      "contestant_id": "Kelly Monaco_S1",
+      "season": 1,
+      "week": 5
+    },
+    {
+      "ci_width": 0.23828763,
+      "contestant_id": "Daniel Durant_S31",
+      "season": 31,
+      "week": 9
+    },
+    {
+      "ci_width": 0.22596577,
+      "contestant_id": "Stacy Keibler_S2",
+      "season": 2,
+      "week": 7
+    },
+    {
+      "ci_width": 0.22290776,
+      "contestant_id": "Alek Skarlatos_S21",
+      "season": 21,
+      "week": 10
+    },
+    {
+      "ci_width": 0.21844433,
+      "contestant_id": "Bindi Irwin_S21",
+      "season": 21,
+      "week": 10
+    },
+    {
+      "ci_width": 0.21702216,
+      "contestant_id": "Nick Carter_S21",
+      "season": 21,
+      "week": 10
+    },
+    {
+      "ci_width": 0.21181795,
+      "contestant_id": "Carlos PenaVega_S21",
+      "season": 21,
+      "week": 10
+    },
+    {
+      "ci_width": 0.21112089,
+      "contestant_id": "Cody Rigsby_S30",
+      "season": 30,
+      "week": 9
+    },
+    {
+      "ci_width": 0.2076884,
+      "contestant_id": "Mario Lopez_S3",
+      "season": 3,
+      "week": 10
+    },
+    {
+      "ci_width": 0.2076884,
+      "contestant_id": "Emmitt Smith_S3",
+      "season": 3,
+      "week": 10
+    },
+    {
+      "ci_width": 0.20634035,
+      "contestant_id": "Hannah Brown_S28",
+      "season": 28,
+      "week": 10
+    },
+    {
+      "ci_width": 0.20601162,
+      "contestant_id": "Jerry Rice_S2",
+      "season": 2,
+      "week": 8
+    },
+    {
+      "ci_width": 0.20424863,
+      "contestant_id": "Noah Galloway_S20",
+      "season": 20,
+      "week": 10
+    },
+    {
+      "ci_width": 0.20379333,
+      "contestant_id": "Stacy Keibler_S2",
+      "season": 2,
+      "week": 8
+    },
+    {
+      "ci_width": 0.20357522,
+      "contestant_id": "Chelsea Kane_S12",
+      "season": 12,
+      "week": 9
+    },
+    {
+      "ci_width": 0.19680038,
+      "contestant_id": "Kelly Monaco_S1",
+      "season": 1,
+      "week": 6
+    },
+    {
+      "ci_width": 0.19680038,
+      "contestant_id": "John O'Hurley_S1",
+      "season": 1,
+      "week": 6
+    }
+  ],
+  "overall": {
+    "max_ci_width": 0.29180649,
+    "mean_ci_width": 0.09485176,
+    "median_ci_width": 0.08803376,
+    "min_ci_width": 0.00254438,
+    "q25_ci_width": 0.07425781,
+    "q75_ci_width": 0.10765955,
+    "std_ci_width": 0.03047281
+  },
+  "stable_contestants": [
+    {
+      "ci_width": 0.00254438,
+      "contestant_id": "Sailor Brinkley-Cook_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.01616116,
+      "contestant_id": "Ally Brooke_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.02133198,
+      "contestant_id": "Lauren Alaina_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.02961024,
+      "contestant_id": "Kel Mitchell_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.03186531,
+      "contestant_id": "Karamo Brown_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.03289766,
+      "contestant_id": "Debbie Gibson_S25",
+      "season": 25,
+      "week": 2
+    },
+    {
+      "ci_width": 0.03422353,
+      "contestant_id": "Jason Lewis_S31",
+      "season": 31,
+      "week": 1
+    },
+    {
+      "ci_width": 0.03576548,
+      "contestant_id": "Ashley Hamiliton_S9",
+      "season": 9,
+      "week": 1
+    },
+    {
+      "ci_width": 0.03720658,
+      "contestant_id": "Sean Spicer_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.03760087,
+      "contestant_id": "Macy Gray_S9",
+      "season": 9,
+      "week": 1
+    },
+    {
+      "ci_width": 0.03897179,
+      "contestant_id": "Nikki Glaser_S27",
+      "season": 27,
+      "week": 1
+    },
+    {
+      "ci_width": 0.03914686,
+      "contestant_id": "Kate Flannery_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.04015268,
+      "contestant_id": "Jamie Lynn Spears_S32",
+      "season": 32,
+      "week": 2
+    },
+    {
+      "ci_width": 0.04044828,
+      "contestant_id": "James Van Der Beek_S28",
+      "season": 28,
+      "week": 6
+    },
+    {
+      "ci_width": 0.04113049,
+      "contestant_id": "Belinda Carlisle_S8",
+      "season": 8,
+      "week": 2
+    },
+    {
+      "ci_width": 0.04121044,
+      "contestant_id": "Kathy Ireland_S9",
+      "season": 9,
+      "week": 1
+    },
+    {
+      "ci_width": 0.0423652,
+      "contestant_id": "Vanilla Ice_S23",
+      "season": 23,
+      "week": 4
+    },
+    {
+      "ci_width": 0.04287455,
+      "contestant_id": "Lolo Jones_S19",
+      "season": 19,
+      "week": 1
+    },
+    {
+      "ci_width": 0.04291977,
+      "contestant_id": "Martin Kove_S30",
+      "season": 30,
+      "week": 2
+    },
+    {
+      "ci_width": 0.04313203,
+      "contestant_id": "Kim Zolciak-Biermann_S21",
+      "season": 21,
+      "week": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "conclusion": "多重共线性确认：移除 week 后 γ 变为显著。结论应修正为 'Fans conflate longevity with quality'——粉丝确实看重表现，但表现和持续时间混在一起无法区分。",
+  "models": {
+    "no_week": {
+      "aic": NaN,
+      "formula": "log_fan_share ~ age_centered + judge_score + industry_Athlete + industry_Entertainment + industry_Model + industry_Other + industry_Singer + industry_TV",
+      "gamma": 0.16130548,
+      "gamma_pvalue": 0.0,
+      "gamma_significant": true
+    },
+    "original": {
+      "aic": NaN,
+      "formula": "log_fan_share ~ age_centered + week + judge_score + industry_Athlete + industry_Entertainment + industry_Model + industry_Other + industry_Singer + industry_TV",
+      "gamma": 0.00371382,
+      "gamma_pvalue": 0.42198557,
+      "gamma_significant": false
+    },
+    "with_interaction": {
+      "aic": NaN,
+      "formula": "log_fan_share ~ age_centered + week + judge_score + judge_week_interaction + industry_Athlete + industry_Entertainment + industry_Model + industry_Other + industry_Singer + industry_TV",
+      "gamma": -0.04004846,
+      "gamma_pvalue": 0.0,
+      "gamma_significant": true,
+      "interaction_coef": 0.01197451,
+      "interaction_pvalue": 0.0,
+      "interaction_significant": true
+    }
+  },
+  "multicollinearity_detected": true
+}

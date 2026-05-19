@@ -1,0 +1,16 @@
+{
+  "fan": {
+    "icc": 0.21773037,
+    "pro_variance": 0.01413307,
+    "pro_variance_pct": 21.77303703,
+    "residual_variance": 0.05077783,
+    "total_variance": 0.0649109
+  },
+  "judge": {
+    "icc": 0.09486542,
+    "pro_variance": 0.09509914,
+    "pro_variance_pct": 9.48654228,
+    "residual_variance": 0.90736454,
+    "total_variance": 1.00246368
+  }
+}

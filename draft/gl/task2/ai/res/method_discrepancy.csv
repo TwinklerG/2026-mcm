@@ -1,0 +1,1341 @@
+season,week,discrepancy_prob,method1_eliminated,method2_eliminated,method_pair
+1,1,0.66,Joey McIntyre_S1,Joey McIntyre_S1,rank_rank_vs_percent_rank
+1,2,0.64,Joey McIntyre_S1,John O'Hurley_S1,rank_rank_vs_percent_rank
+1,3,0.74,John O'Hurley_S1,John O'Hurley_S1,rank_rank_vs_percent_rank
+1,4,0.77,Kelly Monaco_S1,John O'Hurley_S1,rank_rank_vs_percent_rank
+1,5,0.47,John O'Hurley_S1,John O'Hurley_S1,rank_rank_vs_percent_rank
+1,6,0.04,Kelly Monaco_S1,Kelly Monaco_S1,rank_rank_vs_percent_rank
+2,1,0.83,Drew Lachey_S2,Drew Lachey_S2,rank_rank_vs_percent_rank
+2,2,0.84,Tia Carrere_S2,Drew Lachey_S2,rank_rank_vs_percent_rank
+2,3,0.8,Tia Carrere_S2,Drew Lachey_S2,rank_rank_vs_percent_rank
+2,4,0.86,Stacy Keibler_S2,Stacy Keibler_S2,rank_rank_vs_percent_rank
+2,5,0.66,Stacy Keibler_S2,Stacy Keibler_S2,rank_rank_vs_percent_rank
+2,6,0.55,Drew Lachey_S2,Stacy Keibler_S2,rank_rank_vs_percent_rank
+2,7,0.39,Drew Lachey_S2,Drew Lachey_S2,rank_rank_vs_percent_rank
+2,8,0.75,Drew Lachey_S2,Jerry Rice_S2,rank_rank_vs_percent_rank
+3,1,0.84,Monique Coleman_S3,Mario Lopez_S3,rank_rank_vs_percent_rank
+3,2,0.8,Emmitt Smith_S3,Willa Ford_S3,rank_rank_vs_percent_rank
+3,3,0.84,Vivica A. Fox_S3,Willa Ford_S3,rank_rank_vs_percent_rank
+3,4,0.87,Joey Lawrence_S3,Willa Ford_S3,rank_rank_vs_percent_rank
+3,5,0.67,Emmitt Smith_S3,Mario Lopez_S3,rank_rank_vs_percent_rank
+3,6,0.67,Monique Coleman_S3,Monique Coleman_S3,rank_rank_vs_percent_rank
+3,7,0.61,Joey Lawrence_S3,Emmitt Smith_S3,rank_rank_vs_percent_rank
+3,8,0.71,Joey Lawrence_S3,Joey Lawrence_S3,rank_rank_vs_percent_rank
+3,9,0.21,Emmitt Smith_S3,Emmitt Smith_S3,rank_rank_vs_percent_rank
+3,10,0.01,Emmitt Smith_S3,Emmitt Smith_S3,rank_rank_vs_percent_rank
+4,1,0.88,Laila Ali_S4,Apolo Anton Ohno_S4,rank_rank_vs_percent_rank
+4,2,0.9,Ian Ziering_S4,Clyde Drexler_S4,rank_rank_vs_percent_rank
+4,3,0.81,Joey Fatone_S4,Leeza Gibbons_S4,rank_rank_vs_percent_rank
+4,4,0.84,Billy Ray Cyrus_S4,Apolo Anton Ohno_S4,rank_rank_vs_percent_rank
+4,5,0.77,Laila Ali_S4,Billy Ray Cyrus_S4,rank_rank_vs_percent_rank
+4,6,0.7,Laila Ali_S4,Apolo Anton Ohno_S4,rank_rank_vs_percent_rank
+4,7,0.73,Laila Ali_S4,Ian Ziering_S4,rank_rank_vs_percent_rank
+4,8,0.71,Ian Ziering_S4,Ian Ziering_S4,rank_rank_vs_percent_rank
+4,9,0.56,Laila Ali_S4,Laila Ali_S4,rank_rank_vs_percent_rank
+4,10,0.15,Apolo Anton Ohno_S4,Apolo Anton Ohno_S4,rank_rank_vs_percent_rank
+5,1,0.86,Mel B_S5,Mark Cuban_S5,rank_rank_vs_percent_rank
+5,2,0.86,Helio Castroneves_S5,Mel B_S5,rank_rank_vs_percent_rank
+5,3,0.87,Jane Seymour_S5,Mel B_S5,rank_rank_vs_percent_rank
+5,4,0.84,Jane Seymour_S5,Cameron Mathison_S5,rank_rank_vs_percent_rank
+5,5,0.74,Cameron Mathison_S5,Cameron Mathison_S5,rank_rank_vs_percent_rank
+5,6,0.75,Helio Castroneves_S5,Mel B_S5,rank_rank_vs_percent_rank
+5,7,0.65,Jane Seymour_S5,Helio Castroneves_S5,rank_rank_vs_percent_rank
+5,8,0.64,Helio Castroneves_S5,Helio Castroneves_S5,rank_rank_vs_percent_rank
+5,9,0.44,Helio Castroneves_S5,Helio Castroneves_S5,rank_rank_vs_percent_rank
+5,10,0.5,Mel B_S5,Helio Castroneves_S5,rank_rank_vs_percent_rank
+6,1,0.86,Steve Guttenberg_S6,Penn Jillette_S6,rank_rank_vs_percent_rank
+6,2,0.91,Shannon Elizabeth_S6,Jason Taylor_S6,rank_rank_vs_percent_rank
+6,3,0.82,Marlee Matlin_S6,Marlee Matlin_S6,rank_rank_vs_percent_rank
+6,4,0.88,Jason Taylor_S6,Kristi Yamaguchi_S6,rank_rank_vs_percent_rank
+6,5,0.81,Cristian de la Fuente_S6,Marissa Jaret Winokur_S6,rank_rank_vs_percent_rank
+6,6,0.73,Kristi Yamaguchi_S6,Shannon Elizabeth_S6,rank_rank_vs_percent_rank
+6,7,0.72,Marissa Jaret Winokur_S6,Jason Taylor_S6,rank_rank_vs_percent_rank
+6,8,0.58,Cristian de la Fuente_S6,Cristian de la Fuente_S6,rank_rank_vs_percent_rank
+6,9,0.72,Jason Taylor_S6,Kristi Yamaguchi_S6,rank_rank_vs_percent_rank
+6,10,0.27,Kristi Yamaguchi_S6,Kristi Yamaguchi_S6,rank_rank_vs_percent_rank
+7,1,0.9,Maurice Greene_S7,Toni Braxton_S7,rank_rank_vs_percent_rank
+7,2,0.88,Brooke Burke_S7,Cloris Leachman_S7,rank_rank_vs_percent_rank
+7,3,0.84,Toni Braxton_S7,Toni Braxton_S7,rank_rank_vs_percent_rank
+7,4,0.84,Lance Bass_S7,Warren Sapp_S7,rank_rank_vs_percent_rank
+7,5,0.8,Lance Bass_S7,Brooke Burke_S7,rank_rank_vs_percent_rank
+7,6,0.73,Warren Sapp_S7,Brooke Burke_S7,rank_rank_vs_percent_rank
+7,7,0.68,Maurice Greene_S7,Lance Bass_S7,rank_rank_vs_percent_rank
+7,8,0.61,Cody Linley_S7,Brooke Burke_S7,rank_rank_vs_percent_rank
+7,9,0.7,Brooke Burke_S7,Brooke Burke_S7,rank_rank_vs_percent_rank
+7,10,0.2,Brooke Burke_S7,Brooke Burke_S7,rank_rank_vs_percent_rank
+8,1,0.91,Melissa Rycroft_S8,Shawn Johnson_S8,rank_rank_vs_percent_rank
+8,2,0.88,Ty Murray_S8,Denise Richards_S8,rank_rank_vs_percent_rank
+8,3,0.89,Lawrence Taylor_S8,Ty Murray_S8,rank_rank_vs_percent_rank
+8,4,0.83,Steve Wozniak_S8,Ty Murray_S8,rank_rank_vs_percent_rank
+8,5,0.8,Lil' Kim_S8,Chuck Wicks_S8,rank_rank_vs_percent_rank
+8,6,0.85,Ty Murray_S8,Shawn Johnson_S8,rank_rank_vs_percent_rank
+8,7,0.72,Ty Murray_S8,Gilles Marini_S8,rank_rank_vs_percent_rank
+8,8,0.81,Gilles Marini_S8,Lil' Kim_S8,rank_rank_vs_percent_rank
+8,9,0.64,Gilles Marini_S8,Gilles Marini_S8,rank_rank_vs_percent_rank
+8,10,0.64,Shawn Johnson_S8,Gilles Marini_S8,rank_rank_vs_percent_rank
+8,11,0.28,Shawn Johnson_S8,Shawn Johnson_S8,rank_rank_vs_percent_rank
+9,1,0.97,Natalie Coughlin_S9,Mya_S9,rank_rank_vs_percent_rank
+9,2,0.9,Debi Mazar_S9,Aaron Carter_S9,rank_rank_vs_percent_rank
+9,3,0.9,Donny Osmond_S9,Joanna Krupa_S9,rank_rank_vs_percent_rank
+9,4,0.91,Natalie Coughlin_S9,Donny Osmond_S9,rank_rank_vs_percent_rank
+9,5,0.86,Mya_S9,Melissa Joan Hart_S9,rank_rank_vs_percent_rank
+9,6,0.87,Donny Osmond_S9,Joanna Krupa_S9,rank_rank_vs_percent_rank
+9,7,0.76,Donny Osmond_S9,Kelly Osbourne_S9,rank_rank_vs_percent_rank
+9,8,0.6,Mya_S9,Kelly Osbourne_S9,rank_rank_vs_percent_rank
+9,9,0.45,Mya_S9,Kelly Osbourne_S9,rank_rank_vs_percent_rank
+9,10,0.23,Donny Osmond_S9,Mya_S9,rank_rank_vs_percent_rank
+10,1,0.88,Evan Lysacek_S10,Jake Pavelka_S10,rank_rank_vs_percent_rank
+10,2,0.87,Pamela Anderson_S10,Nicole Scherzinger_S10,rank_rank_vs_percent_rank
+10,3,0.79,Evan Lysacek_S10,Nicole Scherzinger_S10,rank_rank_vs_percent_rank
+10,4,0.81,Nicole Scherzinger_S10,Chad Ochocinco_S10,rank_rank_vs_percent_rank
+10,5,0.77,Pamela Anderson_S10,Evan Lysacek_S10,rank_rank_vs_percent_rank
+10,6,0.71,Chad Ochocinco_S10,Niecy Nash_S10,rank_rank_vs_percent_rank
+10,7,0.76,Nicole Scherzinger_S10,Evan Lysacek_S10,rank_rank_vs_percent_rank
+10,8,0.68,Chad Ochocinco_S10,Evan Lysacek_S10,rank_rank_vs_percent_rank
+10,9,0.44,Evan Lysacek_S10,Nicole Scherzinger_S10,rank_rank_vs_percent_rank
+10,10,0.25,Nicole Scherzinger_S10,Nicole Scherzinger_S10,rank_rank_vs_percent_rank
+11,1,0.87,Kurt Warner_S11,Brandy_S11,rank_rank_vs_percent_rank
+11,2,0.92,Audrina Patridge_S11,Rick Fox_S11,rank_rank_vs_percent_rank
+11,3,0.88,The Situation_S11,Rick Fox_S11,rank_rank_vs_percent_rank
+11,4,0.86,Audrina Patridge_S11,Jennifer Grey_S11,rank_rank_vs_percent_rank
+11,5,0.78,Kurt Warner_S11,Jennifer Grey_S11,rank_rank_vs_percent_rank
+11,6,0.81,Jennifer Grey_S11,Brandy_S11,rank_rank_vs_percent_rank
+11,7,0.67,Kurt Warner_S11,Brandy_S11,rank_rank_vs_percent_rank
+11,8,0.55,Bristol Palin_S11,Jennifer Grey_S11,rank_rank_vs_percent_rank
+11,9,0.59,Jennifer Grey_S11,Kyle Massey_S11,rank_rank_vs_percent_rank
+11,10,0.28,Jennifer Grey_S11,Kyle Massey_S11,rank_rank_vs_percent_rank
+12,1,0.82,Ralph Macchio_S12,Kirstie Alley_S12,rank_rank_vs_percent_rank
+12,2,0.84,Kirstie Alley_S12,Ralph Macchio_S12,rank_rank_vs_percent_rank
+12,3,0.78,Kendra Wilkinson_S12,Hines Ward_S12,rank_rank_vs_percent_rank
+12,4,0.83,Hines Ward_S12,Chris Jericho_S12,rank_rank_vs_percent_rank
+12,5,0.81,Hines Ward_S12,Romeo_S12,rank_rank_vs_percent_rank
+12,6,0.72,Hines Ward_S12,Romeo_S12,rank_rank_vs_percent_rank
+12,7,0.7,Ralph Macchio_S12,Ralph Macchio_S12,rank_rank_vs_percent_rank
+12,8,0.67,Kirstie Alley_S12,Chelsea Kane_S12,rank_rank_vs_percent_rank
+12,9,0.66,Hines Ward_S12,Ralph Macchio_S12,rank_rank_vs_percent_rank
+12,10,0.21,Hines Ward_S12,Hines Ward_S12,rank_rank_vs_percent_rank
+13,1,0.94,Chaz Bono_S13,Kristin Cavallari_S13,rank_rank_vs_percent_rank
+13,2,0.91,Kristin Cavallari_S13,J.R. Martinez_S13,rank_rank_vs_percent_rank
+13,3,0.91,Hope Solo_S13,J.R. Martinez_S13,rank_rank_vs_percent_rank
+13,4,0.86,J.R. Martinez_S13,Ricki Lake_S13,rank_rank_vs_percent_rank
+13,5,0.83,J.R. Martinez_S13,J.R. Martinez_S13,rank_rank_vs_percent_rank
+13,6,0.75,J.R. Martinez_S13,J.R. Martinez_S13,rank_rank_vs_percent_rank
+13,7,0.63,Ricki Lake_S13,Ricki Lake_S13,rank_rank_vs_percent_rank
+13,8,0.77,Hope Solo_S13,J.R. Martinez_S13,rank_rank_vs_percent_rank
+13,9,0.48,Ricki Lake_S13,Rob Kardashian_S13,rank_rank_vs_percent_rank
+13,10,0.52,Rob Kardashian_S13,J.R. Martinez_S13,rank_rank_vs_percent_rank
+14,1,0.9,Jaleel White_S14,Gavin DeGraw_S14,rank_rank_vs_percent_rank
+14,2,0.93,William Levy_S14,Roshon Fegan_S14,rank_rank_vs_percent_rank
+14,3,0.86,Gavin DeGraw_S14,Katherine Jenkins_S14,rank_rank_vs_percent_rank
+14,4,0.85,William Levy_S14,Katherine Jenkins_S14,rank_rank_vs_percent_rank
+14,5,0.81,William Levy_S14,Donald Driver_S14,rank_rank_vs_percent_rank
+14,6,0.78,Melissa Gilbert_S14,Donald Driver_S14,rank_rank_vs_percent_rank
+14,7,0.85,Maria Menounos_S14,Roshon Fegan_S14,rank_rank_vs_percent_rank
+14,8,0.61,Roshon Fegan_S14,William Levy_S14,rank_rank_vs_percent_rank
+14,9,0.61,Donald Driver_S14,William Levy_S14,rank_rank_vs_percent_rank
+14,10,0.5,Katherine Jenkins_S14,Donald Driver_S14,rank_rank_vs_percent_rank
+15,1,0.89,Kelly Monaco_S15,Joey Fatone_S15,rank_rank_vs_percent_rank
+15,2,0.89,Melissa Rycroft_S15,Sabrina Bryan_S15,rank_rank_vs_percent_rank
+15,3,0.85,Sabrina Bryan_S15,Kelly Monaco_S15,rank_rank_vs_percent_rank
+15,4,0.8,Kelly Monaco_S15,Shawn Johnson_S15,rank_rank_vs_percent_rank
+15,5,0.8,Gilles Marini_S15,Emmitt Smith_S15,rank_rank_vs_percent_rank
+15,6,0.82,Gilles Marini_S15,Kirstie Alley_S15,rank_rank_vs_percent_rank
+15,7,0.8,Emmitt Smith_S15,Emmitt Smith_S15,rank_rank_vs_percent_rank
+15,8,0.76,Apolo Anton Ohno_S15,Melissa Rycroft_S15,rank_rank_vs_percent_rank
+15,9,0.58,Shawn Johnson_S15,Shawn Johnson_S15,rank_rank_vs_percent_rank
+15,10,0.36,Shawn Johnson_S15,Melissa Rycroft_S15,rank_rank_vs_percent_rank
+16,1,0.88,Zendaya_S16,Alexandra Raisman_S16,rank_rank_vs_percent_rank
+16,2,0.88,Kellie Pickler_S16,Ingo Rademacher_S16,rank_rank_vs_percent_rank
+16,3,0.88,Alexandra Raisman_S16,Victor Ortiz_S16,rank_rank_vs_percent_rank
+16,4,0.87,Alexandra Raisman_S16,Ingo Rademacher_S16,rank_rank_vs_percent_rank
+16,5,0.83,Jacoby Jones_S16,Jacoby Jones_S16,rank_rank_vs_percent_rank
+16,6,0.84,Sean Lowe_S16,Sean Lowe_S16,rank_rank_vs_percent_rank
+16,7,0.87,Jacoby Jones_S16,Jacoby Jones_S16,rank_rank_vs_percent_rank
+16,8,0.68,Ingo Rademacher_S16,Zendaya_S16,rank_rank_vs_percent_rank
+16,9,0.61,Alexandra Raisman_S16,Alexandra Raisman_S16,rank_rank_vs_percent_rank
+16,10,0.45,Jacoby Jones_S16,Kellie Pickler_S16,rank_rank_vs_percent_rank
+17,1,0.93,Amber Riley_S17,Amber Riley_S17,rank_rank_vs_percent_rank
+17,2,0.88,Jack Osbourne_S17,Christina Milian_S17,rank_rank_vs_percent_rank
+17,3,0.92,"Nicole ""Snooki"" Polizzi_S17",Brant Daugherty_S17,rank_rank_vs_percent_rank
+17,4,0.86,Bill Engvall_S17,Corbin Bleu_S17,rank_rank_vs_percent_rank
+17,5,0.81,Jack Osbourne_S17,Amber Riley_S17,rank_rank_vs_percent_rank
+17,6,0.82,Elizabeth Berkley Lauren_S17,Amber Riley_S17,rank_rank_vs_percent_rank
+17,7,0.78,Corbin Bleu_S17,Corbin Bleu_S17,rank_rank_vs_percent_rank
+17,8,0.79,Elizabeth Berkley Lauren_S17,Leah Remini_S17,rank_rank_vs_percent_rank
+17,9,0.81,Corbin Bleu_S17,Corbin Bleu_S17,rank_rank_vs_percent_rank
+17,10,0.77,Amber Riley_S17,Corbin Bleu_S17,rank_rank_vs_percent_rank
+17,11,0.44,Bill Engvall_S17,Corbin Bleu_S17,rank_rank_vs_percent_rank
+18,1,0.92,Meryl Davis_S18,Charlie White_S18,rank_rank_vs_percent_rank
+18,2,0.89,Amy Purdy_S18,Meryl Davis_S18,rank_rank_vs_percent_rank
+18,3,0.83,NeNe Leakes_S18,Meryl Davis_S18,rank_rank_vs_percent_rank
+18,4,0.83,Meryl Davis_S18,Amy Purdy_S18,rank_rank_vs_percent_rank
+18,5,0.82,Meryl Davis_S18,Danica McKellar_S18,rank_rank_vs_percent_rank
+18,6,0.78,Charlie White_S18,Amy Purdy_S18,rank_rank_vs_percent_rank
+18,7,0.76,Amy Purdy_S18,Amy Purdy_S18,rank_rank_vs_percent_rank
+18,8,0.67,Meryl Davis_S18,Meryl Davis_S18,rank_rank_vs_percent_rank
+18,9,0.55,Meryl Davis_S18,Meryl Davis_S18,rank_rank_vs_percent_rank
+18,10,0.45,Meryl Davis_S18,Meryl Davis_S18,rank_rank_vs_percent_rank
+19,1,0.86,Bethany Mota_S19,Bethany Mota_S19,rank_rank_vs_percent_rank
+19,2,0.87,Jonathan Bennett_S19,Jonathan Bennett_S19,rank_rank_vs_percent_rank
+19,3,0.86,Bethany Mota_S19,Bethany Mota_S19,rank_rank_vs_percent_rank
+19,4,0.84,Sadie Robertson_S19,Lea Thompson_S19,rank_rank_vs_percent_rank
+19,5,0.87,Bethany Mota_S19,Bethany Mota_S19,rank_rank_vs_percent_rank
+19,6,0.82,Michael Waltrip_S19,Bethany Mota_S19,rank_rank_vs_percent_rank
+19,7,0.75,Bethany Mota_S19,Alfonso Ribeiro_S19,rank_rank_vs_percent_rank
+19,8,0.66,Bethany Mota_S19,Bethany Mota_S19,rank_rank_vs_percent_rank
+19,9,0.62,Janel Parrish_S19,Alfonso Ribeiro_S19,rank_rank_vs_percent_rank
+19,10,0.54,Bethany Mota_S19,Janel Parrish_S19,rank_rank_vs_percent_rank
+19,11,0.48,Alfonso Ribeiro_S19,Alfonso Ribeiro_S19,rank_rank_vs_percent_rank
+20,1,0.89,Rumer Willis_S20,Redfoo_S20,rank_rank_vs_percent_rank
+20,2,0.88,Nastia Liukin_S20,Patti LaBelle_S20,rank_rank_vs_percent_rank
+20,3,0.82,Willow Shields_S20,Nastia Liukin_S20,rank_rank_vs_percent_rank
+20,4,0.86,Rumer Willis_S20,Willow Shields_S20,rank_rank_vs_percent_rank
+20,5,0.77,Chris Soules_S20,Nastia Liukin_S20,rank_rank_vs_percent_rank
+20,6,0.82,Nastia Liukin_S20,Nastia Liukin_S20,rank_rank_vs_percent_rank
+20,7,0.71,Chris Soules_S20,Rumer Willis_S20,rank_rank_vs_percent_rank
+20,8,0.67,Rumer Willis_S20,Rumer Willis_S20,rank_rank_vs_percent_rank
+20,9,0.43,Riker Lynch_S20,Riker Lynch_S20,rank_rank_vs_percent_rank
+20,10,0.2,Rumer Willis_S20,Rumer Willis_S20,rank_rank_vs_percent_rank
+21,1,0.9,Alek Skarlatos_S21,Hayes Grier_S21,rank_rank_vs_percent_rank
+21,2,0.91,Nick Carter_S21,Alexa PenaVega_S21,rank_rank_vs_percent_rank
+21,3,0.86,Alexa PenaVega_S21,Alexa PenaVega_S21,rank_rank_vs_percent_rank
+21,4,0.81,Hayes Grier_S21,Hayes Grier_S21,rank_rank_vs_percent_rank
+21,5,0.78,Hayes Grier_S21,Alexa PenaVega_S21,rank_rank_vs_percent_rank
+21,6,0.87,Hayes Grier_S21,Hayes Grier_S21,rank_rank_vs_percent_rank
+21,7,0.83,Alexa PenaVega_S21,Carlos PenaVega_S21,rank_rank_vs_percent_rank
+21,8,0.75,Nick Carter_S21,Nick Carter_S21,rank_rank_vs_percent_rank
+21,9,0.7,Alexa PenaVega_S21,Bindi Irwin_S21,rank_rank_vs_percent_rank
+21,10,0.41,Carlos PenaVega_S21,Bindi Irwin_S21,rank_rank_vs_percent_rank
+21,11,0.42,Bindi Irwin_S21,Bindi Irwin_S21,rank_rank_vs_percent_rank
+22,1,0.86,Jodie Sweetin_S22,Marla Maples_S22,rank_rank_vs_percent_rank
+22,2,0.92,Ginger Zee_S22,Jodie Sweetin_S22,rank_rank_vs_percent_rank
+22,3,0.82,Wanya Morris_S22,Wanya Morris_S22,rank_rank_vs_percent_rank
+22,4,0.83,Kim Fields_S22,Marla Maples_S22,rank_rank_vs_percent_rank
+22,5,0.86,Ginger Zee_S22,Nyle DiMarco_S22,rank_rank_vs_percent_rank
+22,6,0.89,Antonio Brown_S22,Paige VanZant_S22,rank_rank_vs_percent_rank
+22,7,0.8,Wanya Morris_S22,Antonio Brown_S22,rank_rank_vs_percent_rank
+22,8,0.72,Ginger Zee_S22,Ginger Zee_S22,rank_rank_vs_percent_rank
+22,9,0.47,Nyle DiMarco_S22,Paige VanZant_S22,rank_rank_vs_percent_rank
+22,10,0.55,Nyle DiMarco_S22,Nyle DiMarco_S22,rank_rank_vs_percent_rank
+23,1,0.85,James Hinchcliffe_S23,James Hinchcliffe_S23,rank_rank_vs_percent_rank
+23,2,0.86,James Hinchcliffe_S23,Terra Jole_S23,rank_rank_vs_percent_rank
+23,3,0.88,Terra Jole_S23,Rick Perry_S23,rank_rank_vs_percent_rank
+23,4,0.86,Jana Kramer_S23,Calvin Johnson Jr._S23,rank_rank_vs_percent_rank
+23,5,0.88,James Hinchcliffe_S23,Terra Jole_S23,rank_rank_vs_percent_rank
+23,6,0.92,Marilu Henner_S23,Jana Kramer_S23,rank_rank_vs_percent_rank
+23,7,0.77,Terra Jole_S23,James Hinchcliffe_S23,rank_rank_vs_percent_rank
+23,8,0.7,Calvin Johnson Jr._S23,Laurie Hernandez_S23,rank_rank_vs_percent_rank
+23,9,0.66,Jana Kramer_S23,Jana Kramer_S23,rank_rank_vs_percent_rank
+23,10,0.61,Terra Jole_S23,Jana Kramer_S23,rank_rank_vs_percent_rank
+23,11,0.44,Calvin Johnson Jr._S23,Laurie Hernandez_S23,rank_rank_vs_percent_rank
+24,1,0.85,Rashad Jennings_S24,Rashad Jennings_S24,rank_rank_vs_percent_rank
+24,2,0.9,Charo_S24,Rashad Jennings_S24,rank_rank_vs_percent_rank
+24,3,0.98,Rashad Jennings_S24,Erika Jayne_S24,rank_rank_vs_percent_rank
+24,4,0.88,Rashad Jennings_S24,Simone Biles_S24,rank_rank_vs_percent_rank
+24,5,0.88,Simone Biles_S24,Normani_S24,rank_rank_vs_percent_rank
+24,6,0.85,Nancy Kerrigan_S24,Normani_S24,rank_rank_vs_percent_rank
+24,7,0.74,Normani_S24,Rashad Jennings_S24,rank_rank_vs_percent_rank
+24,8,0.6,David Ross_S24,Rashad Jennings_S24,rank_rank_vs_percent_rank
+24,9,0.48,Rashad Jennings_S24,Rashad Jennings_S24,rank_rank_vs_percent_rank
+24,10,0.28,Rashad Jennings_S24,Rashad Jennings_S24,rank_rank_vs_percent_rank
+25,1,0.89,Sasha Pieterse_S25,Sasha Pieterse_S25,rank_rank_vs_percent_rank
+25,2,0.92,Drew Scott_S25,Frankie Muniz_S25,rank_rank_vs_percent_rank
+25,3,0.86,Derek Fisher_S25,Jordan Fisher_S25,rank_rank_vs_percent_rank
+25,4,0.85,Vanessa Lachey_S25,Jordan Fisher_S25,rank_rank_vs_percent_rank
+25,5,0.84,Jordan Fisher_S25,Jordan Fisher_S25,rank_rank_vs_percent_rank
+25,6,0.82,Victoria Arlen_S25,Jordan Fisher_S25,rank_rank_vs_percent_rank
+25,7,0.75,Drew Scott_S25,Drew Scott_S25,rank_rank_vs_percent_rank
+25,8,0.86,Lindsey Stirling_S25,Drew Scott_S25,rank_rank_vs_percent_rank
+25,9,0.52,Jordan Fisher_S25,Lindsey Stirling_S25,rank_rank_vs_percent_rank
+25,10,0.44,Jordan Fisher_S25,Jordan Fisher_S25,rank_rank_vs_percent_rank
+26,1,0.84,Josh Norman_S26,Josh Norman_S26,rank_rank_vs_percent_rank
+26,2,0.88,Adam Rippon_S26,Josh Norman_S26,rank_rank_vs_percent_rank
+26,3,0.77,Tonya Harding_S26,Adam Rippon_S26,rank_rank_vs_percent_rank
+26,4,0.21,Adam Rippon_S26,Adam Rippon_S26,rank_rank_vs_percent_rank
+27,1,0.88,Juan Pablo Di Pace_S27,DeMarcus Ware_S27,rank_rank_vs_percent_rank
+27,2,0.89,John Schneider_S27,Mary Lou Retton_S27,rank_rank_vs_percent_rank
+27,3,0.82,Evanna Lynch_S27,Juan Pablo Di Pace_S27,rank_rank_vs_percent_rank
+27,4,0.88,Mary Lou Retton_S27,Alexis Ren_S27,rank_rank_vs_percent_rank
+27,5,0.84,Milo Manheim_S27,Juan Pablo Di Pace_S27,rank_rank_vs_percent_rank
+27,6,0.9,Evanna Lynch_S27,Juan Pablo Di Pace_S27,rank_rank_vs_percent_rank
+27,7,0.71,Joe Amabile_S27,Evanna Lynch_S27,rank_rank_vs_percent_rank
+27,8,0.77,Evanna Lynch_S27,Alexis Ren_S27,rank_rank_vs_percent_rank
+27,9,0.78,Bobby Bones_S27,Milo Manheim_S27,rank_rank_vs_percent_rank
+28,1,0.89,Kel Mitchell_S28,Sean Spicer_S28,rank_rank_vs_percent_rank
+28,2,0.84,Mary Wilson_S28,Sean Spicer_S28,rank_rank_vs_percent_rank
+28,3,0.82,James Van Der Beek_S28,James Van Der Beek_S28,rank_rank_vs_percent_rank
+28,4,0.79,Lauren Alaina_S28,Karamo Brown_S28,rank_rank_vs_percent_rank
+28,5,0.85,James Van Der Beek_S28,Hannah Brown_S28,rank_rank_vs_percent_rank
+28,6,0.85,James Van Der Beek_S28,Lauren Alaina_S28,rank_rank_vs_percent_rank
+28,7,0.81,Hannah Brown_S28,Lauren Alaina_S28,rank_rank_vs_percent_rank
+28,8,0.82,James Van Der Beek_S28,James Van Der Beek_S28,rank_rank_vs_percent_rank
+28,9,0.79,James Van Der Beek_S28,Ally Brooke_S28,rank_rank_vs_percent_rank
+28,10,0.63,Ally Brooke_S28,Ally Brooke_S28,rank_rank_vs_percent_rank
+28,11,0.54,Hannah Brown_S28,Hannah Brown_S28,rank_rank_vs_percent_rank
+29,1,0.91,Kaitlyn Bristowe_S29,Jeannie Mai_S29,rank_rank_vs_percent_rank
+29,2,0.95,Kaitlyn Bristowe_S29,Carole Baskin_S29,rank_rank_vs_percent_rank
+29,3,0.86,Kaitlyn Bristowe_S29,Johnny Weir_S29,rank_rank_vs_percent_rank
+29,4,0.93,Skai Jackson_S29,AJ McLean_S29,rank_rank_vs_percent_rank
+29,5,0.85,Johnny Weir_S29,Monica Aldama_S29,rank_rank_vs_percent_rank
+29,6,0.84,Nelly_S29,Nelly_S29,rank_rank_vs_percent_rank
+29,7,0.83,Nev Schulman_S29,AJ McLean_S29,rank_rank_vs_percent_rank
+29,8,0.88,Nev Schulman_S29,Johnny Weir_S29,rank_rank_vs_percent_rank
+29,9,0.73,Johnny Weir_S29,Johnny Weir_S29,rank_rank_vs_percent_rank
+29,10,0.74,Kaitlyn Bristowe_S29,Skai Jackson_S29,rank_rank_vs_percent_rank
+29,11,0.44,Kaitlyn Bristowe_S29,Kaitlyn Bristowe_S29,rank_rank_vs_percent_rank
+30,1,0.9,Cody Rigsby_S30,Melora Hardin_S30,rank_rank_vs_percent_rank
+30,2,0.92,Melora Hardin_S30,JoJo Siwa_S30,rank_rank_vs_percent_rank
+30,3,0.84,Kenya Moore_S30,JoJo Siwa_S30,rank_rank_vs_percent_rank
+30,4,0.92,"Mike ""The Miz"" Mizanin_S30",Melora Hardin_S30,rank_rank_vs_percent_rank
+30,5,0.84,Melora Hardin_S30,Olivia Jade_S30,rank_rank_vs_percent_rank
+30,6,0.88,Amanda Kloots_S30,Iman Shumpert_S30,rank_rank_vs_percent_rank
+30,7,0.8,JoJo Siwa_S30,JoJo Siwa_S30,rank_rank_vs_percent_rank
+30,8,0.81,Amanda Kloots_S30,Amanda Kloots_S30,rank_rank_vs_percent_rank
+30,9,0.71,JoJo Siwa_S30,Melora Hardin_S30,rank_rank_vs_percent_rank
+30,10,0.53,Iman Shumpert_S30,Iman Shumpert_S30,rank_rank_vs_percent_rank
+31,1,0.91,Sam Champion_S31,Daniel Durant_S31,rank_rank_vs_percent_rank
+31,2,0.91,Charli D'Amelio_S31,Sam Champion_S31,rank_rank_vs_percent_rank
+31,3,0.85,Charli D'Amelio_S31,Trevor Donovan_S31,rank_rank_vs_percent_rank
+31,4,0.91,Heidi D'Amelio_S31,Heidi D'Amelio_S31,rank_rank_vs_percent_rank
+31,5,0.82,Jordin Sparks_S31,Gabby Windey_S31,rank_rank_vs_percent_rank
+31,6,0.81,Daniel Durant_S31,Gabby Windey_S31,rank_rank_vs_percent_rank
+31,7,0.8,Charli D'Amelio_S31,Charli D'Amelio_S31,rank_rank_vs_percent_rank
+31,8,0.76,Trevor Donovan_S31,Charli D'Amelio_S31,rank_rank_vs_percent_rank
+31,9,0.67,Charli D'Amelio_S31,Shangela_S31,rank_rank_vs_percent_rank
+31,10,0.53,Charli D'Amelio_S31,Wayne Brady_S31,rank_rank_vs_percent_rank
+32,1,0.94,Tyson Beckford_S32,Ariana Madix_S32,rank_rank_vs_percent_rank
+32,2,0.82,Mira Sorvino_S32,Mira Sorvino_S32,rank_rank_vs_percent_rank
+32,3,0.86,Charity Lawson_S32,Xochitl Gomez_S32,rank_rank_vs_percent_rank
+32,4,0.82,Ariana Madix_S32,Ariana Madix_S32,rank_rank_vs_percent_rank
+32,5,0.9,Lele Pons_S32,Jason Mraz_S32,rank_rank_vs_percent_rank
+32,6,0.9,Xochitl Gomez_S32,Lele Pons_S32,rank_rank_vs_percent_rank
+32,7,0.87,Xochitl Gomez_S32,Ariana Madix_S32,rank_rank_vs_percent_rank
+32,8,0.76,Ariana Madix_S32,Ariana Madix_S32,rank_rank_vs_percent_rank
+32,9,0.76,Jason Mraz_S32,Jason Mraz_S32,rank_rank_vs_percent_rank
+32,10,0.67,Xochitl Gomez_S32,Charity Lawson_S32,rank_rank_vs_percent_rank
+32,11,0.62,Charity Lawson_S32,Xochitl Gomez_S32,rank_rank_vs_percent_rank
+33,1,0.88,Dwight Howard _S33,Stephen Nedoroscik_S33,rank_rank_vs_percent_rank
+33,2,0.93,Ilona Maher_S33,Jenn Tran_S33,rank_rank_vs_percent_rank
+33,3,0.88,Eric Roberts_S33,Chandler Kinney_S33,rank_rank_vs_percent_rank
+33,4,0.84,Danny Amendola_S33,Danny Amendola_S33,rank_rank_vs_percent_rank
+33,5,0.82,Joey Graziadei_S33,Danny Amendola_S33,rank_rank_vs_percent_rank
+33,6,0.78,Dwight Howard _S33,Chandler Kinney_S33,rank_rank_vs_percent_rank
+33,7,0.72,Chandler Kinney_S33,Joey Graziadei_S33,rank_rank_vs_percent_rank
+33,8,0.7,Chandler Kinney_S33,Chandler Kinney_S33,rank_rank_vs_percent_rank
+33,9,0.66,Chandler Kinney_S33,Ilona Maher_S33,rank_rank_vs_percent_rank
+34,1,0.91,Andy Richter_S34,Jen Affleck_S34,rank_rank_vs_percent_rank
+34,2,0.88,Jordan Chiles_S34,Alix Earle_S34,rank_rank_vs_percent_rank
+34,3,0.89,Jordan Chiles_S34,Jordan Chiles_S34,rank_rank_vs_percent_rank
+34,4,0.82,Dylan Efron_S34,Whitney Leavitt_S34,rank_rank_vs_percent_rank
+34,5,0.85,Dylan Efron_S34,Danielle Fishel_S34,rank_rank_vs_percent_rank
+34,6,0.85,Whitney Leavitt_S34,Danielle Fishel_S34,rank_rank_vs_percent_rank
+34,7,0.85,Jordan Chiles_S34,Dylan Efron_S34,rank_rank_vs_percent_rank
+34,8,0.78,Andy Richter_S34,Whitney Leavitt_S34,rank_rank_vs_percent_rank
+34,9,0.7,Dylan Efron_S34,Dylan Efron_S34,rank_rank_vs_percent_rank
+34,10,0.77,Alix Earle_S34,Alix Earle_S34,rank_rank_vs_percent_rank
+34,11,0.55,Alix Earle_S34,Robert Irwin_S34,rank_rank_vs_percent_rank
+1,1,0.89,Kelly Monaco_S1,Rachel Hunter_S1,fan_rank_vs_judge_rank
+1,2,0.96,Joey McIntyre_S1,John O'Hurley_S1,fan_rank_vs_judge_rank
+1,3,0.93,Evander Holyfield_S1,Rachel Hunter_S1,fan_rank_vs_judge_rank
+1,4,0.98,Joey McIntyre_S1,Kelly Monaco_S1,fan_rank_vs_judge_rank
+1,5,0.78,John O'Hurley_S1,John O'Hurley_S1,fan_rank_vs_judge_rank
+1,6,0.04,Kelly Monaco_S1,Kelly Monaco_S1,fan_rank_vs_judge_rank
+2,1,0.95,Master P_S2,Drew Lachey_S2,fan_rank_vs_judge_rank
+2,2,0.93,Lisa Rinna_S2,Drew Lachey_S2,fan_rank_vs_judge_rank
+2,3,0.96,Master P_S2,Drew Lachey_S2,fan_rank_vs_judge_rank
+2,4,0.89,Lisa Rinna_S2,Stacy Keibler_S2,fan_rank_vs_judge_rank
+2,5,0.91,Jerry Rice_S2,Stacy Keibler_S2,fan_rank_vs_judge_rank
+2,6,0.9,Jerry Rice_S2,Stacy Keibler_S2,fan_rank_vs_judge_rank
+2,7,0.88,Jerry Rice_S2,Drew Lachey_S2,fan_rank_vs_judge_rank
+2,8,0.87,Drew Lachey_S2,Drew Lachey_S2,fan_rank_vs_judge_rank
+3,1,0.93,Sara Evans_S3,Mario Lopez_S3,fan_rank_vs_judge_rank
+3,2,0.93,Emmitt Smith_S3,Willa Ford_S3,fan_rank_vs_judge_rank
+3,3,0.94,Mario Lopez_S3,Willa Ford_S3,fan_rank_vs_judge_rank
+3,4,0.96,Jerry Springer_S3,Willa Ford_S3,fan_rank_vs_judge_rank
+3,5,0.88,Jerry Springer_S3,Mario Lopez_S3,fan_rank_vs_judge_rank
+3,6,0.71,Monique Coleman_S3,Monique Coleman_S3,fan_rank_vs_judge_rank
+3,7,0.7,Mario Lopez_S3,Joey Lawrence_S3,fan_rank_vs_judge_rank
+3,8,0.76,Joey Lawrence_S3,Joey Lawrence_S3,fan_rank_vs_judge_rank
+3,9,0.62,Emmitt Smith_S3,Emmitt Smith_S3,fan_rank_vs_judge_rank
+3,10,0.47,Emmitt Smith_S3,Emmitt Smith_S3,fan_rank_vs_judge_rank
+4,1,0.93,Billy Ray Cyrus_S4,Apolo Anton Ohno_S4,fan_rank_vs_judge_rank
+4,2,0.92,Ian Ziering_S4,Clyde Drexler_S4,fan_rank_vs_judge_rank
+4,3,0.89,Joey Fatone_S4,Leeza Gibbons_S4,fan_rank_vs_judge_rank
+4,4,0.93,Billy Ray Cyrus_S4,Apolo Anton Ohno_S4,fan_rank_vs_judge_rank
+4,5,0.85,Billy Ray Cyrus_S4,Billy Ray Cyrus_S4,fan_rank_vs_judge_rank
+4,6,0.95,Ian Ziering_S4,Apolo Anton Ohno_S4,fan_rank_vs_judge_rank
+4,7,0.89,Laila Ali_S4,Ian Ziering_S4,fan_rank_vs_judge_rank
+4,8,0.91,Ian Ziering_S4,Ian Ziering_S4,fan_rank_vs_judge_rank
+4,9,0.82,Laila Ali_S4,Joey Fatone_S4,fan_rank_vs_judge_rank
+4,10,0.15,Apolo Anton Ohno_S4,Apolo Anton Ohno_S4,fan_rank_vs_judge_rank
+5,1,0.89,Mel B_S5,Mark Cuban_S5,fan_rank_vs_judge_rank
+5,2,0.91,Mark Cuban_S5,Mel B_S5,fan_rank_vs_judge_rank
+5,3,0.93,Floyd Mayweather Jr. _S5,Mel B_S5,fan_rank_vs_judge_rank
+5,4,0.89,Jane Seymour_S5,Cameron Mathison_S5,fan_rank_vs_judge_rank
+5,5,0.91,Cameron Mathison_S5,Cameron Mathison_S5,fan_rank_vs_judge_rank
+5,6,0.96,Jane Seymour_S5,Mel B_S5,fan_rank_vs_judge_rank
+5,7,0.86,Cameron Mathison_S5,Jennie Garth_S5,fan_rank_vs_judge_rank
+5,8,0.65,Helio Castroneves_S5,Helio Castroneves_S5,fan_rank_vs_judge_rank
+5,9,0.58,Helio Castroneves_S5,Helio Castroneves_S5,fan_rank_vs_judge_rank
+5,10,0.83,Helio Castroneves_S5,Helio Castroneves_S5,fan_rank_vs_judge_rank
+6,1,0.89,Steve Guttenberg_S6,Penn Jillette_S6,fan_rank_vs_judge_rank
+6,2,0.93,Steve Guttenberg_S6,Jason Taylor_S6,fan_rank_vs_judge_rank
+6,3,0.89,Marlee Matlin_S6,Marlee Matlin_S6,fan_rank_vs_judge_rank
+6,4,0.91,Marissa Jaret Winokur_S6,Kristi Yamaguchi_S6,fan_rank_vs_judge_rank
+6,5,0.93,Marlee Matlin_S6,Marissa Jaret Winokur_S6,fan_rank_vs_judge_rank
+6,6,0.84,Shannon Elizabeth_S6,Shannon Elizabeth_S6,fan_rank_vs_judge_rank
+6,7,0.93,Cristian de la Fuente_S6,Jason Taylor_S6,fan_rank_vs_judge_rank
+6,8,0.92,Marissa Jaret Winokur_S6,Cristian de la Fuente_S6,fan_rank_vs_judge_rank
+6,9,0.89,Jason Taylor_S6,Kristi Yamaguchi_S6,fan_rank_vs_judge_rank
+6,10,0.27,Kristi Yamaguchi_S6,Kristi Yamaguchi_S6,fan_rank_vs_judge_rank
+7,1,0.98,Cloris Leachman_S7,Toni Braxton_S7,fan_rank_vs_judge_rank
+7,2,0.95,Rocco DiSpirito_S7,Cloris Leachman_S7,fan_rank_vs_judge_rank
+7,3,0.87,Toni Braxton_S7,Toni Braxton_S7,fan_rank_vs_judge_rank
+7,4,0.95,Warren Sapp_S7,Warren Sapp_S7,fan_rank_vs_judge_rank
+7,5,0.91,Cloris Leachman_S7,Toni Braxton_S7,fan_rank_vs_judge_rank
+7,6,0.88,Warren Sapp_S7,Brooke Burke_S7,fan_rank_vs_judge_rank
+7,7,0.9,Warren Sapp_S7,Lance Bass_S7,fan_rank_vs_judge_rank
+7,8,0.92,Cody Linley_S7,Brooke Burke_S7,fan_rank_vs_judge_rank
+7,9,0.79,Brooke Burke_S7,Brooke Burke_S7,fan_rank_vs_judge_rank
+7,10,0.26,Brooke Burke_S7,Brooke Burke_S7,fan_rank_vs_judge_rank
+8,1,0.92,Ty Murray_S8,Shawn Johnson_S8,fan_rank_vs_judge_rank
+8,2,0.94,Ty Murray_S8,Denise Richards_S8,fan_rank_vs_judge_rank
+8,3,0.93,Lawrence Taylor_S8,Ty Murray_S8,fan_rank_vs_judge_rank
+8,4,0.89,Steve Wozniak_S8,Ty Murray_S8,fan_rank_vs_judge_rank
+8,5,0.95,Steve-O_S8,Chuck Wicks_S8,fan_rank_vs_judge_rank
+8,6,0.94,Ty Murray_S8,Shawn Johnson_S8,fan_rank_vs_judge_rank
+8,7,0.89,Ty Murray_S8,Gilles Marini_S8,fan_rank_vs_judge_rank
+8,8,0.89,Melissa Rycroft_S8,Lil' Kim_S8,fan_rank_vs_judge_rank
+8,9,0.87,Ty Murray_S8,Melissa Rycroft_S8,fan_rank_vs_judge_rank
+8,10,0.88,Melissa Rycroft_S8,Gilles Marini_S8,fan_rank_vs_judge_rank
+8,11,0.28,Shawn Johnson_S8,Shawn Johnson_S8,fan_rank_vs_judge_rank
+9,1,0.95,Natalie Coughlin_S9,Mya_S9,fan_rank_vs_judge_rank
+9,2,0.9,Debi Mazar_S9,Aaron Carter_S9,fan_rank_vs_judge_rank
+9,3,0.93,Michael Irvin_S9,Joanna Krupa_S9,fan_rank_vs_judge_rank
+9,4,0.93,Natalie Coughlin_S9,Donny Osmond_S9,fan_rank_vs_judge_rank
+9,5,0.96,Mya_S9,Melissa Joan Hart_S9,fan_rank_vs_judge_rank
+9,6,0.95,Michael Irvin_S9,Joanna Krupa_S9,fan_rank_vs_judge_rank
+9,7,0.8,Mya_S9,Kelly Osbourne_S9,fan_rank_vs_judge_rank
+9,8,0.82,Kelly Osbourne_S9,Joanna Krupa_S9,fan_rank_vs_judge_rank
+9,9,0.96,Donny Osmond_S9,Kelly Osbourne_S9,fan_rank_vs_judge_rank
+9,10,0.23,Donny Osmond_S9,Mya_S9,fan_rank_vs_judge_rank
+10,1,0.92,Niecy Nash_S10,Jake Pavelka_S10,fan_rank_vs_judge_rank
+10,2,0.94,Aiden Turner_S10,Nicole Scherzinger_S10,fan_rank_vs_judge_rank
+10,3,0.93,Evan Lysacek_S10,Nicole Scherzinger_S10,fan_rank_vs_judge_rank
+10,4,0.91,Kate Gosselin_S10,Erin Andrews_S10,fan_rank_vs_judge_rank
+10,5,0.89,Pamela Anderson_S10,Evan Lysacek_S10,fan_rank_vs_judge_rank
+10,6,0.91,Niecy Nash_S10,Pamela Anderson_S10,fan_rank_vs_judge_rank
+10,7,0.9,Niecy Nash_S10,Evan Lysacek_S10,fan_rank_vs_judge_rank
+10,8,0.87,Chad Ochocinco_S10,Erin Andrews_S10,fan_rank_vs_judge_rank
+10,9,0.55,Evan Lysacek_S10,Nicole Scherzinger_S10,fan_rank_vs_judge_rank
+10,10,0.24,Nicole Scherzinger_S10,Nicole Scherzinger_S10,fan_rank_vs_judge_rank
+11,1,0.93,Kurt Warner_S11,Brandy_S11,fan_rank_vs_judge_rank
+11,2,0.91,Audrina Patridge_S11,Rick Fox_S11,fan_rank_vs_judge_rank
+11,3,0.94,The Situation_S11,Rick Fox_S11,fan_rank_vs_judge_rank
+11,4,0.93,Rick Fox_S11,Jennifer Grey_S11,fan_rank_vs_judge_rank
+11,5,0.94,Bristol Palin_S11,Jennifer Grey_S11,fan_rank_vs_judge_rank
+11,6,0.93,Jennifer Grey_S11,Audrina Patridge_S11,fan_rank_vs_judge_rank
+11,7,0.91,Kurt Warner_S11,Brandy_S11,fan_rank_vs_judge_rank
+11,8,0.95,Bristol Palin_S11,Jennifer Grey_S11,fan_rank_vs_judge_rank
+11,9,0.88,Jennifer Grey_S11,Kyle Massey_S11,fan_rank_vs_judge_rank
+11,10,0.28,Jennifer Grey_S11,Kyle Massey_S11,fan_rank_vs_judge_rank
+12,1,0.85,Ralph Macchio_S12,Kirstie Alley_S12,fan_rank_vs_judge_rank
+12,2,0.93,Kirstie Alley_S12,Ralph Macchio_S12,fan_rank_vs_judge_rank
+12,3,0.9,Sugar Ray Leonard_S12,Hines Ward_S12,fan_rank_vs_judge_rank
+12,4,0.92,Hines Ward_S12,Chris Jericho_S12,fan_rank_vs_judge_rank
+12,5,0.9,Kirstie Alley_S12,Romeo_S12,fan_rank_vs_judge_rank
+12,6,0.83,Hines Ward_S12,Romeo_S12,fan_rank_vs_judge_rank
+12,7,0.93,Romeo_S12,Ralph Macchio_S12,fan_rank_vs_judge_rank
+12,8,0.9,Ralph Macchio_S12,Chelsea Kane_S12,fan_rank_vs_judge_rank
+12,9,0.85,Kirstie Alley_S12,Ralph Macchio_S12,fan_rank_vs_judge_rank
+12,10,0.55,Hines Ward_S12,Hines Ward_S12,fan_rank_vs_judge_rank
+13,1,0.97,Chaz Bono_S13,Kristin Cavallari_S13,fan_rank_vs_judge_rank
+13,2,0.95,Chaz Bono_S13,J.R. Martinez_S13,fan_rank_vs_judge_rank
+13,3,0.96,Chaz Bono_S13,J.R. Martinez_S13,fan_rank_vs_judge_rank
+13,4,0.93,Nancy Grace_S13,Ricki Lake_S13,fan_rank_vs_judge_rank
+13,5,0.91,J.R. Martinez_S13,J.R. Martinez_S13,fan_rank_vs_judge_rank
+13,6,0.91,Hope Solo_S13,J.R. Martinez_S13,fan_rank_vs_judge_rank
+13,7,0.89,Nancy Grace_S13,Ricki Lake_S13,fan_rank_vs_judge_rank
+13,8,0.91,Rob Kardashian_S13,J.R. Martinez_S13,fan_rank_vs_judge_rank
+13,9,0.79,Ricki Lake_S13,Rob Kardashian_S13,fan_rank_vs_judge_rank
+13,10,0.82,J.R. Martinez_S13,Rob Kardashian_S13,fan_rank_vs_judge_rank
+14,1,0.89,Melissa Gilbert_S14,Gavin DeGraw_S14,fan_rank_vs_judge_rank
+14,2,0.95,Sherri Sheperd_S14,Roshon Fegan_S14,fan_rank_vs_judge_rank
+14,3,0.91,Gavin DeGraw_S14,Katherine Jenkins_S14,fan_rank_vs_judge_rank
+14,4,0.92,William Levy_S14,Katherine Jenkins_S14,fan_rank_vs_judge_rank
+14,5,0.87,Melissa Gilbert_S14,Donald Driver_S14,fan_rank_vs_judge_rank
+14,6,0.94,Melissa Gilbert_S14,Donald Driver_S14,fan_rank_vs_judge_rank
+14,7,0.9,Maria Menounos_S14,Roshon Fegan_S14,fan_rank_vs_judge_rank
+14,8,0.77,Maria Menounos_S14,William Levy_S14,fan_rank_vs_judge_rank
+14,9,0.9,Donald Driver_S14,Maria Menounos_S14,fan_rank_vs_judge_rank
+14,10,0.84,Donald Driver_S14,Katherine Jenkins_S14,fan_rank_vs_judge_rank
+15,1,0.93,Kelly Monaco_S15,Joey Fatone_S15,fan_rank_vs_judge_rank
+15,2,0.92,Bristol Palin_S15,Sabrina Bryan_S15,fan_rank_vs_judge_rank
+15,3,0.95,Emmitt Smith_S15,Kelly Monaco_S15,fan_rank_vs_judge_rank
+15,4,0.94,Apolo Anton Ohno_S15,Shawn Johnson_S15,fan_rank_vs_judge_rank
+15,5,0.93,Kelly Monaco_S15,Sabrina Bryan_S15,fan_rank_vs_judge_rank
+15,6,0.91,Gilles Marini_S15,Kirstie Alley_S15,fan_rank_vs_judge_rank
+15,7,0.84,Emmitt Smith_S15,Emmitt Smith_S15,fan_rank_vs_judge_rank
+15,8,0.96,Apolo Anton Ohno_S15,Melissa Rycroft_S15,fan_rank_vs_judge_rank
+15,9,0.78,Kelly Monaco_S15,Shawn Johnson_S15,fan_rank_vs_judge_rank
+15,10,0.29,Shawn Johnson_S15,Melissa Rycroft_S15,fan_rank_vs_judge_rank
+16,1,0.91,Victor Ortiz_S16,Alexandra Raisman_S16,fan_rank_vs_judge_rank
+16,2,0.91,Lisa Vanderpump_S16,Ingo Rademacher_S16,fan_rank_vs_judge_rank
+16,3,0.93,Ingo Rademacher_S16,Victor Ortiz_S16,fan_rank_vs_judge_rank
+16,4,0.92,Victor Ortiz_S16,Ingo Rademacher_S16,fan_rank_vs_judge_rank
+16,5,0.88,Jacoby Jones_S16,Jacoby Jones_S16,fan_rank_vs_judge_rank
+16,6,0.91,Sean Lowe_S16,Sean Lowe_S16,fan_rank_vs_judge_rank
+16,7,0.94,Sean Lowe_S16,Jacoby Jones_S16,fan_rank_vs_judge_rank
+16,8,0.9,Ingo Rademacher_S16,Zendaya_S16,fan_rank_vs_judge_rank
+16,9,0.87,Alexandra Raisman_S16,Alexandra Raisman_S16,fan_rank_vs_judge_rank
+16,10,0.52,Jacoby Jones_S16,Kellie Pickler_S16,fan_rank_vs_judge_rank
+17,1,0.91,Jack Osbourne_S17,Amber Riley_S17,fan_rank_vs_judge_rank
+17,2,0.89,Jack Osbourne_S17,Christina Milian_S17,fan_rank_vs_judge_rank
+17,3,0.97,Valerie Harper_S17,Brant Daugherty_S17,fan_rank_vs_judge_rank
+17,4,0.96,Christina Milian_S17,Corbin Bleu_S17,fan_rank_vs_judge_rank
+17,5,0.92,Leah Remini_S17,Amber Riley_S17,fan_rank_vs_judge_rank
+17,6,0.83,Leah Remini_S17,Amber Riley_S17,fan_rank_vs_judge_rank
+17,7,0.91,Leah Remini_S17,Corbin Bleu_S17,fan_rank_vs_judge_rank
+17,8,0.87,Elizabeth Berkley Lauren_S17,Leah Remini_S17,fan_rank_vs_judge_rank
+17,9,0.93,Bill Engvall_S17,Corbin Bleu_S17,fan_rank_vs_judge_rank
+17,10,0.89,Bill Engvall_S17,Corbin Bleu_S17,fan_rank_vs_judge_rank
+17,11,0.44,Bill Engvall_S17,Corbin Bleu_S17,fan_rank_vs_judge_rank
+18,1,0.95,James Maslow_S18,Cody Simpson_S18,fan_rank_vs_judge_rank
+18,2,0.94,Amy Purdy_S18,James Maslow_S18,fan_rank_vs_judge_rank
+18,3,0.88,NeNe Leakes_S18,Meryl Davis_S18,fan_rank_vs_judge_rank
+18,4,0.93,Candace Cameron Bure_S18,Amy Purdy_S18,fan_rank_vs_judge_rank
+18,5,0.88,Meryl Davis_S18,Danica McKellar_S18,fan_rank_vs_judge_rank
+18,6,0.88,Charlie White_S18,Amy Purdy_S18,fan_rank_vs_judge_rank
+18,7,0.81,James Maslow_S18,Amy Purdy_S18,fan_rank_vs_judge_rank
+18,8,0.91,Meryl Davis_S18,Charlie White_S18,fan_rank_vs_judge_rank
+18,9,0.84,Candace Cameron Bure_S18,Meryl Davis_S18,fan_rank_vs_judge_rank
+18,10,0.38,Meryl Davis_S18,Meryl Davis_S18,fan_rank_vs_judge_rank
+19,1,0.92,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_judge_rank
+19,2,0.91,Jonathan Bennett_S19,Jonathan Bennett_S19,fan_rank_vs_judge_rank
+19,3,0.92,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_judge_rank
+19,4,0.93,Sadie Robertson_S19,Lea Thompson_S19,fan_rank_vs_judge_rank
+19,5,0.9,Bethany Mota_S19,Sadie Robertson_S19,fan_rank_vs_judge_rank
+19,6,0.93,Michael Waltrip_S19,Bethany Mota_S19,fan_rank_vs_judge_rank
+19,7,0.81,Bethany Mota_S19,Alfonso Ribeiro_S19,fan_rank_vs_judge_rank
+19,8,0.8,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_judge_rank
+19,9,0.85,Tommy Chong_S19,Alfonso Ribeiro_S19,fan_rank_vs_judge_rank
+19,10,0.73,Bethany Mota_S19,Janel Parrish_S19,fan_rank_vs_judge_rank
+19,11,0.48,Alfonso Ribeiro_S19,Alfonso Ribeiro_S19,fan_rank_vs_judge_rank
+20,1,0.94,Rumer Willis_S20,Redfoo_S20,fan_rank_vs_judge_rank
+20,2,0.91,Nastia Liukin_S20,Patti LaBelle_S20,fan_rank_vs_judge_rank
+20,3,0.89,Michael Sam_S20,Nastia Liukin_S20,fan_rank_vs_judge_rank
+20,4,0.93,Rumer Willis_S20,Willow Shields_S20,fan_rank_vs_judge_rank
+20,5,0.84,Chris Soules_S20,Nastia Liukin_S20,fan_rank_vs_judge_rank
+20,6,0.82,Nastia Liukin_S20,Nastia Liukin_S20,fan_rank_vs_judge_rank
+20,7,0.95,Chris Soules_S20,Noah Galloway_S20,fan_rank_vs_judge_rank
+20,8,0.67,Nastia Liukin_S20,Rumer Willis_S20,fan_rank_vs_judge_rank
+20,9,0.87,Riker Lynch_S20,Riker Lynch_S20,fan_rank_vs_judge_rank
+20,10,0.52,Rumer Willis_S20,Riker Lynch_S20,fan_rank_vs_judge_rank
+21,1,0.93,Carlos PenaVega_S21,Hayes Grier_S21,fan_rank_vs_judge_rank
+21,2,0.91,Nick Carter_S21,Alexa PenaVega_S21,fan_rank_vs_judge_rank
+21,3,0.93,Alexa PenaVega_S21,Alexa PenaVega_S21,fan_rank_vs_judge_rank
+21,4,0.92,Hayes Grier_S21,Hayes Grier_S21,fan_rank_vs_judge_rank
+21,5,0.8,Hayes Grier_S21,Alexa PenaVega_S21,fan_rank_vs_judge_rank
+21,6,0.92,Hayes Grier_S21,Hayes Grier_S21,fan_rank_vs_judge_rank
+21,7,0.95,Alexa PenaVega_S21,Carlos PenaVega_S21,fan_rank_vs_judge_rank
+21,8,0.85,Andy Grammer_S21,Nick Carter_S21,fan_rank_vs_judge_rank
+21,9,0.92,Alexa PenaVega_S21,Bindi Irwin_S21,fan_rank_vs_judge_rank
+21,10,0.55,Carlos PenaVega_S21,Bindi Irwin_S21,fan_rank_vs_judge_rank
+21,11,0.73,Alek Skarlatos_S21,Nick Carter_S21,fan_rank_vs_judge_rank
+22,1,0.92,Jodie Sweetin_S22,Marla Maples_S22,fan_rank_vs_judge_rank
+22,2,0.97,Ginger Zee_S22,Jodie Sweetin_S22,fan_rank_vs_judge_rank
+22,3,0.88,Antonio Brown_S22,Wanya Morris_S22,fan_rank_vs_judge_rank
+22,4,0.95,Kim Fields_S22,Marla Maples_S22,fan_rank_vs_judge_rank
+22,5,0.88,Ginger Zee_S22,Nyle DiMarco_S22,fan_rank_vs_judge_rank
+22,6,0.93,Kim Fields_S22,Paige VanZant_S22,fan_rank_vs_judge_rank
+22,7,0.95,Jodie Sweetin_S22,Wanya Morris_S22,fan_rank_vs_judge_rank
+22,8,0.96,Wanya Morris_S22,Ginger Zee_S22,fan_rank_vs_judge_rank
+22,9,0.84,Ginger Zee_S22,Paige VanZant_S22,fan_rank_vs_judge_rank
+22,10,0.79,Nyle DiMarco_S22,Paige VanZant_S22,fan_rank_vs_judge_rank
+23,1,0.87,James Hinchcliffe_S23,James Hinchcliffe_S23,fan_rank_vs_judge_rank
+23,2,0.86,Calvin Johnson Jr._S23,Terra Jole_S23,fan_rank_vs_judge_rank
+23,3,0.89,Terra Jole_S23,Rick Perry_S23,fan_rank_vs_judge_rank
+23,4,0.94,Jana Kramer_S23,Terra Jole_S23,fan_rank_vs_judge_rank
+23,5,0.87,Ryan Lochte_S23,Terra Jole_S23,fan_rank_vs_judge_rank
+23,6,0.95,Marilu Henner_S23,Jana Kramer_S23,fan_rank_vs_judge_rank
+23,7,0.9,Terra Jole_S23,James Hinchcliffe_S23,fan_rank_vs_judge_rank
+23,8,0.95,Marilu Henner_S23,Laurie Hernandez_S23,fan_rank_vs_judge_rank
+23,9,0.9,Calvin Johnson Jr._S23,Jana Kramer_S23,fan_rank_vs_judge_rank
+23,10,0.96,Calvin Johnson Jr._S23,Laurie Hernandez_S23,fan_rank_vs_judge_rank
+23,11,0.44,Calvin Johnson Jr._S23,Laurie Hernandez_S23,fan_rank_vs_judge_rank
+24,1,0.86,Rashad Jennings_S24,Rashad Jennings_S24,fan_rank_vs_judge_rank
+24,2,0.96,Charo_S24,Rashad Jennings_S24,fan_rank_vs_judge_rank
+24,3,0.95,Rashad Jennings_S24,Erika Jayne_S24,fan_rank_vs_judge_rank
+24,4,0.91,Nick Viall_S24,Simone Biles_S24,fan_rank_vs_judge_rank
+24,5,0.86,David Ross_S24,Normani_S24,fan_rank_vs_judge_rank
+24,6,0.96,Nancy Kerrigan_S24,Normani_S24,fan_rank_vs_judge_rank
+24,7,0.95,David Ross_S24,Rashad Jennings_S24,fan_rank_vs_judge_rank
+24,8,0.8,David Ross_S24,Normani_S24,fan_rank_vs_judge_rank
+24,9,0.89,David Ross_S24,Rashad Jennings_S24,fan_rank_vs_judge_rank
+24,10,0.21,Rashad Jennings_S24,Rashad Jennings_S24,fan_rank_vs_judge_rank
+25,1,0.91,Sasha Pieterse_S25,Sasha Pieterse_S25,fan_rank_vs_judge_rank
+25,2,0.96,Drew Scott_S25,Frankie Muniz_S25,fan_rank_vs_judge_rank
+25,3,0.9,Derek Fisher_S25,Jordan Fisher_S25,fan_rank_vs_judge_rank
+25,4,0.89,Vanessa Lachey_S25,Jordan Fisher_S25,fan_rank_vs_judge_rank
+25,5,0.91,Jordan Fisher_S25,Jordan Fisher_S25,fan_rank_vs_judge_rank
+25,6,0.86,Victoria Arlen_S25,Jordan Fisher_S25,fan_rank_vs_judge_rank
+25,7,0.92,Drew Scott_S25,Victoria Arlen_S25,fan_rank_vs_judge_rank
+25,8,0.91,Drew Scott_S25,Lindsey Stirling_S25,fan_rank_vs_judge_rank
+25,9,0.85,Drew Scott_S25,Lindsey Stirling_S25,fan_rank_vs_judge_rank
+25,10,0.62,Jordan Fisher_S25,Lindsey Stirling_S25,fan_rank_vs_judge_rank
+26,1,0.91,Kareem Abdul-Jabbar_S26,Josh Norman_S26,fan_rank_vs_judge_rank
+26,2,0.91,Jennie Finch Daigle_S26,Josh Norman_S26,fan_rank_vs_judge_rank
+26,3,0.76,Tonya Harding_S26,Adam Rippon_S26,fan_rank_vs_judge_rank
+26,4,0.21,Adam Rippon_S26,Adam Rippon_S26,fan_rank_vs_judge_rank
+27,1,0.9,Juan Pablo Di Pace_S27,DeMarcus Ware_S27,fan_rank_vs_judge_rank
+27,2,0.94,John Schneider_S27,Mary Lou Retton_S27,fan_rank_vs_judge_rank
+27,3,0.97,Bobby Bones_S27,Evanna Lynch_S27,fan_rank_vs_judge_rank
+27,4,0.92,DeMarcus Ware_S27,Tinashe_S27,fan_rank_vs_judge_rank
+27,5,0.89,Milo Manheim_S27,Juan Pablo Di Pace_S27,fan_rank_vs_judge_rank
+27,6,0.96,John Schneider_S27,Juan Pablo Di Pace_S27,fan_rank_vs_judge_rank
+27,7,0.9,Joe Amabile_S27,Evanna Lynch_S27,fan_rank_vs_judge_rank
+27,8,0.87,Alexis Ren_S27,Alexis Ren_S27,fan_rank_vs_judge_rank
+27,9,0.86,Bobby Bones_S27,Milo Manheim_S27,fan_rank_vs_judge_rank
+28,1,0.9,Kel Mitchell_S28,Sailor Brinkley-Cook_S28,fan_rank_vs_judge_rank
+28,2,0.93,Mary Wilson_S28,Sean Spicer_S28,fan_rank_vs_judge_rank
+28,3,0.88,James Van Der Beek_S28,Kate Flannery_S28,fan_rank_vs_judge_rank
+28,4,0.89,Kate Flannery_S28,Ally Brooke_S28,fan_rank_vs_judge_rank
+28,5,0.93,Lauren Alaina_S28,Hannah Brown_S28,fan_rank_vs_judge_rank
+28,6,0.93,Hannah Brown_S28,Lauren Alaina_S28,fan_rank_vs_judge_rank
+28,7,0.93,Kel Mitchell_S28,Lauren Alaina_S28,fan_rank_vs_judge_rank
+28,8,0.92,Kel Mitchell_S28,James Van Der Beek_S28,fan_rank_vs_judge_rank
+28,9,0.81,James Van Der Beek_S28,Ally Brooke_S28,fan_rank_vs_judge_rank
+28,10,0.74,James Van Der Beek_S28,Ally Brooke_S28,fan_rank_vs_judge_rank
+28,11,0.92,Hannah Brown_S28,Kel Mitchell_S28,fan_rank_vs_judge_rank
+29,1,0.91,Charles Oakley_S29,Jeannie Mai_S29,fan_rank_vs_judge_rank
+29,2,0.96,Skai Jackson_S29,Carole Baskin_S29,fan_rank_vs_judge_rank
+29,3,0.91,Anne Heche_S29,Johnny Weir_S29,fan_rank_vs_judge_rank
+29,4,0.95,Nelly_S29,AJ McLean_S29,fan_rank_vs_judge_rank
+29,5,0.9,Johnny Weir_S29,Monica Aldama_S29,fan_rank_vs_judge_rank
+29,6,0.92,Nelly_S29,Nev Schulman_S29,fan_rank_vs_judge_rank
+29,7,0.95,Monica Aldama_S29,Nev Schulman_S29,fan_rank_vs_judge_rank
+29,8,0.94,Nelly_S29,Johnny Weir_S29,fan_rank_vs_judge_rank
+29,9,0.86,Johnny Weir_S29,Johnny Weir_S29,fan_rank_vs_judge_rank
+29,10,0.81,Kaitlyn Bristowe_S29,Skai Jackson_S29,fan_rank_vs_judge_rank
+29,11,0.71,Nelly_S29,Kaitlyn Bristowe_S29,fan_rank_vs_judge_rank
+30,1,0.91,Iman Shumpert_S30,Christine Chiu_S30,fan_rank_vs_judge_rank
+30,2,0.95,Melora Hardin_S30,Cody Rigsby_S30,fan_rank_vs_judge_rank
+30,3,0.9,Kenya Moore_S30,JoJo Siwa_S30,fan_rank_vs_judge_rank
+30,4,0.94,"Mike ""The Miz"" Mizanin_S30",Melora Hardin_S30,fan_rank_vs_judge_rank
+30,5,0.92,"Mike ""The Miz"" Mizanin_S30",Olivia Jade_S30,fan_rank_vs_judge_rank
+30,6,0.87,Amanda Kloots_S30,Iman Shumpert_S30,fan_rank_vs_judge_rank
+30,7,0.83,JoJo Siwa_S30,JoJo Siwa_S30,fan_rank_vs_judge_rank
+30,8,0.84,Iman Shumpert_S30,Amanda Kloots_S30,fan_rank_vs_judge_rank
+30,9,0.69,JoJo Siwa_S30,Amanda Kloots_S30,fan_rank_vs_judge_rank
+30,10,0.57,Iman Shumpert_S30,Iman Shumpert_S30,fan_rank_vs_judge_rank
+31,1,0.94,Sam Champion_S31,Daniel Durant_S31,fan_rank_vs_judge_rank
+31,2,0.96,Charli D'Amelio_S31,Sam Champion_S31,fan_rank_vs_judge_rank
+31,3,0.87,Vinny Guadagnino_S31,Charli D'Amelio_S31,fan_rank_vs_judge_rank
+31,4,0.89,Heidi D'Amelio_S31,Heidi D'Amelio_S31,fan_rank_vs_judge_rank
+31,5,0.89,Jordin Sparks_S31,Gabby Windey_S31,fan_rank_vs_judge_rank
+31,6,0.86,Daniel Durant_S31,Gabby Windey_S31,fan_rank_vs_judge_rank
+31,7,0.93,Gabby Windey_S31,Charli D'Amelio_S31,fan_rank_vs_judge_rank
+31,8,0.84,Daniel Durant_S31,Charli D'Amelio_S31,fan_rank_vs_judge_rank
+31,9,0.73,Charli D'Amelio_S31,Shangela_S31,fan_rank_vs_judge_rank
+31,10,0.85,Charli D'Amelio_S31,Gabby Windey_S31,fan_rank_vs_judge_rank
+32,1,0.94,Barry Williams_S32,Ariana Madix_S32,fan_rank_vs_judge_rank
+32,2,0.91,Mira Sorvino_S32,Mira Sorvino_S32,fan_rank_vs_judge_rank
+32,3,0.92,Charity Lawson_S32,Barry Williams_S32,fan_rank_vs_judge_rank
+32,4,0.9,Ariana Madix_S32,Ariana Madix_S32,fan_rank_vs_judge_rank
+32,5,0.96,Harry Jowsey_S32,Jason Mraz_S32,fan_rank_vs_judge_rank
+32,6,0.98,Barry Williams_S32,Lele Pons_S32,fan_rank_vs_judge_rank
+32,7,0.95,Barry Williams_S32,Ariana Madix_S32,fan_rank_vs_judge_rank
+32,8,0.93,Jason Mraz_S32,Ariana Madix_S32,fan_rank_vs_judge_rank
+32,9,0.87,Alyson Hannigan_S32,Jason Mraz_S32,fan_rank_vs_judge_rank
+32,10,0.88,Ariana Madix_S32,Charity Lawson_S32,fan_rank_vs_judge_rank
+32,11,0.64,Alyson Hannigan_S32,Jason Mraz_S32,fan_rank_vs_judge_rank
+33,1,0.87,Dwight Howard _S33,Stephen Nedoroscik_S33,fan_rank_vs_judge_rank
+33,2,0.94,Ilona Maher_S33,Jenn Tran_S33,fan_rank_vs_judge_rank
+33,3,0.95,Eric Roberts_S33,Chandler Kinney_S33,fan_rank_vs_judge_rank
+33,4,0.93,Dwight Howard _S33,Danny Amendola_S33,fan_rank_vs_judge_rank
+33,5,0.93,Joey Graziadei_S33,Danny Amendola_S33,fan_rank_vs_judge_rank
+33,6,0.93,Stephen Nedoroscik_S33,Chandler Kinney_S33,fan_rank_vs_judge_rank
+33,7,0.88,Ilona Maher_S33,Joey Graziadei_S33,fan_rank_vs_judge_rank
+33,8,0.95,Stephen Nedoroscik_S33,Chandler Kinney_S33,fan_rank_vs_judge_rank
+33,9,0.94,Ilona Maher_S33,Joey Graziadei_S33,fan_rank_vs_judge_rank
+34,1,0.92,Andy Richter_S34,Jen Affleck_S34,fan_rank_vs_judge_rank
+34,2,0.92,Jordan Chiles_S34,Alix Earle_S34,fan_rank_vs_judge_rank
+34,3,0.95,Jen Affleck_S34,Jordan Chiles_S34,fan_rank_vs_judge_rank
+34,4,0.94,Dylan Efron_S34,Whitney Leavitt_S34,fan_rank_vs_judge_rank
+34,5,0.88,Dylan Efron_S34,Danielle Fishel_S34,fan_rank_vs_judge_rank
+34,6,0.92,Whitney Leavitt_S34,Danielle Fishel_S34,fan_rank_vs_judge_rank
+34,7,0.89,Jordan Chiles_S34,Dylan Efron_S34,fan_rank_vs_judge_rank
+34,8,0.81,Andy Richter_S34,Whitney Leavitt_S34,fan_rank_vs_judge_rank
+34,9,0.84,Dylan Efron_S34,Dylan Efron_S34,fan_rank_vs_judge_rank
+34,10,0.96,Dylan Efron_S34,Alix Earle_S34,fan_rank_vs_judge_rank
+34,11,0.78,Dylan Efron_S34,Alix Earle_S34,fan_rank_vs_judge_rank
+1,1,0.77,Kelly Monaco_S1,John O'Hurley_S1,fan_rank_vs_rank_rank
+1,2,0.87,Joey McIntyre_S1,John O'Hurley_S1,fan_rank_vs_rank_rank
+1,3,0.74,Evander Holyfield_S1,Joey McIntyre_S1,fan_rank_vs_rank_rank
+1,4,0.76,Joey McIntyre_S1,John O'Hurley_S1,fan_rank_vs_rank_rank
+1,5,0.45,John O'Hurley_S1,John O'Hurley_S1,fan_rank_vs_rank_rank
+1,6,0.04,Kelly Monaco_S1,Kelly Monaco_S1,fan_rank_vs_rank_rank
+2,1,0.92,Master P_S2,Drew Lachey_S2,fan_rank_vs_rank_rank
+2,2,0.9,Lisa Rinna_S2,Drew Lachey_S2,fan_rank_vs_rank_rank
+2,3,0.89,Master P_S2,Drew Lachey_S2,fan_rank_vs_rank_rank
+2,4,0.83,Lisa Rinna_S2,Stacy Keibler_S2,fan_rank_vs_rank_rank
+2,5,0.82,Jerry Rice_S2,Stacy Keibler_S2,fan_rank_vs_rank_rank
+2,6,0.86,Jerry Rice_S2,Stacy Keibler_S2,fan_rank_vs_rank_rank
+2,7,0.81,Jerry Rice_S2,Drew Lachey_S2,fan_rank_vs_rank_rank
+2,8,0.79,Drew Lachey_S2,Drew Lachey_S2,fan_rank_vs_rank_rank
+3,1,0.94,Sara Evans_S3,Emmitt Smith_S3,fan_rank_vs_rank_rank
+3,2,0.9,Emmitt Smith_S3,Vivica A. Fox_S3,fan_rank_vs_rank_rank
+3,3,0.87,Mario Lopez_S3,Willa Ford_S3,fan_rank_vs_rank_rank
+3,4,0.92,Jerry Springer_S3,Joey Lawrence_S3,fan_rank_vs_rank_rank
+3,5,0.82,Jerry Springer_S3,Mario Lopez_S3,fan_rank_vs_rank_rank
+3,6,0.6,Monique Coleman_S3,Monique Coleman_S3,fan_rank_vs_rank_rank
+3,7,0.59,Mario Lopez_S3,Emmitt Smith_S3,fan_rank_vs_rank_rank
+3,8,0.53,Joey Lawrence_S3,Joey Lawrence_S3,fan_rank_vs_rank_rank
+3,9,0.21,Emmitt Smith_S3,Emmitt Smith_S3,fan_rank_vs_rank_rank
+3,10,0.01,Emmitt Smith_S3,Emmitt Smith_S3,fan_rank_vs_rank_rank
+4,1,0.92,Billy Ray Cyrus_S4,Apolo Anton Ohno_S4,fan_rank_vs_rank_rank
+4,2,0.92,Ian Ziering_S4,Clyde Drexler_S4,fan_rank_vs_rank_rank
+4,3,0.84,Joey Fatone_S4,Leeza Gibbons_S4,fan_rank_vs_rank_rank
+4,4,0.9,Billy Ray Cyrus_S4,Apolo Anton Ohno_S4,fan_rank_vs_rank_rank
+4,5,0.78,Billy Ray Cyrus_S4,Billy Ray Cyrus_S4,fan_rank_vs_rank_rank
+4,6,0.87,Ian Ziering_S4,Ian Ziering_S4,fan_rank_vs_rank_rank
+4,7,0.81,Laila Ali_S4,Ian Ziering_S4,fan_rank_vs_rank_rank
+4,8,0.74,Ian Ziering_S4,Ian Ziering_S4,fan_rank_vs_rank_rank
+4,9,0.75,Laila Ali_S4,Apolo Anton Ohno_S4,fan_rank_vs_rank_rank
+4,10,0.15,Apolo Anton Ohno_S4,Apolo Anton Ohno_S4,fan_rank_vs_rank_rank
+5,1,0.89,Mel B_S5,Sabrina Bryan_S5,fan_rank_vs_rank_rank
+5,2,0.83,Mark Cuban_S5,Mel B_S5,fan_rank_vs_rank_rank
+5,3,0.91,Floyd Mayweather Jr. _S5,Sabrina Bryan_S5,fan_rank_vs_rank_rank
+5,4,0.85,Jane Seymour_S5,Cameron Mathison_S5,fan_rank_vs_rank_rank
+5,5,0.87,Cameron Mathison_S5,Cameron Mathison_S5,fan_rank_vs_rank_rank
+5,6,0.9,Jane Seymour_S5,Mel B_S5,fan_rank_vs_rank_rank
+5,7,0.69,Cameron Mathison_S5,Helio Castroneves_S5,fan_rank_vs_rank_rank
+5,8,0.66,Helio Castroneves_S5,Marie Osmond_S5,fan_rank_vs_rank_rank
+5,9,0.42,Helio Castroneves_S5,Helio Castroneves_S5,fan_rank_vs_rank_rank
+5,10,0.45,Helio Castroneves_S5,Helio Castroneves_S5,fan_rank_vs_rank_rank
+6,1,0.85,Steve Guttenberg_S6,Marissa Jaret Winokur_S6,fan_rank_vs_rank_rank
+6,2,0.9,Steve Guttenberg_S6,Jason Taylor_S6,fan_rank_vs_rank_rank
+6,3,0.84,Marlee Matlin_S6,Marlee Matlin_S6,fan_rank_vs_rank_rank
+6,4,0.87,Marissa Jaret Winokur_S6,Kristi Yamaguchi_S6,fan_rank_vs_rank_rank
+6,5,0.86,Marlee Matlin_S6,Marlee Matlin_S6,fan_rank_vs_rank_rank
+6,6,0.8,Shannon Elizabeth_S6,Shannon Elizabeth_S6,fan_rank_vs_rank_rank
+6,7,0.85,Cristian de la Fuente_S6,Marissa Jaret Winokur_S6,fan_rank_vs_rank_rank
+6,8,0.87,Marissa Jaret Winokur_S6,Cristian de la Fuente_S6,fan_rank_vs_rank_rank
+6,9,0.7,Jason Taylor_S6,Kristi Yamaguchi_S6,fan_rank_vs_rank_rank
+6,10,0.27,Kristi Yamaguchi_S6,Kristi Yamaguchi_S6,fan_rank_vs_rank_rank
+7,1,0.94,Cloris Leachman_S7,Toni Braxton_S7,fan_rank_vs_rank_rank
+7,2,0.89,Rocco DiSpirito_S7,Cloris Leachman_S7,fan_rank_vs_rank_rank
+7,3,0.85,Toni Braxton_S7,Toni Braxton_S7,fan_rank_vs_rank_rank
+7,4,0.88,Warren Sapp_S7,Warren Sapp_S7,fan_rank_vs_rank_rank
+7,5,0.86,Cloris Leachman_S7,Brooke Burke_S7,fan_rank_vs_rank_rank
+7,6,0.83,Warren Sapp_S7,Lance Bass_S7,fan_rank_vs_rank_rank
+7,7,0.86,Warren Sapp_S7,Lance Bass_S7,fan_rank_vs_rank_rank
+7,8,0.7,Cody Linley_S7,Brooke Burke_S7,fan_rank_vs_rank_rank
+7,9,0.48,Brooke Burke_S7,Brooke Burke_S7,fan_rank_vs_rank_rank
+7,10,0.2,Brooke Burke_S7,Brooke Burke_S7,fan_rank_vs_rank_rank
+8,1,0.88,Ty Murray_S8,Shawn Johnson_S8,fan_rank_vs_rank_rank
+8,2,0.9,Ty Murray_S8,Denise Richards_S8,fan_rank_vs_rank_rank
+8,3,0.88,Lawrence Taylor_S8,Ty Murray_S8,fan_rank_vs_rank_rank
+8,4,0.83,Steve Wozniak_S8,Ty Murray_S8,fan_rank_vs_rank_rank
+8,5,0.91,Steve-O_S8,Chuck Wicks_S8,fan_rank_vs_rank_rank
+8,6,0.88,Ty Murray_S8,Shawn Johnson_S8,fan_rank_vs_rank_rank
+8,7,0.84,Ty Murray_S8,Gilles Marini_S8,fan_rank_vs_rank_rank
+8,8,0.82,Melissa Rycroft_S8,Gilles Marini_S8,fan_rank_vs_rank_rank
+8,9,0.78,Ty Murray_S8,Gilles Marini_S8,fan_rank_vs_rank_rank
+8,10,0.66,Melissa Rycroft_S8,Shawn Johnson_S8,fan_rank_vs_rank_rank
+8,11,0.28,Shawn Johnson_S8,Shawn Johnson_S8,fan_rank_vs_rank_rank
+9,1,0.96,Natalie Coughlin_S9,Natalie Coughlin_S9,fan_rank_vs_rank_rank
+9,2,0.89,Debi Mazar_S9,Aaron Carter_S9,fan_rank_vs_rank_rank
+9,3,0.92,Michael Irvin_S9,Mark Dacascos_S9,fan_rank_vs_rank_rank
+9,4,0.9,Natalie Coughlin_S9,Donny Osmond_S9,fan_rank_vs_rank_rank
+9,5,0.94,Mya_S9,Melissa Joan Hart_S9,fan_rank_vs_rank_rank
+9,6,0.88,Michael Irvin_S9,Louie Vito_S9,fan_rank_vs_rank_rank
+9,7,0.75,Mya_S9,Kelly Osbourne_S9,fan_rank_vs_rank_rank
+9,8,0.7,Kelly Osbourne_S9,Kelly Osbourne_S9,fan_rank_vs_rank_rank
+9,9,0.88,Donny Osmond_S9,Kelly Osbourne_S9,fan_rank_vs_rank_rank
+9,10,0.23,Donny Osmond_S9,Mya_S9,fan_rank_vs_rank_rank
+10,1,0.86,Niecy Nash_S10,Jake Pavelka_S10,fan_rank_vs_rank_rank
+10,2,0.91,Aiden Turner_S10,Nicole Scherzinger_S10,fan_rank_vs_rank_rank
+10,3,0.88,Evan Lysacek_S10,Nicole Scherzinger_S10,fan_rank_vs_rank_rank
+10,4,0.85,Kate Gosselin_S10,Chad Ochocinco_S10,fan_rank_vs_rank_rank
+10,5,0.86,Pamela Anderson_S10,Jake Pavelka_S10,fan_rank_vs_rank_rank
+10,6,0.77,Niecy Nash_S10,Niecy Nash_S10,fan_rank_vs_rank_rank
+10,7,0.83,Niecy Nash_S10,Evan Lysacek_S10,fan_rank_vs_rank_rank
+10,8,0.78,Chad Ochocinco_S10,Evan Lysacek_S10,fan_rank_vs_rank_rank
+10,9,0.44,Evan Lysacek_S10,Nicole Scherzinger_S10,fan_rank_vs_rank_rank
+10,10,0.36,Nicole Scherzinger_S10,Nicole Scherzinger_S10,fan_rank_vs_rank_rank
+11,1,0.91,Kurt Warner_S11,Brandy_S11,fan_rank_vs_rank_rank
+11,2,0.9,Audrina Patridge_S11,Rick Fox_S11,fan_rank_vs_rank_rank
+11,3,0.92,The Situation_S11,Rick Fox_S11,fan_rank_vs_rank_rank
+11,4,0.8,Rick Fox_S11,Jennifer Grey_S11,fan_rank_vs_rank_rank
+11,5,0.87,Bristol Palin_S11,Jennifer Grey_S11,fan_rank_vs_rank_rank
+11,6,0.81,Jennifer Grey_S11,Jennifer Grey_S11,fan_rank_vs_rank_rank
+11,7,0.65,Kurt Warner_S11,Bristol Palin_S11,fan_rank_vs_rank_rank
+11,8,0.89,Bristol Palin_S11,Jennifer Grey_S11,fan_rank_vs_rank_rank
+11,9,0.79,Jennifer Grey_S11,Kyle Massey_S11,fan_rank_vs_rank_rank
+11,10,0.28,Jennifer Grey_S11,Kyle Massey_S11,fan_rank_vs_rank_rank
+12,1,0.81,Ralph Macchio_S12,Kirstie Alley_S12,fan_rank_vs_rank_rank
+12,2,0.93,Kirstie Alley_S12,Ralph Macchio_S12,fan_rank_vs_rank_rank
+12,3,0.87,Sugar Ray Leonard_S12,Hines Ward_S12,fan_rank_vs_rank_rank
+12,4,0.88,Hines Ward_S12,Chris Jericho_S12,fan_rank_vs_rank_rank
+12,5,0.84,Kirstie Alley_S12,Chris Jericho_S12,fan_rank_vs_rank_rank
+12,6,0.81,Hines Ward_S12,Kendra Wilkinson_S12,fan_rank_vs_rank_rank
+12,7,0.87,Romeo_S12,Ralph Macchio_S12,fan_rank_vs_rank_rank
+12,8,0.85,Ralph Macchio_S12,Kirstie Alley_S12,fan_rank_vs_rank_rank
+12,9,0.57,Kirstie Alley_S12,Kirstie Alley_S12,fan_rank_vs_rank_rank
+12,10,0.15,Hines Ward_S12,Hines Ward_S12,fan_rank_vs_rank_rank
+13,1,0.95,Chaz Bono_S13,Kristin Cavallari_S13,fan_rank_vs_rank_rank
+13,2,0.94,Chaz Bono_S13,J.R. Martinez_S13,fan_rank_vs_rank_rank
+13,3,0.91,Chaz Bono_S13,J.R. Martinez_S13,fan_rank_vs_rank_rank
+13,4,0.85,Nancy Grace_S13,David Arquette_S13,fan_rank_vs_rank_rank
+13,5,0.86,J.R. Martinez_S13,Chaz Bono_S13,fan_rank_vs_rank_rank
+13,6,0.85,Hope Solo_S13,Ricki Lake_S13,fan_rank_vs_rank_rank
+13,7,0.76,Nancy Grace_S13,Nancy Grace_S13,fan_rank_vs_rank_rank
+13,8,0.78,Rob Kardashian_S13,Nancy Grace_S13,fan_rank_vs_rank_rank
+13,9,0.69,Ricki Lake_S13,Ricki Lake_S13,fan_rank_vs_rank_rank
+13,10,0.52,J.R. Martinez_S13,Rob Kardashian_S13,fan_rank_vs_rank_rank
+14,1,0.89,Melissa Gilbert_S14,Gavin DeGraw_S14,fan_rank_vs_rank_rank
+14,2,0.89,Sherri Sheperd_S14,Sherri Sheperd_S14,fan_rank_vs_rank_rank
+14,3,0.85,Gavin DeGraw_S14,Jaleel White_S14,fan_rank_vs_rank_rank
+14,4,0.81,William Levy_S14,Donald Driver_S14,fan_rank_vs_rank_rank
+14,5,0.83,Melissa Gilbert_S14,Donald Driver_S14,fan_rank_vs_rank_rank
+14,6,0.83,Melissa Gilbert_S14,Donald Driver_S14,fan_rank_vs_rank_rank
+14,7,0.84,Maria Menounos_S14,Donald Driver_S14,fan_rank_vs_rank_rank
+14,8,0.59,Maria Menounos_S14,Donald Driver_S14,fan_rank_vs_rank_rank
+14,9,0.55,Donald Driver_S14,William Levy_S14,fan_rank_vs_rank_rank
+14,10,0.6,Donald Driver_S14,Katherine Jenkins_S14,fan_rank_vs_rank_rank
+15,1,0.91,Kelly Monaco_S15,Joey Fatone_S15,fan_rank_vs_rank_rank
+15,2,0.91,Bristol Palin_S15,Sabrina Bryan_S15,fan_rank_vs_rank_rank
+15,3,0.91,Emmitt Smith_S15,Bristol Palin_S15,fan_rank_vs_rank_rank
+15,4,0.86,Apolo Anton Ohno_S15,Apolo Anton Ohno_S15,fan_rank_vs_rank_rank
+15,5,0.86,Kelly Monaco_S15,Sabrina Bryan_S15,fan_rank_vs_rank_rank
+15,6,0.8,Gilles Marini_S15,Kirstie Alley_S15,fan_rank_vs_rank_rank
+15,7,0.77,Emmitt Smith_S15,Emmitt Smith_S15,fan_rank_vs_rank_rank
+15,8,0.86,Apolo Anton Ohno_S15,Kelly Monaco_S15,fan_rank_vs_rank_rank
+15,9,0.74,Kelly Monaco_S15,Shawn Johnson_S15,fan_rank_vs_rank_rank
+15,10,0.36,Shawn Johnson_S15,Melissa Rycroft_S15,fan_rank_vs_rank_rank
+16,1,0.86,Victor Ortiz_S16,Alexandra Raisman_S16,fan_rank_vs_rank_rank
+16,2,0.9,Lisa Vanderpump_S16,Ingo Rademacher_S16,fan_rank_vs_rank_rank
+16,3,0.89,Ingo Rademacher_S16,Victor Ortiz_S16,fan_rank_vs_rank_rank
+16,4,0.89,Victor Ortiz_S16,Ingo Rademacher_S16,fan_rank_vs_rank_rank
+16,5,0.81,Jacoby Jones_S16,Jacoby Jones_S16,fan_rank_vs_rank_rank
+16,6,0.82,Sean Lowe_S16,Sean Lowe_S16,fan_rank_vs_rank_rank
+16,7,0.84,Sean Lowe_S16,Jacoby Jones_S16,fan_rank_vs_rank_rank
+16,8,0.79,Ingo Rademacher_S16,Zendaya_S16,fan_rank_vs_rank_rank
+16,9,0.82,Alexandra Raisman_S16,Alexandra Raisman_S16,fan_rank_vs_rank_rank
+16,10,0.45,Jacoby Jones_S16,Kellie Pickler_S16,fan_rank_vs_rank_rank
+17,1,0.92,Jack Osbourne_S17,Amber Riley_S17,fan_rank_vs_rank_rank
+17,2,0.88,Jack Osbourne_S17,Christina Milian_S17,fan_rank_vs_rank_rank
+17,3,0.9,Valerie Harper_S17,"Nicole ""Snooki"" Polizzi_S17",fan_rank_vs_rank_rank
+17,4,0.89,Christina Milian_S17,Leah Remini_S17,fan_rank_vs_rank_rank
+17,5,0.79,Leah Remini_S17,Amber Riley_S17,fan_rank_vs_rank_rank
+17,6,0.81,Leah Remini_S17,Amber Riley_S17,fan_rank_vs_rank_rank
+17,7,0.89,Leah Remini_S17,Leah Remini_S17,fan_rank_vs_rank_rank
+17,8,0.79,Elizabeth Berkley Lauren_S17,Leah Remini_S17,fan_rank_vs_rank_rank
+17,9,0.72,Bill Engvall_S17,Jack Osbourne_S17,fan_rank_vs_rank_rank
+17,10,0.69,Bill Engvall_S17,Jack Osbourne_S17,fan_rank_vs_rank_rank
+17,11,0.44,Bill Engvall_S17,Corbin Bleu_S17,fan_rank_vs_rank_rank
+18,1,0.94,James Maslow_S18,Amy Purdy_S18,fan_rank_vs_rank_rank
+18,2,0.85,Amy Purdy_S18,Amy Purdy_S18,fan_rank_vs_rank_rank
+18,3,0.87,NeNe Leakes_S18,Meryl Davis_S18,fan_rank_vs_rank_rank
+18,4,0.9,Candace Cameron Bure_S18,Amy Purdy_S18,fan_rank_vs_rank_rank
+18,5,0.89,Meryl Davis_S18,Danica McKellar_S18,fan_rank_vs_rank_rank
+18,6,0.76,Charlie White_S18,Amy Purdy_S18,fan_rank_vs_rank_rank
+18,7,0.7,James Maslow_S18,Amy Purdy_S18,fan_rank_vs_rank_rank
+18,8,0.82,Meryl Davis_S18,Meryl Davis_S18,fan_rank_vs_rank_rank
+18,9,0.78,Candace Cameron Bure_S18,Meryl Davis_S18,fan_rank_vs_rank_rank
+18,10,0.38,Meryl Davis_S18,Meryl Davis_S18,fan_rank_vs_rank_rank
+19,1,0.91,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_rank_rank
+19,2,0.88,Jonathan Bennett_S19,Jonathan Bennett_S19,fan_rank_vs_rank_rank
+19,3,0.87,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_rank_rank
+19,4,0.89,Sadie Robertson_S19,Lea Thompson_S19,fan_rank_vs_rank_rank
+19,5,0.85,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_rank_rank
+19,6,0.86,Michael Waltrip_S19,Bethany Mota_S19,fan_rank_vs_rank_rank
+19,7,0.83,Bethany Mota_S19,Sadie Robertson_S19,fan_rank_vs_rank_rank
+19,8,0.67,Bethany Mota_S19,Bethany Mota_S19,fan_rank_vs_rank_rank
+19,9,0.66,Tommy Chong_S19,Alfonso Ribeiro_S19,fan_rank_vs_rank_rank
+19,10,0.52,Bethany Mota_S19,Janel Parrish_S19,fan_rank_vs_rank_rank
+19,11,0.48,Alfonso Ribeiro_S19,Alfonso Ribeiro_S19,fan_rank_vs_rank_rank
+20,1,0.92,Rumer Willis_S20,Redfoo_S20,fan_rank_vs_rank_rank
+20,2,0.87,Nastia Liukin_S20,Patti LaBelle_S20,fan_rank_vs_rank_rank
+20,3,0.89,Michael Sam_S20,Nastia Liukin_S20,fan_rank_vs_rank_rank
+20,4,0.91,Rumer Willis_S20,Willow Shields_S20,fan_rank_vs_rank_rank
+20,5,0.8,Chris Soules_S20,Nastia Liukin_S20,fan_rank_vs_rank_rank
+20,6,0.83,Nastia Liukin_S20,Nastia Liukin_S20,fan_rank_vs_rank_rank
+20,7,0.82,Chris Soules_S20,Rumer Willis_S20,fan_rank_vs_rank_rank
+20,8,0.66,Nastia Liukin_S20,Rumer Willis_S20,fan_rank_vs_rank_rank
+20,9,0.69,Riker Lynch_S20,Riker Lynch_S20,fan_rank_vs_rank_rank
+20,10,0.2,Rumer Willis_S20,Rumer Willis_S20,fan_rank_vs_rank_rank
+21,1,0.89,Carlos PenaVega_S21,Hayes Grier_S21,fan_rank_vs_rank_rank
+21,2,0.89,Nick Carter_S21,Alexa PenaVega_S21,fan_rank_vs_rank_rank
+21,3,0.91,Alexa PenaVega_S21,Alexa PenaVega_S21,fan_rank_vs_rank_rank
+21,4,0.88,Hayes Grier_S21,Hayes Grier_S21,fan_rank_vs_rank_rank
+21,5,0.78,Hayes Grier_S21,Alexa PenaVega_S21,fan_rank_vs_rank_rank
+21,6,0.86,Hayes Grier_S21,Hayes Grier_S21,fan_rank_vs_rank_rank
+21,7,0.84,Alexa PenaVega_S21,Carlos PenaVega_S21,fan_rank_vs_rank_rank
+21,8,0.8,Andy Grammer_S21,Nick Carter_S21,fan_rank_vs_rank_rank
+21,9,0.76,Alexa PenaVega_S21,Carlos PenaVega_S21,fan_rank_vs_rank_rank
+21,10,0.47,Carlos PenaVega_S21,Bindi Irwin_S21,fan_rank_vs_rank_rank
+21,11,0.48,Alek Skarlatos_S21,Bindi Irwin_S21,fan_rank_vs_rank_rank
+22,1,0.9,Jodie Sweetin_S22,Marla Maples_S22,fan_rank_vs_rank_rank
+22,2,0.95,Ginger Zee_S22,Jodie Sweetin_S22,fan_rank_vs_rank_rank
+22,3,0.81,Antonio Brown_S22,Marla Maples_S22,fan_rank_vs_rank_rank
+22,4,0.92,Kim Fields_S22,Marla Maples_S22,fan_rank_vs_rank_rank
+22,5,0.83,Ginger Zee_S22,Nyle DiMarco_S22,fan_rank_vs_rank_rank
+22,6,0.88,Kim Fields_S22,Paige VanZant_S22,fan_rank_vs_rank_rank
+22,7,0.9,Jodie Sweetin_S22,Antonio Brown_S22,fan_rank_vs_rank_rank
+22,8,0.9,Wanya Morris_S22,Ginger Zee_S22,fan_rank_vs_rank_rank
+22,9,0.61,Ginger Zee_S22,Paige VanZant_S22,fan_rank_vs_rank_rank
+22,10,0.42,Nyle DiMarco_S22,Nyle DiMarco_S22,fan_rank_vs_rank_rank
+23,1,0.85,James Hinchcliffe_S23,James Hinchcliffe_S23,fan_rank_vs_rank_rank
+23,2,0.86,Calvin Johnson Jr._S23,Terra Jole_S23,fan_rank_vs_rank_rank
+23,3,0.87,Terra Jole_S23,Rick Perry_S23,fan_rank_vs_rank_rank
+23,4,0.92,Jana Kramer_S23,Calvin Johnson Jr._S23,fan_rank_vs_rank_rank
+23,5,0.83,Ryan Lochte_S23,Terra Jole_S23,fan_rank_vs_rank_rank
+23,6,0.88,Marilu Henner_S23,James Hinchcliffe_S23,fan_rank_vs_rank_rank
+23,7,0.82,Terra Jole_S23,James Hinchcliffe_S23,fan_rank_vs_rank_rank
+23,8,0.92,Marilu Henner_S23,Calvin Johnson Jr._S23,fan_rank_vs_rank_rank
+23,9,0.83,Calvin Johnson Jr._S23,Laurie Hernandez_S23,fan_rank_vs_rank_rank
+23,10,0.66,Calvin Johnson Jr._S23,Laurie Hernandez_S23,fan_rank_vs_rank_rank
+23,11,0.44,Calvin Johnson Jr._S23,Laurie Hernandez_S23,fan_rank_vs_rank_rank
+24,1,0.86,Rashad Jennings_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+24,2,0.92,Charo_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+24,3,0.92,Rashad Jennings_S24,Erika Jayne_S24,fan_rank_vs_rank_rank
+24,4,0.86,Nick Viall_S24,Simone Biles_S24,fan_rank_vs_rank_rank
+24,5,0.82,David Ross_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+24,6,0.84,Nancy Kerrigan_S24,Nick Viall_S24,fan_rank_vs_rank_rank
+24,7,0.87,David Ross_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+24,8,0.63,David Ross_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+24,9,0.73,David Ross_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+24,10,0.31,Rashad Jennings_S24,Rashad Jennings_S24,fan_rank_vs_rank_rank
+25,1,0.9,Sasha Pieterse_S25,Frankie Muniz_S25,fan_rank_vs_rank_rank
+25,2,0.95,Drew Scott_S25,Frankie Muniz_S25,fan_rank_vs_rank_rank
+25,3,0.83,Derek Fisher_S25,Derek Fisher_S25,fan_rank_vs_rank_rank
+25,4,0.87,Vanessa Lachey_S25,Jordan Fisher_S25,fan_rank_vs_rank_rank
+25,5,0.87,Jordan Fisher_S25,Jordan Fisher_S25,fan_rank_vs_rank_rank
+25,6,0.84,Victoria Arlen_S25,Jordan Fisher_S25,fan_rank_vs_rank_rank
+25,7,0.82,Drew Scott_S25,Drew Scott_S25,fan_rank_vs_rank_rank
+25,8,0.79,Drew Scott_S25,Drew Scott_S25,fan_rank_vs_rank_rank
+25,9,0.64,Drew Scott_S25,Lindsey Stirling_S25,fan_rank_vs_rank_rank
+25,10,0.44,Jordan Fisher_S25,Jordan Fisher_S25,fan_rank_vs_rank_rank
+26,1,0.93,Kareem Abdul-Jabbar_S26,Josh Norman_S26,fan_rank_vs_rank_rank
+26,2,0.84,Jennie Finch Daigle_S26,Josh Norman_S26,fan_rank_vs_rank_rank
+26,3,0.75,Tonya Harding_S26,Adam Rippon_S26,fan_rank_vs_rank_rank
+26,4,0.21,Adam Rippon_S26,Adam Rippon_S26,fan_rank_vs_rank_rank
+27,1,0.92,Juan Pablo Di Pace_S27,DeMarcus Ware_S27,fan_rank_vs_rank_rank
+27,2,0.91,John Schneider_S27,Mary Lou Retton_S27,fan_rank_vs_rank_rank
+27,3,0.88,Bobby Bones_S27,Juan Pablo Di Pace_S27,fan_rank_vs_rank_rank
+27,4,0.89,DeMarcus Ware_S27,Alexis Ren_S27,fan_rank_vs_rank_rank
+27,5,0.86,Milo Manheim_S27,Juan Pablo Di Pace_S27,fan_rank_vs_rank_rank
+27,6,0.9,John Schneider_S27,Juan Pablo Di Pace_S27,fan_rank_vs_rank_rank
+27,7,0.8,Joe Amabile_S27,Evanna Lynch_S27,fan_rank_vs_rank_rank
+27,8,0.74,Alexis Ren_S27,Alexis Ren_S27,fan_rank_vs_rank_rank
+27,9,0.82,Bobby Bones_S27,Milo Manheim_S27,fan_rank_vs_rank_rank
+28,1,0.91,Kel Mitchell_S28,Ray Lewis_S28,fan_rank_vs_rank_rank
+28,2,0.9,Mary Wilson_S28,Sean Spicer_S28,fan_rank_vs_rank_rank
+28,3,0.8,James Van Der Beek_S28,James Van Der Beek_S28,fan_rank_vs_rank_rank
+28,4,0.88,Kate Flannery_S28,Karamo Brown_S28,fan_rank_vs_rank_rank
+28,5,0.91,Lauren Alaina_S28,Hannah Brown_S28,fan_rank_vs_rank_rank
+28,6,0.86,Hannah Brown_S28,Lauren Alaina_S28,fan_rank_vs_rank_rank
+28,7,0.91,Kel Mitchell_S28,Lauren Alaina_S28,fan_rank_vs_rank_rank
+28,8,0.86,Kel Mitchell_S28,James Van Der Beek_S28,fan_rank_vs_rank_rank
+28,9,0.68,James Van Der Beek_S28,James Van Der Beek_S28,fan_rank_vs_rank_rank
+28,10,0.57,James Van Der Beek_S28,Ally Brooke_S28,fan_rank_vs_rank_rank
+28,11,0.62,Hannah Brown_S28,Kel Mitchell_S28,fan_rank_vs_rank_rank
+29,1,0.9,Charles Oakley_S29,Jeannie Mai_S29,fan_rank_vs_rank_rank
+29,2,0.93,Skai Jackson_S29,Carole Baskin_S29,fan_rank_vs_rank_rank
+29,3,0.91,Anne Heche_S29,Jeannie Mai_S29,fan_rank_vs_rank_rank
+29,4,0.93,Nelly_S29,AJ McLean_S29,fan_rank_vs_rank_rank
+29,5,0.9,Johnny Weir_S29,AJ McLean_S29,fan_rank_vs_rank_rank
+29,6,0.9,Nelly_S29,Nelly_S29,fan_rank_vs_rank_rank
+29,7,0.9,Monica Aldama_S29,AJ McLean_S29,fan_rank_vs_rank_rank
+29,8,0.88,Nelly_S29,Johnny Weir_S29,fan_rank_vs_rank_rank
+29,9,0.79,Johnny Weir_S29,Johnny Weir_S29,fan_rank_vs_rank_rank
+29,10,0.79,Kaitlyn Bristowe_S29,Skai Jackson_S29,fan_rank_vs_rank_rank
+29,11,0.45,Nelly_S29,Kaitlyn Bristowe_S29,fan_rank_vs_rank_rank
+30,1,0.9,Iman Shumpert_S30,Melora Hardin_S30,fan_rank_vs_rank_rank
+30,2,0.92,Melora Hardin_S30,JoJo Siwa_S30,fan_rank_vs_rank_rank
+30,3,0.89,Kenya Moore_S30,JoJo Siwa_S30,fan_rank_vs_rank_rank
+30,4,0.91,"Mike ""The Miz"" Mizanin_S30",Melora Hardin_S30,fan_rank_vs_rank_rank
+30,5,0.89,"Mike ""The Miz"" Mizanin_S30",Olivia Jade_S30,fan_rank_vs_rank_rank
+30,6,0.82,Amanda Kloots_S30,Iman Shumpert_S30,fan_rank_vs_rank_rank
+30,7,0.83,JoJo Siwa_S30,JoJo Siwa_S30,fan_rank_vs_rank_rank
+30,8,0.79,Iman Shumpert_S30,Amanda Kloots_S30,fan_rank_vs_rank_rank
+30,9,0.7,JoJo Siwa_S30,Amanda Kloots_S30,fan_rank_vs_rank_rank
+30,10,0.47,Iman Shumpert_S30,Iman Shumpert_S30,fan_rank_vs_rank_rank
+31,1,0.93,Sam Champion_S31,Daniel Durant_S31,fan_rank_vs_rank_rank
+31,2,0.91,Charli D'Amelio_S31,Joseph Baena_S31,fan_rank_vs_rank_rank
+31,3,0.86,Vinny Guadagnino_S31,Trevor Donovan_S31,fan_rank_vs_rank_rank
+31,4,0.9,Heidi D'Amelio_S31,Heidi D'Amelio_S31,fan_rank_vs_rank_rank
+31,5,0.85,Jordin Sparks_S31,Gabby Windey_S31,fan_rank_vs_rank_rank
+31,6,0.83,Daniel Durant_S31,Gabby Windey_S31,fan_rank_vs_rank_rank
+31,7,0.85,Gabby Windey_S31,Charli D'Amelio_S31,fan_rank_vs_rank_rank
+31,8,0.73,Daniel Durant_S31,Trevor Donovan_S31,fan_rank_vs_rank_rank
+31,9,0.74,Charli D'Amelio_S31,Shangela_S31,fan_rank_vs_rank_rank
+31,10,0.75,Charli D'Amelio_S31,Wayne Brady_S31,fan_rank_vs_rank_rank
+32,1,0.95,Barry Williams_S32,Ariana Madix_S32,fan_rank_vs_rank_rank
+32,2,0.88,Mira Sorvino_S32,Mira Sorvino_S32,fan_rank_vs_rank_rank
+32,3,0.88,Charity Lawson_S32,Xochitl Gomez_S32,fan_rank_vs_rank_rank
+32,4,0.85,Ariana Madix_S32,Ariana Madix_S32,fan_rank_vs_rank_rank
+32,5,0.88,Harry Jowsey_S32,Lele Pons_S32,fan_rank_vs_rank_rank
+32,6,0.88,Barry Williams_S32,Lele Pons_S32,fan_rank_vs_rank_rank
+32,7,0.89,Barry Williams_S32,Ariana Madix_S32,fan_rank_vs_rank_rank
+32,8,0.84,Jason Mraz_S32,Ariana Madix_S32,fan_rank_vs_rank_rank
+32,9,0.8,Alyson Hannigan_S32,Jason Mraz_S32,fan_rank_vs_rank_rank
+32,10,0.62,Ariana Madix_S32,Charity Lawson_S32,fan_rank_vs_rank_rank
+32,11,0.62,Alyson Hannigan_S32,Xochitl Gomez_S32,fan_rank_vs_rank_rank
+33,1,0.87,Dwight Howard _S33,Stephen Nedoroscik_S33,fan_rank_vs_rank_rank
+33,2,0.94,Ilona Maher_S33,Jenn Tran_S33,fan_rank_vs_rank_rank
+33,3,0.95,Eric Roberts_S33,Chandler Kinney_S33,fan_rank_vs_rank_rank
+33,4,0.84,Dwight Howard _S33,Danny Amendola_S33,fan_rank_vs_rank_rank
+33,5,0.9,Joey Graziadei_S33,Danny Amendola_S33,fan_rank_vs_rank_rank
+33,6,0.83,Stephen Nedoroscik_S33,Chandler Kinney_S33,fan_rank_vs_rank_rank
+33,7,0.83,Ilona Maher_S33,Ilona Maher_S33,fan_rank_vs_rank_rank
+33,8,0.77,Stephen Nedoroscik_S33,Chandler Kinney_S33,fan_rank_vs_rank_rank
+33,9,0.65,Ilona Maher_S33,Joey Graziadei_S33,fan_rank_vs_rank_rank
+34,1,0.94,Andy Richter_S34,Jen Affleck_S34,fan_rank_vs_rank_rank
+34,2,0.89,Jordan Chiles_S34,Alix Earle_S34,fan_rank_vs_rank_rank
+34,3,0.91,Jen Affleck_S34,Jordan Chiles_S34,fan_rank_vs_rank_rank
+34,4,0.91,Dylan Efron_S34,Jordan Chiles_S34,fan_rank_vs_rank_rank
+34,5,0.83,Dylan Efron_S34,Danielle Fishel_S34,fan_rank_vs_rank_rank
+34,6,0.9,Whitney Leavitt_S34,Danielle Fishel_S34,fan_rank_vs_rank_rank
+34,7,0.8,Jordan Chiles_S34,Dylan Efron_S34,fan_rank_vs_rank_rank
+34,8,0.8,Andy Richter_S34,Whitney Leavitt_S34,fan_rank_vs_rank_rank
+34,9,0.76,Dylan Efron_S34,Dylan Efron_S34,fan_rank_vs_rank_rank
+34,10,0.79,Dylan Efron_S34,Alix Earle_S34,fan_rank_vs_rank_rank
+34,11,0.54,Dylan Efron_S34,Robert Irwin_S34,fan_rank_vs_rank_rank
+1,1,0.82,Rachel Hunter_S1,Joey McIntyre_S1,judge_rank_vs_percent_rank
+1,2,0.71,Rachel Hunter_S1,John O'Hurley_S1,judge_rank_vs_percent_rank
+1,3,0.67,Rachel Hunter_S1,John O'Hurley_S1,judge_rank_vs_percent_rank
+1,4,0.91,Kelly Monaco_S1,John O'Hurley_S1,judge_rank_vs_percent_rank
+1,5,0.16,John O'Hurley_S1,John O'Hurley_S1,judge_rank_vs_percent_rank
+1,6,0.04,Kelly Monaco_S1,Kelly Monaco_S1,judge_rank_vs_percent_rank
+2,1,0.82,Drew Lachey_S2,Drew Lachey_S2,judge_rank_vs_percent_rank
+2,2,0.82,Tatum O'Neal_S2,Drew Lachey_S2,judge_rank_vs_percent_rank
+2,3,0.76,Lisa Rinna_S2,Drew Lachey_S2,judge_rank_vs_percent_rank
+2,4,0.77,Lisa Rinna_S2,Stacy Keibler_S2,judge_rank_vs_percent_rank
+2,5,0.67,Drew Lachey_S2,Stacy Keibler_S2,judge_rank_vs_percent_rank
+2,6,0.62,Stacy Keibler_S2,Stacy Keibler_S2,judge_rank_vs_percent_rank
+2,7,0.46,Lisa Rinna_S2,Drew Lachey_S2,judge_rank_vs_percent_rank
+2,8,0.89,Drew Lachey_S2,Jerry Rice_S2,judge_rank_vs_percent_rank
+3,1,0.82,Mario Lopez_S3,Mario Lopez_S3,judge_rank_vs_percent_rank
+3,2,0.83,Emmitt Smith_S3,Willa Ford_S3,judge_rank_vs_percent_rank
+3,3,0.92,Vivica A. Fox_S3,Willa Ford_S3,judge_rank_vs_percent_rank
+3,4,0.8,Joey Lawrence_S3,Willa Ford_S3,judge_rank_vs_percent_rank
+3,5,0.79,Willa Ford_S3,Mario Lopez_S3,judge_rank_vs_percent_rank
+3,6,0.62,Monique Coleman_S3,Monique Coleman_S3,judge_rank_vs_percent_rank
+3,7,0.63,Joey Lawrence_S3,Emmitt Smith_S3,judge_rank_vs_percent_rank
+3,8,0.49,Emmitt Smith_S3,Joey Lawrence_S3,judge_rank_vs_percent_rank
+3,9,0.68,Mario Lopez_S3,Emmitt Smith_S3,judge_rank_vs_percent_rank
+3,10,0.53,Emmitt Smith_S3,Emmitt Smith_S3,judge_rank_vs_percent_rank
+4,1,0.88,Joey Fatone_S4,Apolo Anton Ohno_S4,judge_rank_vs_percent_rank
+4,2,0.92,Heather Mills_S4,Clyde Drexler_S4,judge_rank_vs_percent_rank
+4,3,0.82,Joey Fatone_S4,Leeza Gibbons_S4,judge_rank_vs_percent_rank
+4,4,0.86,Billy Ray Cyrus_S4,Apolo Anton Ohno_S4,judge_rank_vs_percent_rank
+4,5,0.8,Laila Ali_S4,Billy Ray Cyrus_S4,judge_rank_vs_percent_rank
+4,6,0.73,Laila Ali_S4,Apolo Anton Ohno_S4,judge_rank_vs_percent_rank
+4,7,0.7,Laila Ali_S4,Ian Ziering_S4,judge_rank_vs_percent_rank
+4,8,0.6,Joey Fatone_S4,Ian Ziering_S4,judge_rank_vs_percent_rank
+4,9,0.48,Joey Fatone_S4,Laila Ali_S4,judge_rank_vs_percent_rank
+4,10,0.15,Apolo Anton Ohno_S4,Apolo Anton Ohno_S4,judge_rank_vs_percent_rank
+5,1,0.88,Mel B_S5,Mark Cuban_S5,judge_rank_vs_percent_rank
+5,2,0.89,Helio Castroneves_S5,Mel B_S5,judge_rank_vs_percent_rank
+5,3,0.83,Jane Seymour_S5,Mel B_S5,judge_rank_vs_percent_rank
+5,4,0.79,Jane Seymour_S5,Cameron Mathison_S5,judge_rank_vs_percent_rank
+5,5,0.69,Cameron Mathison_S5,Cameron Mathison_S5,judge_rank_vs_percent_rank
+5,6,0.68,Helio Castroneves_S5,Mel B_S5,judge_rank_vs_percent_rank
+5,7,0.76,Jane Seymour_S5,Helio Castroneves_S5,judge_rank_vs_percent_rank
+5,8,0.57,Helio Castroneves_S5,Helio Castroneves_S5,judge_rank_vs_percent_rank
+5,9,0.47,Helio Castroneves_S5,Helio Castroneves_S5,judge_rank_vs_percent_rank
+5,10,0.83,Mel B_S5,Helio Castroneves_S5,judge_rank_vs_percent_rank
+6,1,0.82,Steve Guttenberg_S6,Penn Jillette_S6,judge_rank_vs_percent_rank
+6,2,0.86,Jason Taylor_S6,Jason Taylor_S6,judge_rank_vs_percent_rank
+6,3,0.83,Priscilla Presley_S6,Marlee Matlin_S6,judge_rank_vs_percent_rank
+6,4,0.81,Jason Taylor_S6,Kristi Yamaguchi_S6,judge_rank_vs_percent_rank
+6,5,0.8,Jason Taylor_S6,Marissa Jaret Winokur_S6,judge_rank_vs_percent_rank
+6,6,0.73,Kristi Yamaguchi_S6,Shannon Elizabeth_S6,judge_rank_vs_percent_rank
+6,7,0.7,Shannon Elizabeth_S6,Jason Taylor_S6,judge_rank_vs_percent_rank
+6,8,0.49,Cristian de la Fuente_S6,Cristian de la Fuente_S6,judge_rank_vs_percent_rank
+6,9,0.42,Kristi Yamaguchi_S6,Kristi Yamaguchi_S6,judge_rank_vs_percent_rank
+6,10,0.27,Kristi Yamaguchi_S6,Kristi Yamaguchi_S6,judge_rank_vs_percent_rank
+7,1,0.89,Cloris Leachman_S7,Toni Braxton_S7,judge_rank_vs_percent_rank
+7,2,0.86,Brooke Burke_S7,Cloris Leachman_S7,judge_rank_vs_percent_rank
+7,3,0.82,Toni Braxton_S7,Toni Braxton_S7,judge_rank_vs_percent_rank
+7,4,0.79,Susan Lucci_S7,Warren Sapp_S7,judge_rank_vs_percent_rank
+7,5,0.76,Cloris Leachman_S7,Brooke Burke_S7,judge_rank_vs_percent_rank
+7,6,0.69,Cody Linley_S7,Brooke Burke_S7,judge_rank_vs_percent_rank
+7,7,0.67,Maurice Greene_S7,Lance Bass_S7,judge_rank_vs_percent_rank
+7,8,0.67,Brooke Burke_S7,Brooke Burke_S7,judge_rank_vs_percent_rank
+7,9,0.54,Lance Bass_S7,Brooke Burke_S7,judge_rank_vs_percent_rank
+7,10,0.28,Brooke Burke_S7,Brooke Burke_S7,judge_rank_vs_percent_rank
+8,1,0.9,Melissa Rycroft_S8,Shawn Johnson_S8,judge_rank_vs_percent_rank
+8,2,0.91,Shawn Johnson_S8,Denise Richards_S8,judge_rank_vs_percent_rank
+8,3,0.88,Chuck Wicks_S8,Ty Murray_S8,judge_rank_vs_percent_rank
+8,4,0.82,Steve Wozniak_S8,Ty Murray_S8,judge_rank_vs_percent_rank
+8,5,0.8,Gilles Marini_S8,Chuck Wicks_S8,judge_rank_vs_percent_rank
+8,6,0.71,Melissa Rycroft_S8,Shawn Johnson_S8,judge_rank_vs_percent_rank
+8,7,0.69,Melissa Rycroft_S8,Gilles Marini_S8,judge_rank_vs_percent_rank
+8,8,0.62,Lil' Kim_S8,Lil' Kim_S8,judge_rank_vs_percent_rank
+8,9,0.71,Melissa Rycroft_S8,Gilles Marini_S8,judge_rank_vs_percent_rank
+8,10,0.34,Gilles Marini_S8,Gilles Marini_S8,judge_rank_vs_percent_rank
+8,11,0.28,Shawn Johnson_S8,Shawn Johnson_S8,judge_rank_vs_percent_rank
+9,1,0.97,Natalie Coughlin_S9,Mya_S9,judge_rank_vs_percent_rank
+9,2,0.89,Debi Mazar_S9,Aaron Carter_S9,judge_rank_vs_percent_rank
+9,3,0.91,Donny Osmond_S9,Joanna Krupa_S9,judge_rank_vs_percent_rank
+9,4,0.87,Joanna Krupa_S9,Donny Osmond_S9,judge_rank_vs_percent_rank
+9,5,0.83,Mya_S9,Melissa Joan Hart_S9,judge_rank_vs_percent_rank
+9,6,0.84,Joanna Krupa_S9,Joanna Krupa_S9,judge_rank_vs_percent_rank
+9,7,0.78,Donny Osmond_S9,Kelly Osbourne_S9,judge_rank_vs_percent_rank
+9,8,0.62,Mya_S9,Kelly Osbourne_S9,judge_rank_vs_percent_rank
+9,9,0.48,Joanna Krupa_S9,Kelly Osbourne_S9,judge_rank_vs_percent_rank
+9,10,0.23,Donny Osmond_S9,Mya_S9,judge_rank_vs_percent_rank
+10,1,0.91,Erin Andrews_S10,Jake Pavelka_S10,judge_rank_vs_percent_rank
+10,2,0.9,Pamela Anderson_S10,Nicole Scherzinger_S10,judge_rank_vs_percent_rank
+10,3,0.78,Evan Lysacek_S10,Nicole Scherzinger_S10,judge_rank_vs_percent_rank
+10,4,0.73,Nicole Scherzinger_S10,Chad Ochocinco_S10,judge_rank_vs_percent_rank
+10,5,0.79,Pamela Anderson_S10,Evan Lysacek_S10,judge_rank_vs_percent_rank
+10,6,0.71,Chad Ochocinco_S10,Niecy Nash_S10,judge_rank_vs_percent_rank
+10,7,0.76,Nicole Scherzinger_S10,Evan Lysacek_S10,judge_rank_vs_percent_rank
+10,8,0.72,Chad Ochocinco_S10,Evan Lysacek_S10,judge_rank_vs_percent_rank
+10,9,0.45,Nicole Scherzinger_S10,Nicole Scherzinger_S10,judge_rank_vs_percent_rank
+10,10,0.18,Nicole Scherzinger_S10,Nicole Scherzinger_S10,judge_rank_vs_percent_rank
+11,1,0.83,Jennifer Grey_S11,Brandy_S11,judge_rank_vs_percent_rank
+11,2,0.89,Audrina Patridge_S11,Rick Fox_S11,judge_rank_vs_percent_rank
+11,3,0.86,The Situation_S11,Rick Fox_S11,judge_rank_vs_percent_rank
+11,4,0.81,Audrina Patridge_S11,Jennifer Grey_S11,judge_rank_vs_percent_rank
+11,5,0.73,Kurt Warner_S11,Jennifer Grey_S11,judge_rank_vs_percent_rank
+11,6,0.82,Kyle Massey_S11,Brandy_S11,judge_rank_vs_percent_rank
+11,7,0.82,Brandy_S11,Brandy_S11,judge_rank_vs_percent_rank
+11,8,0.68,Bristol Palin_S11,Jennifer Grey_S11,judge_rank_vs_percent_rank
+11,9,0.47,Jennifer Grey_S11,Kyle Massey_S11,judge_rank_vs_percent_rank
+11,10,0.28,Jennifer Grey_S11,Kyle Massey_S11,judge_rank_vs_percent_rank
+12,1,0.82,Ralph Macchio_S12,Kirstie Alley_S12,judge_rank_vs_percent_rank
+12,2,0.88,Kirstie Alley_S12,Ralph Macchio_S12,judge_rank_vs_percent_rank
+12,3,0.79,Kendra Wilkinson_S12,Hines Ward_S12,judge_rank_vs_percent_rank
+12,4,0.84,Chelsea Kane_S12,Chris Jericho_S12,judge_rank_vs_percent_rank
+12,5,0.81,Hines Ward_S12,Romeo_S12,judge_rank_vs_percent_rank
+12,6,0.75,Hines Ward_S12,Romeo_S12,judge_rank_vs_percent_rank
+12,7,0.75,Ralph Macchio_S12,Ralph Macchio_S12,judge_rank_vs_percent_rank
+12,8,0.57,Kirstie Alley_S12,Chelsea Kane_S12,judge_rank_vs_percent_rank
+12,9,0.47,Hines Ward_S12,Ralph Macchio_S12,judge_rank_vs_percent_rank
+12,10,0.56,Hines Ward_S12,Hines Ward_S12,judge_rank_vs_percent_rank
+13,1,0.89,Hope Solo_S13,Kristin Cavallari_S13,judge_rank_vs_percent_rank
+13,2,0.86,Kristin Cavallari_S13,J.R. Martinez_S13,judge_rank_vs_percent_rank
+13,3,0.9,Chynna Phillips_S13,J.R. Martinez_S13,judge_rank_vs_percent_rank
+13,4,0.85,J.R. Martinez_S13,Ricki Lake_S13,judge_rank_vs_percent_rank
+13,5,0.8,J.R. Martinez_S13,J.R. Martinez_S13,judge_rank_vs_percent_rank
+13,6,0.63,J.R. Martinez_S13,J.R. Martinez_S13,judge_rank_vs_percent_rank
+13,7,0.7,Rob Kardashian_S13,Ricki Lake_S13,judge_rank_vs_percent_rank
+13,8,0.58,J.R. Martinez_S13,J.R. Martinez_S13,judge_rank_vs_percent_rank
+13,9,0.36,Ricki Lake_S13,Rob Kardashian_S13,judge_rank_vs_percent_rank
+13,10,0.83,Rob Kardashian_S13,J.R. Martinez_S13,judge_rank_vs_percent_rank
+14,1,0.91,Jaleel White_S14,Gavin DeGraw_S14,judge_rank_vs_percent_rank
+14,2,0.93,William Levy_S14,Roshon Fegan_S14,judge_rank_vs_percent_rank
+14,3,0.88,Gavin DeGraw_S14,Katherine Jenkins_S14,judge_rank_vs_percent_rank
+14,4,0.79,Roshon Fegan_S14,Katherine Jenkins_S14,judge_rank_vs_percent_rank
+14,5,0.76,William Levy_S14,Donald Driver_S14,judge_rank_vs_percent_rank
+14,6,0.75,Katherine Jenkins_S14,Donald Driver_S14,judge_rank_vs_percent_rank
+14,7,0.8,Maria Menounos_S14,Roshon Fegan_S14,judge_rank_vs_percent_rank
+14,8,0.7,Roshon Fegan_S14,William Levy_S14,judge_rank_vs_percent_rank
+14,9,0.81,Maria Menounos_S14,William Levy_S14,judge_rank_vs_percent_rank
+14,10,0.81,Katherine Jenkins_S14,Donald Driver_S14,judge_rank_vs_percent_rank
+15,1,0.89,Emmitt Smith_S15,Joey Fatone_S15,judge_rank_vs_percent_rank
+15,2,0.9,Melissa Rycroft_S15,Sabrina Bryan_S15,judge_rank_vs_percent_rank
+15,3,0.88,Sabrina Bryan_S15,Kelly Monaco_S15,judge_rank_vs_percent_rank
+15,4,0.78,Shawn Johnson_S15,Shawn Johnson_S15,judge_rank_vs_percent_rank
+15,5,0.8,Gilles Marini_S15,Emmitt Smith_S15,judge_rank_vs_percent_rank
+15,6,0.81,Apolo Anton Ohno_S15,Kirstie Alley_S15,judge_rank_vs_percent_rank
+15,7,0.81,Emmitt Smith_S15,Emmitt Smith_S15,judge_rank_vs_percent_rank
+15,8,0.75,Apolo Anton Ohno_S15,Melissa Rycroft_S15,judge_rank_vs_percent_rank
+15,9,0.54,Shawn Johnson_S15,Shawn Johnson_S15,judge_rank_vs_percent_rank
+15,10,0.22,Kelly Monaco_S15,Melissa Rycroft_S15,judge_rank_vs_percent_rank
+16,1,0.89,Zendaya_S16,Alexandra Raisman_S16,judge_rank_vs_percent_rank
+16,2,0.86,Kellie Pickler_S16,Ingo Rademacher_S16,judge_rank_vs_percent_rank
+16,3,0.87,Alexandra Raisman_S16,Victor Ortiz_S16,judge_rank_vs_percent_rank
+16,4,0.87,Kellie Pickler_S16,Ingo Rademacher_S16,judge_rank_vs_percent_rank
+16,5,0.86,Zendaya_S16,Jacoby Jones_S16,judge_rank_vs_percent_rank
+16,6,0.7,Sean Lowe_S16,Sean Lowe_S16,judge_rank_vs_percent_rank
+16,7,0.74,Zendaya_S16,Jacoby Jones_S16,judge_rank_vs_percent_rank
+16,8,0.7,Alexandra Raisman_S16,Zendaya_S16,judge_rank_vs_percent_rank
+16,9,0.64,Alexandra Raisman_S16,Alexandra Raisman_S16,judge_rank_vs_percent_rank
+16,10,0.55,Zendaya_S16,Kellie Pickler_S16,judge_rank_vs_percent_rank
+17,1,0.88,Amber Riley_S17,Amber Riley_S17,judge_rank_vs_percent_rank
+17,2,0.85,Jack Osbourne_S17,Christina Milian_S17,judge_rank_vs_percent_rank
+17,3,0.92,Elizabeth Berkley Lauren_S17,Brant Daugherty_S17,judge_rank_vs_percent_rank
+17,4,0.84,Christina Milian_S17,Corbin Bleu_S17,judge_rank_vs_percent_rank
+17,5,0.88,Brant Daugherty_S17,Amber Riley_S17,judge_rank_vs_percent_rank
+17,6,0.8,Elizabeth Berkley Lauren_S17,Amber Riley_S17,judge_rank_vs_percent_rank
+17,7,0.78,Corbin Bleu_S17,Corbin Bleu_S17,judge_rank_vs_percent_rank
+17,8,0.71,Elizabeth Berkley Lauren_S17,Leah Remini_S17,judge_rank_vs_percent_rank
+17,9,0.76,Corbin Bleu_S17,Corbin Bleu_S17,judge_rank_vs_percent_rank
+17,10,0.58,Amber Riley_S17,Corbin Bleu_S17,judge_rank_vs_percent_rank
+17,11,0.44,Bill Engvall_S17,Corbin Bleu_S17,judge_rank_vs_percent_rank
+18,1,0.86,Meryl Davis_S18,Charlie White_S18,judge_rank_vs_percent_rank
+18,2,0.92,Danica McKellar_S18,Meryl Davis_S18,judge_rank_vs_percent_rank
+18,3,0.87,NeNe Leakes_S18,Meryl Davis_S18,judge_rank_vs_percent_rank
+18,4,0.84,Meryl Davis_S18,Amy Purdy_S18,judge_rank_vs_percent_rank
+18,5,0.79,Danica McKellar_S18,Danica McKellar_S18,judge_rank_vs_percent_rank
+18,6,0.75,Charlie White_S18,Amy Purdy_S18,judge_rank_vs_percent_rank
+18,7,0.77,Amy Purdy_S18,Amy Purdy_S18,judge_rank_vs_percent_rank
+18,8,0.69,Charlie White_S18,Meryl Davis_S18,judge_rank_vs_percent_rank
+18,9,0.63,Meryl Davis_S18,Meryl Davis_S18,judge_rank_vs_percent_rank
+18,10,0.38,Meryl Davis_S18,Meryl Davis_S18,judge_rank_vs_percent_rank
+19,1,0.85,Bethany Mota_S19,Bethany Mota_S19,judge_rank_vs_percent_rank
+19,2,0.88,Betsey Johnson_S19,Jonathan Bennett_S19,judge_rank_vs_percent_rank
+19,3,0.89,Tommy Chong_S19,Bethany Mota_S19,judge_rank_vs_percent_rank
+19,4,0.78,Sadie Robertson_S19,Lea Thompson_S19,judge_rank_vs_percent_rank
+19,5,0.84,Sadie Robertson_S19,Bethany Mota_S19,judge_rank_vs_percent_rank
+19,6,0.84,Jonathan Bennett_S19,Bethany Mota_S19,judge_rank_vs_percent_rank
+19,7,0.74,Bethany Mota_S19,Alfonso Ribeiro_S19,judge_rank_vs_percent_rank
+19,8,0.8,Tommy Chong_S19,Bethany Mota_S19,judge_rank_vs_percent_rank
+19,9,0.78,Janel Parrish_S19,Alfonso Ribeiro_S19,judge_rank_vs_percent_rank
+19,10,0.63,Janel Parrish_S19,Janel Parrish_S19,judge_rank_vs_percent_rank
+19,11,0.48,Alfonso Ribeiro_S19,Alfonso Ribeiro_S19,judge_rank_vs_percent_rank
+20,1,0.9,Rumer Willis_S20,Redfoo_S20,judge_rank_vs_percent_rank
+20,2,0.88,Nastia Liukin_S20,Patti LaBelle_S20,judge_rank_vs_percent_rank
+20,3,0.84,Willow Shields_S20,Nastia Liukin_S20,judge_rank_vs_percent_rank
+20,4,0.84,Rumer Willis_S20,Willow Shields_S20,judge_rank_vs_percent_rank
+20,5,0.76,Riker Lynch_S20,Nastia Liukin_S20,judge_rank_vs_percent_rank
+20,6,0.77,Willow Shields_S20,Nastia Liukin_S20,judge_rank_vs_percent_rank
+20,7,0.69,Nastia Liukin_S20,Rumer Willis_S20,judge_rank_vs_percent_rank
+20,8,0.71,Rumer Willis_S20,Rumer Willis_S20,judge_rank_vs_percent_rank
+20,9,0.63,Riker Lynch_S20,Riker Lynch_S20,judge_rank_vs_percent_rank
+20,10,0.49,Rumer Willis_S20,Rumer Willis_S20,judge_rank_vs_percent_rank
+21,1,0.88,Alek Skarlatos_S21,Hayes Grier_S21,judge_rank_vs_percent_rank
+21,2,0.9,Nick Carter_S21,Alexa PenaVega_S21,judge_rank_vs_percent_rank
+21,3,0.9,Alexa PenaVega_S21,Alexa PenaVega_S21,judge_rank_vs_percent_rank
+21,4,0.81,Alek Skarlatos_S21,Hayes Grier_S21,judge_rank_vs_percent_rank
+21,5,0.73,Hayes Grier_S21,Alexa PenaVega_S21,judge_rank_vs_percent_rank
+21,6,0.86,Bindi Irwin_S21,Hayes Grier_S21,judge_rank_vs_percent_rank
+21,7,0.79,Alexa PenaVega_S21,Carlos PenaVega_S21,judge_rank_vs_percent_rank
+21,8,0.74,Carlos PenaVega_S21,Nick Carter_S21,judge_rank_vs_percent_rank
+21,9,0.83,Alexa PenaVega_S21,Bindi Irwin_S21,judge_rank_vs_percent_rank
+21,10,0.5,Bindi Irwin_S21,Bindi Irwin_S21,judge_rank_vs_percent_rank
+21,11,0.68,Carlos PenaVega_S21,Bindi Irwin_S21,judge_rank_vs_percent_rank
+22,1,0.85,Jodie Sweetin_S22,Marla Maples_S22,judge_rank_vs_percent_rank
+22,2,0.89,Ginger Zee_S22,Jodie Sweetin_S22,judge_rank_vs_percent_rank
+22,3,0.85,Wanya Morris_S22,Wanya Morris_S22,judge_rank_vs_percent_rank
+22,4,0.8,Antonio Brown_S22,Marla Maples_S22,judge_rank_vs_percent_rank
+22,5,0.79,Ginger Zee_S22,Nyle DiMarco_S22,judge_rank_vs_percent_rank
+22,6,0.91,Nyle DiMarco_S22,Paige VanZant_S22,judge_rank_vs_percent_rank
+22,7,0.91,Wanya Morris_S22,Antonio Brown_S22,judge_rank_vs_percent_rank
+22,8,0.81,Ginger Zee_S22,Ginger Zee_S22,judge_rank_vs_percent_rank
+22,9,0.8,Nyle DiMarco_S22,Paige VanZant_S22,judge_rank_vs_percent_rank
+22,10,0.84,Paige VanZant_S22,Nyle DiMarco_S22,judge_rank_vs_percent_rank
+23,1,0.85,James Hinchcliffe_S23,James Hinchcliffe_S23,judge_rank_vs_percent_rank
+23,2,0.86,Babyface_S23,Terra Jole_S23,judge_rank_vs_percent_rank
+23,3,0.92,Terra Jole_S23,Rick Perry_S23,judge_rank_vs_percent_rank
+23,4,0.87,Jana Kramer_S23,Calvin Johnson Jr._S23,judge_rank_vs_percent_rank
+23,5,0.89,James Hinchcliffe_S23,Terra Jole_S23,judge_rank_vs_percent_rank
+23,6,0.89,Marilu Henner_S23,Jana Kramer_S23,judge_rank_vs_percent_rank
+23,7,0.8,Terra Jole_S23,James Hinchcliffe_S23,judge_rank_vs_percent_rank
+23,8,0.69,Jana Kramer_S23,Laurie Hernandez_S23,judge_rank_vs_percent_rank
+23,9,0.74,Jana Kramer_S23,Jana Kramer_S23,judge_rank_vs_percent_rank
+23,10,0.9,Terra Jole_S23,Jana Kramer_S23,judge_rank_vs_percent_rank
+23,11,0.44,Calvin Johnson Jr._S23,Laurie Hernandez_S23,judge_rank_vs_percent_rank
+24,1,0.87,Rashad Jennings_S24,Rashad Jennings_S24,judge_rank_vs_percent_rank
+24,2,0.88,Normani_S24,Rashad Jennings_S24,judge_rank_vs_percent_rank
+24,3,0.93,Rashad Jennings_S24,Erika Jayne_S24,judge_rank_vs_percent_rank
+24,4,0.89,Rashad Jennings_S24,Simone Biles_S24,judge_rank_vs_percent_rank
+24,5,0.84,Simone Biles_S24,Normani_S24,judge_rank_vs_percent_rank
+24,6,0.85,Heather Morris_S24,Normani_S24,judge_rank_vs_percent_rank
+24,7,0.74,Normani_S24,Rashad Jennings_S24,judge_rank_vs_percent_rank
+24,8,0.66,Normani_S24,Rashad Jennings_S24,judge_rank_vs_percent_rank
+24,9,0.79,Normani_S24,Rashad Jennings_S24,judge_rank_vs_percent_rank
+24,10,0.14,Rashad Jennings_S24,Rashad Jennings_S24,judge_rank_vs_percent_rank
+25,1,0.9,Sasha Pieterse_S25,Sasha Pieterse_S25,judge_rank_vs_percent_rank
+25,2,0.91,Sasha Pieterse_S25,Frankie Muniz_S25,judge_rank_vs_percent_rank
+25,3,0.88,Lindsey Stirling_S25,Jordan Fisher_S25,judge_rank_vs_percent_rank
+25,4,0.85,Vanessa Lachey_S25,Jordan Fisher_S25,judge_rank_vs_percent_rank
+25,5,0.82,Jordan Fisher_S25,Jordan Fisher_S25,judge_rank_vs_percent_rank
+25,6,0.79,Victoria Arlen_S25,Jordan Fisher_S25,judge_rank_vs_percent_rank
+25,7,0.81,Drew Scott_S25,Drew Scott_S25,judge_rank_vs_percent_rank
+25,8,0.82,Jordan Fisher_S25,Drew Scott_S25,judge_rank_vs_percent_rank
+25,9,0.7,Jordan Fisher_S25,Lindsey Stirling_S25,judge_rank_vs_percent_rank
+25,10,0.63,Jordan Fisher_S25,Jordan Fisher_S25,judge_rank_vs_percent_rank
+26,1,0.82,Josh Norman_S26,Josh Norman_S26,judge_rank_vs_percent_rank
+26,2,0.85,Adam Rippon_S26,Josh Norman_S26,judge_rank_vs_percent_rank
+26,3,0.7,Adam Rippon_S26,Adam Rippon_S26,judge_rank_vs_percent_rank
+26,4,0.21,Adam Rippon_S26,Adam Rippon_S26,judge_rank_vs_percent_rank
+27,1,0.88,Juan Pablo Di Pace_S27,DeMarcus Ware_S27,judge_rank_vs_percent_rank
+27,2,0.85,Juan Pablo Di Pace_S27,Mary Lou Retton_S27,judge_rank_vs_percent_rank
+27,3,0.83,Evanna Lynch_S27,Juan Pablo Di Pace_S27,judge_rank_vs_percent_rank
+27,4,0.83,Mary Lou Retton_S27,Alexis Ren_S27,judge_rank_vs_percent_rank
+27,5,0.82,Milo Manheim_S27,Juan Pablo Di Pace_S27,judge_rank_vs_percent_rank
+27,6,0.92,Evanna Lynch_S27,Juan Pablo Di Pace_S27,judge_rank_vs_percent_rank
+27,7,0.71,Joe Amabile_S27,Evanna Lynch_S27,judge_rank_vs_percent_rank
+27,8,0.84,Evanna Lynch_S27,Alexis Ren_S27,judge_rank_vs_percent_rank
+27,9,0.85,Milo Manheim_S27,Milo Manheim_S27,judge_rank_vs_percent_rank
+28,1,0.9,Kel Mitchell_S28,Sean Spicer_S28,judge_rank_vs_percent_rank
+28,2,0.86,Mary Wilson_S28,Sean Spicer_S28,judge_rank_vs_percent_rank
+28,3,0.82,Kate Flannery_S28,James Van Der Beek_S28,judge_rank_vs_percent_rank
+28,4,0.83,Lauren Alaina_S28,Karamo Brown_S28,judge_rank_vs_percent_rank
+28,5,0.84,James Van Der Beek_S28,Hannah Brown_S28,judge_rank_vs_percent_rank
+28,6,0.91,Kate Flannery_S28,Lauren Alaina_S28,judge_rank_vs_percent_rank
+28,7,0.82,James Van Der Beek_S28,Lauren Alaina_S28,judge_rank_vs_percent_rank
+28,8,0.83,James Van Der Beek_S28,James Van Der Beek_S28,judge_rank_vs_percent_rank
+28,9,0.7,Ally Brooke_S28,Ally Brooke_S28,judge_rank_vs_percent_rank
+28,10,0.6,Ally Brooke_S28,Ally Brooke_S28,judge_rank_vs_percent_rank
+28,11,0.88,Ally Brooke_S28,Hannah Brown_S28,judge_rank_vs_percent_rank
+29,1,0.91,Kaitlyn Bristowe_S29,Jeannie Mai_S29,judge_rank_vs_percent_rank
+29,2,0.96,Kaitlyn Bristowe_S29,Carole Baskin_S29,judge_rank_vs_percent_rank
+29,3,0.87,Kaitlyn Bristowe_S29,Johnny Weir_S29,judge_rank_vs_percent_rank
+29,4,0.89,Skai Jackson_S29,AJ McLean_S29,judge_rank_vs_percent_rank
+29,5,0.88,Johnny Weir_S29,Monica Aldama_S29,judge_rank_vs_percent_rank
+29,6,0.86,Jeannie Mai_S29,Nelly_S29,judge_rank_vs_percent_rank
+29,7,0.93,Nev Schulman_S29,AJ McLean_S29,judge_rank_vs_percent_rank
+29,8,0.89,Nev Schulman_S29,Johnny Weir_S29,judge_rank_vs_percent_rank
+29,9,0.75,Johnny Weir_S29,Johnny Weir_S29,judge_rank_vs_percent_rank
+29,10,0.81,Kaitlyn Bristowe_S29,Skai Jackson_S29,judge_rank_vs_percent_rank
+29,11,0.73,Justina Machado_S29,Kaitlyn Bristowe_S29,judge_rank_vs_percent_rank
+30,1,0.92,Cody Rigsby_S30,Melora Hardin_S30,judge_rank_vs_percent_rank
+30,2,0.92,Melora Hardin_S30,JoJo Siwa_S30,judge_rank_vs_percent_rank
+30,3,0.81,Kenya Moore_S30,JoJo Siwa_S30,judge_rank_vs_percent_rank
+30,4,0.93,"Mike ""The Miz"" Mizanin_S30",Melora Hardin_S30,judge_rank_vs_percent_rank
+30,5,0.86,Olivia Jade_S30,Olivia Jade_S30,judge_rank_vs_percent_rank
+30,6,0.91,Amanda Kloots_S30,Iman Shumpert_S30,judge_rank_vs_percent_rank
+30,7,0.82,Olivia Jade_S30,JoJo Siwa_S30,judge_rank_vs_percent_rank
+30,8,0.86,Suni Lee_S30,Amanda Kloots_S30,judge_rank_vs_percent_rank
+30,9,0.69,JoJo Siwa_S30,Melora Hardin_S30,judge_rank_vs_percent_rank
+30,10,0.64,JoJo Siwa_S30,Iman Shumpert_S30,judge_rank_vs_percent_rank
+31,1,0.91,Sam Champion_S31,Daniel Durant_S31,judge_rank_vs_percent_rank
+31,2,0.93,Charli D'Amelio_S31,Sam Champion_S31,judge_rank_vs_percent_rank
+31,3,0.86,Charli D'Amelio_S31,Trevor Donovan_S31,judge_rank_vs_percent_rank
+31,4,0.94,Jordin Sparks_S31,Heidi D'Amelio_S31,judge_rank_vs_percent_rank
+31,5,0.86,Selma Blair_S31,Gabby Windey_S31,judge_rank_vs_percent_rank
+31,6,0.83,Daniel Durant_S31,Gabby Windey_S31,judge_rank_vs_percent_rank
+31,7,0.77,Charli D'Amelio_S31,Charli D'Amelio_S31,judge_rank_vs_percent_rank
+31,8,0.76,Daniel Durant_S31,Charli D'Amelio_S31,judge_rank_vs_percent_rank
+31,9,0.69,Gabby Windey_S31,Shangela_S31,judge_rank_vs_percent_rank
+31,10,0.63,Charli D'Amelio_S31,Wayne Brady_S31,judge_rank_vs_percent_rank
+32,1,0.94,Barry Williams_S32,Ariana Madix_S32,judge_rank_vs_percent_rank
+32,2,0.83,Mira Sorvino_S32,Mira Sorvino_S32,judge_rank_vs_percent_rank
+32,3,0.85,Charity Lawson_S32,Xochitl Gomez_S32,judge_rank_vs_percent_rank
+32,4,0.83,Xochitl Gomez_S32,Ariana Madix_S32,judge_rank_vs_percent_rank
+32,5,0.87,Jason Mraz_S32,Jason Mraz_S32,judge_rank_vs_percent_rank
+32,6,0.93,Xochitl Gomez_S32,Lele Pons_S32,judge_rank_vs_percent_rank
+32,7,0.96,Xochitl Gomez_S32,Ariana Madix_S32,judge_rank_vs_percent_rank
+32,8,0.82,Ariana Madix_S32,Ariana Madix_S32,judge_rank_vs_percent_rank
+32,9,0.69,Jason Mraz_S32,Jason Mraz_S32,judge_rank_vs_percent_rank
+32,10,0.8,Xochitl Gomez_S32,Charity Lawson_S32,judge_rank_vs_percent_rank
+32,11,0.63,Charity Lawson_S32,Xochitl Gomez_S32,judge_rank_vs_percent_rank
+33,1,0.85,Chandler Kinney_S33,Stephen Nedoroscik_S33,judge_rank_vs_percent_rank
+33,2,0.93,Ilona Maher_S33,Jenn Tran_S33,judge_rank_vs_percent_rank
+33,3,0.9,Eric Roberts_S33,Chandler Kinney_S33,judge_rank_vs_percent_rank
+33,4,0.83,Danny Amendola_S33,Danny Amendola_S33,judge_rank_vs_percent_rank
+33,5,0.87,Joey Graziadei_S33,Danny Amendola_S33,judge_rank_vs_percent_rank
+33,6,0.86,Dwight Howard _S33,Chandler Kinney_S33,judge_rank_vs_percent_rank
+33,7,0.69,Chandler Kinney_S33,Joey Graziadei_S33,judge_rank_vs_percent_rank
+33,8,0.65,Chandler Kinney_S33,Chandler Kinney_S33,judge_rank_vs_percent_rank
+33,9,0.88,Chandler Kinney_S33,Ilona Maher_S33,judge_rank_vs_percent_rank
+34,1,0.89,Andy Richter_S34,Jen Affleck_S34,judge_rank_vs_percent_rank
+34,2,0.91,Jordan Chiles_S34,Alix Earle_S34,judge_rank_vs_percent_rank
+34,3,0.88,Jordan Chiles_S34,Jordan Chiles_S34,judge_rank_vs_percent_rank
+34,4,0.81,Hilaria Baldwin_S34,Whitney Leavitt_S34,judge_rank_vs_percent_rank
+34,5,0.84,Dylan Efron_S34,Danielle Fishel_S34,judge_rank_vs_percent_rank
+34,6,0.8,Whitney Leavitt_S34,Danielle Fishel_S34,judge_rank_vs_percent_rank
+34,7,0.79,Jordan Chiles_S34,Dylan Efron_S34,judge_rank_vs_percent_rank
+34,8,0.78,Andy Richter_S34,Whitney Leavitt_S34,judge_rank_vs_percent_rank
+34,9,0.75,Dylan Efron_S34,Dylan Efron_S34,judge_rank_vs_percent_rank
+34,10,0.9,Whitney Leavitt_S34,Alix Earle_S34,judge_rank_vs_percent_rank
+34,11,0.82,Alix Earle_S34,Robert Irwin_S34,judge_rank_vs_percent_rank

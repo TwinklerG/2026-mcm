@@ -1,0 +1,2 @@
+total_weeks,mean_ODP,std_ODP,min_ODP,max_ODP,mean_stability_A,mean_stability_B,high_discrepancy_weeks,high_stability_weeks_A,high_stability_weeks_B
+335,0.4031880597014926,0.4315086719739697,0.0,1.0,0.8871611940298508,0.9869373134328357,140,254,326

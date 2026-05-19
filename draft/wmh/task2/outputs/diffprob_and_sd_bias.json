@@ -1,0 +1,113 @@
+{
+  "diffprob": {
+    "description": "Proportion of weeks where rank and percentage methods eliminate different contestants",
+    "mean_diffprob": 0.1016949152542373,
+    "n_weeks_with_elimination": 295,
+    "n_weeks_differ": 30
+  },
+  "fsai": {
+    "description": "Fan Signal Amplification Index (computed only on disagreement weeks); Delta FSAI_t = FSAI_t^(pct) - FSAI_t^(rank); >0 pct amplifies fan voting more, <0 rank more fan-oriented",
+    "subsample": "disagreement_weeks_only",
+    "n_disagreement_weeks": 30,
+    "mean_delta_fsai": -0.14906849686464568,
+    "mean_delta_fsai_by_season": {
+      "4": -0.36903033572636124,
+      "8": -0.6365057838496337,
+      "11": 0.22676867951612534,
+      "14": 0.20492131411497883,
+      "15": 0.30280983867131483,
+      "17": 0.006437076573366951,
+      "19": -0.4047601071390592,
+      "20": -0.10248188323463434,
+      "21": -0.024347965123917292,
+      "22": 0.49654830061785504,
+      "23": -0.2068956481002952,
+      "24": 0.47626160745238,
+      "27": -0.027653967445693706,
+      "28": -0.5168568851318286,
+      "29": 0.22949158542979153,
+      "30": -0.16654535496010653,
+      "31": -0.8002180704267435,
+      "34": -0.2529345016637553
+    },
+    "n_weeks": 30
+  },
+  "stochastic_dominance": {
+    "description": "Delta_t^SD = P_bar_t^(rank) - P_bar_t^(pct) over fan-judge disagreement subgroup F_t (computed only on disagreement weeks); <0 rank more fan-biased, >0 pct more fan-biased",
+    "subsample": "disagreement_weeks_only",
+    "q_fan_top": 0.3,
+    "q_judge_bottom": 0.3,
+    "mean_delta_SD": -0.08333333333333333,
+    "mean_delta_SD_by_season": {
+      "4": 0.0,
+      "8": 0.0,
+      "11": 0.0,
+      "15": 0.0,
+      "17": 0.0,
+      "19": 0.0,
+      "20": 0.0,
+      "22": 0.0,
+      "23": 0.0,
+      "24": 0.0,
+      "27": 0.0,
+      "28": -0.25,
+      "30": 0.0,
+      "31": -1.0,
+      "34": 0.0
+    },
+    "n_weeks": 24
+  },
+  "fsi": {
+    "description": "Fan Sensitivity Index (computed only on disagreement weeks); Delta FSI_t = beta_t^(pct) - beta_t^(rank), beta = OLS slope of Score on fan_percent; >0 pct more fan-biased",
+    "subsample": "disagreement_weeks_only",
+    "mean_delta_fsi": -10.08996636562777,
+    "mean_delta_fsi_by_season": {
+      "4": -9.95534513854593,
+      "8": -14.629166976561402,
+      "11": -3.637667154865161,
+      "14": -1.070195717195669,
+      "15": 1.1566174321705125,
+      "17": -5.328469980032446,
+      "19": -8.819645055711554,
+      "20": -6.7147982406362,
+      "21": -6.648086411880215,
+      "22": -4.048845528489917,
+      "23": -9.894696502050504,
+      "24": -1.1854265193601692,
+      "27": -6.113950843321171,
+      "28": -21.174096692656907,
+      "29": -4.625252336010943,
+      "30": -16.531293684120488,
+      "31": -32.00900314049616,
+      "34": -10.290396022697148
+    },
+    "n_weeks": 30
+  },
+  "jfeg": {
+    "description": "Judge-Favorite Elimination Gap (computed only on disagreement weeks); Delta JFEG_t = P_bar_t^(pct) - P_bar_t^(rank) over H_t (judge top, fan bottom); >0 pct more fan-biased",
+    "subsample": "disagreement_weeks_only",
+    "q_judge_top": 0.3,
+    "q_fan_bottom": 0.3,
+    "mean_delta_jfeg": 0.675,
+    "mean_delta_jfeg_by_season": {
+      "4": 0.0,
+      "8": 0.0,
+      "11": 0.5,
+      "14": 1.0,
+      "15": 1.0,
+      "17": 1.0,
+      "19": 0.0,
+      "20": 1.0,
+      "21": 1.0,
+      "22": 1.0,
+      "23": 1.0,
+      "24": 1.0,
+      "27": 0.5,
+      "28": 1.0,
+      "29": 1.0,
+      "30": 0.25,
+      "31": 0.0
+    },
+    "n_weeks": 20
+  }
+}

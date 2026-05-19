@@ -1,0 +1,82 @@
+{
+  "anomalies": {
+    "cases": [
+      {
+        "anomaly_type": "UNKNOWN",
+        "eliminated": [
+          "Sailor Brinkley-Cook_S28"
+        ],
+        "season": 28,
+        "week": 6
+      },
+      {
+        "anomaly_type": "UNKNOWN",
+        "eliminated": [
+          "Hilaria Baldwin_S34"
+        ],
+        "season": 34,
+        "week": 4
+      }
+    ],
+    "n_anomalies": 2
+  },
+  "config": {
+    "config_hash": "45affe75",
+    "n_samples": 10000,
+    "n_warmup": 3000,
+    "smoothness_weight": 0.5,
+    "target_acceptance": 0.35,
+    "thinning": 5
+  },
+  "diagnostics": {
+    "low_ess_seasons": [],
+    "mean_acceptance_rate": 0.34717439,
+    "mean_ess": 190.98402438,
+    "min_ess": 115.61083921,
+    "multimodal_seasons": []
+  },
+  "sensitivity": {
+    "data_driven_priors": {
+      "reconstruction_accuracy": 0.9348659
+    },
+    "sensitivity": {
+      "accuracy_difference": 0.04214559,
+      "n_episodes_compared": 335,
+      "survivor_kl_mean": 0.0014246,
+      "survivor_kl_std": 0.00396784,
+      "survivor_mad_mean": 0.00403114,
+      "survivor_mad_std": 0.00342585
+    },
+    "uniform_priors": {
+      "reconstruction_accuracy": 0.97701149
+    }
+  },
+  "stability": {
+    "generalization_gap": 0.17647059,
+    "test_accuracy": 0.82352941,
+    "train_accuracy": 1.0
+  },
+  "uncertainty": {
+    "mean_cri_width": 0.09485176,
+    "median_cri_width": 0.08803376
+  },
+  "validation": {
+    "bottom2_overall_recall": 0.98850575,
+    "bottom2_overall_strict": 0.9348659,
+    "bottom2_post_s28_recall": 0.94642857,
+    "bottom2_post_s28_strict": 0.69642857,
+    "bottom2_pre_s28_recall": 1.0,
+    "bottom2_pre_s28_strict": 1.0,
+    "constraint_satisfaction_rate": 0.99233716,
+    "finale_kendall_tau": 0.99411765,
+    "finale_top3_accuracy": 1.0,
+    "finale_winner_accuracy": 1.0,
+    "high_confidence_episodes": 207,
+    "posterior_consistency_mean": 0.90007548,
+    "posterior_consistency_std": 0.21501986,
+    "reconstruction_accuracy": 0.9348659,
+    "reconstruction_correct": 244,
+    "reconstruction_total": 261,
+    "uncertain_episodes": 17
+  }
+}

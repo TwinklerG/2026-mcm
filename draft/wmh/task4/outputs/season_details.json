@@ -1,0 +1,722 @@
+{
+  "percentage_based": [
+    {
+      "kendall_tau": 0.333333,
+      "mean_deviation": 1.333333,
+      "n_contestants": 6,
+      "season": 1,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.466667,
+      "mean_deviation": 2.0,
+      "n_contestants": 10,
+      "season": 2,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.777778,
+      "mean_deviation": 1.1,
+      "n_contestants": 11,
+      "season": 3,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.563636,
+      "mean_deviation": 1.818182,
+      "n_contestants": 11,
+      "season": 4,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.575758,
+      "mean_deviation": 1.666667,
+      "n_contestants": 12,
+      "season": 5,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.781818,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 6,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.890909,
+      "mean_deviation": 1.090909,
+      "n_contestants": 13,
+      "season": 7,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.717949,
+      "mean_deviation": 1.538462,
+      "n_contestants": 13,
+      "season": 8,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.757576,
+      "mean_deviation": 3.166667,
+      "n_contestants": 16,
+      "season": 9,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.672727,
+      "mean_deviation": 1.272727,
+      "n_contestants": 11,
+      "season": 10,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.727273,
+      "mean_deviation": 1.333333,
+      "n_contestants": 12,
+      "season": 11,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.854545,
+      "mean_deviation": 0.727273,
+      "n_contestants": 11,
+      "season": 12,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.666667,
+      "mean_deviation": 1.5,
+      "n_contestants": 12,
+      "season": 13,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 1.0,
+      "n_contestants": 12,
+      "season": 14,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.272727,
+      "n_contestants": 13,
+      "season": 15,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.666667,
+      "n_contestants": 12,
+      "season": 16,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 0.666667,
+      "n_contestants": 12,
+      "season": 17,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 18,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.717949,
+      "mean_deviation": 1.230769,
+      "n_contestants": 13,
+      "season": 19,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.709091,
+      "mean_deviation": 1.272727,
+      "n_contestants": 12,
+      "season": 20,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.916667,
+      "n_contestants": 13,
+      "season": 21,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 22,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 1.0,
+      "n_contestants": 13,
+      "season": 23,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.709091,
+      "mean_deviation": 1.454545,
+      "n_contestants": 12,
+      "season": 24,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.666667,
+      "n_contestants": 13,
+      "season": 25,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 1.0,
+      "mean_deviation": 0.666667,
+      "n_contestants": 10,
+      "season": 26,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.672727,
+      "mean_deviation": 1.545455,
+      "n_contestants": 13,
+      "season": 27,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.636364,
+      "mean_deviation": 1.727273,
+      "n_contestants": 12,
+      "season": 28,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.666667,
+      "mean_deviation": 1.846154,
+      "n_contestants": 15,
+      "season": 29,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.636364,
+      "mean_deviation": 2.25,
+      "n_contestants": 15,
+      "season": 30,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.871795,
+      "mean_deviation": 1.0,
+      "n_contestants": 16,
+      "season": 31,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.89011,
+      "mean_deviation": 0.571429,
+      "n_contestants": 14,
+      "season": 32,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.636364,
+      "mean_deviation": 1.833333,
+      "n_contestants": 13,
+      "season": 33,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.615385,
+      "mean_deviation": 1.923077,
+      "n_contestants": 14,
+      "season": 34,
+      "tech_winner": false
+    }
+  ],
+  "ptfs": [
+    {
+      "kendall_tau": 0.333333,
+      "mean_deviation": 1.333333,
+      "n_contestants": 6,
+      "season": 1,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.777778,
+      "mean_deviation": 1.0,
+      "n_contestants": 10,
+      "season": 2,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.777778,
+      "mean_deviation": 1.1,
+      "n_contestants": 11,
+      "season": 3,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.527273,
+      "mean_deviation": 2.0,
+      "n_contestants": 11,
+      "season": 4,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.575758,
+      "mean_deviation": 1.666667,
+      "n_contestants": 12,
+      "season": 5,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.833333,
+      "n_contestants": 12,
+      "season": 6,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.890909,
+      "mean_deviation": 1.090909,
+      "n_contestants": 13,
+      "season": 7,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.717949,
+      "mean_deviation": 1.538462,
+      "n_contestants": 13,
+      "season": 8,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.757576,
+      "mean_deviation": 3.166667,
+      "n_contestants": 16,
+      "season": 9,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.890909,
+      "mean_deviation": 0.545455,
+      "n_contestants": 11,
+      "season": 10,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.727273,
+      "mean_deviation": 1.333333,
+      "n_contestants": 12,
+      "season": 11,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.854545,
+      "mean_deviation": 0.727273,
+      "n_contestants": 11,
+      "season": 12,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.666667,
+      "mean_deviation": 1.5,
+      "n_contestants": 12,
+      "season": 13,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 1.0,
+      "n_contestants": 12,
+      "season": 14,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.272727,
+      "n_contestants": 13,
+      "season": 15,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.666667,
+      "n_contestants": 12,
+      "season": 16,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 0.666667,
+      "n_contestants": 12,
+      "season": 17,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.854545,
+      "mean_deviation": 1.0,
+      "n_contestants": 12,
+      "season": 18,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.717949,
+      "mean_deviation": 1.230769,
+      "n_contestants": 13,
+      "season": 19,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.709091,
+      "mean_deviation": 1.272727,
+      "n_contestants": 12,
+      "season": 20,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.916667,
+      "n_contestants": 13,
+      "season": 21,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 22,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.757576,
+      "mean_deviation": 1.333333,
+      "n_contestants": 13,
+      "season": 23,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.709091,
+      "mean_deviation": 1.454545,
+      "n_contestants": 12,
+      "season": 24,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.666667,
+      "n_contestants": 13,
+      "season": 25,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 1.0,
+      "mean_deviation": 0.833333,
+      "n_contestants": 10,
+      "season": 26,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.709091,
+      "mean_deviation": 1.363636,
+      "n_contestants": 13,
+      "season": 27,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.781818,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 28,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.666667,
+      "mean_deviation": 1.846154,
+      "n_contestants": 15,
+      "season": 29,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.636364,
+      "mean_deviation": 2.0,
+      "n_contestants": 15,
+      "season": 30,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.897436,
+      "mean_deviation": 0.846154,
+      "n_contestants": 16,
+      "season": 31,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.923077,
+      "mean_deviation": 0.538462,
+      "n_contestants": 14,
+      "season": 32,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.545455,
+      "n_contestants": 13,
+      "season": 33,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.615385,
+      "mean_deviation": 1.923077,
+      "n_contestants": 14,
+      "season": 34,
+      "tech_winner": false
+    }
+  ],
+  "rank_based": [
+    {
+      "kendall_tau": 0.333333,
+      "mean_deviation": 1.333333,
+      "n_contestants": 6,
+      "season": 1,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.511111,
+      "mean_deviation": 2.0,
+      "n_contestants": 10,
+      "season": 2,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.688889,
+      "mean_deviation": 1.1,
+      "n_contestants": 11,
+      "season": 3,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.563636,
+      "mean_deviation": 1.818182,
+      "n_contestants": 11,
+      "season": 4,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 5,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 0.833333,
+      "n_contestants": 12,
+      "season": 6,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 1.272727,
+      "n_contestants": 13,
+      "season": 7,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.717949,
+      "mean_deviation": 1.538462,
+      "n_contestants": 13,
+      "season": 8,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.666667,
+      "mean_deviation": 2.833333,
+      "n_contestants": 16,
+      "season": 9,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.6,
+      "mean_deviation": 1.636364,
+      "n_contestants": 11,
+      "season": 10,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.727273,
+      "mean_deviation": 1.333333,
+      "n_contestants": 12,
+      "season": 11,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.745455,
+      "mean_deviation": 1.090909,
+      "n_contestants": 11,
+      "season": 12,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.381818,
+      "mean_deviation": 2.181818,
+      "n_contestants": 12,
+      "season": 13,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.781818,
+      "mean_deviation": 1.090909,
+      "n_contestants": 12,
+      "season": 14,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.6,
+      "mean_deviation": 2.2,
+      "n_contestants": 13,
+      "season": 15,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.878788,
+      "mean_deviation": 0.666667,
+      "n_contestants": 12,
+      "season": 16,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.6,
+      "mean_deviation": 1.636364,
+      "n_contestants": 12,
+      "season": 17,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 1.181818,
+      "n_contestants": 12,
+      "season": 18,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.666667,
+      "mean_deviation": 2.0,
+      "n_contestants": 13,
+      "season": 19,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.511111,
+      "mean_deviation": 1.9,
+      "n_contestants": 12,
+      "season": 20,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.818182,
+      "mean_deviation": 1.0,
+      "n_contestants": 13,
+      "season": 21,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.511111,
+      "mean_deviation": 1.8,
+      "n_contestants": 12,
+      "season": 22,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.787879,
+      "mean_deviation": 1.333333,
+      "n_contestants": 13,
+      "season": 23,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.527273,
+      "mean_deviation": 2.454545,
+      "n_contestants": 12,
+      "season": 24,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.848485,
+      "mean_deviation": 1.0,
+      "n_contestants": 13,
+      "season": 25,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 1.0,
+      "mean_deviation": 0.666667,
+      "n_contestants": 10,
+      "season": 26,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.688889,
+      "mean_deviation": 1.6,
+      "n_contestants": 13,
+      "season": 27,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.709091,
+      "mean_deviation": 1.727273,
+      "n_contestants": 12,
+      "season": 28,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.714286,
+      "mean_deviation": 1.857143,
+      "n_contestants": 15,
+      "season": 29,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.606061,
+      "mean_deviation": 2.416667,
+      "n_contestants": 15,
+      "season": 30,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.923077,
+      "mean_deviation": 0.692308,
+      "n_contestants": 16,
+      "season": 31,
+      "tech_winner": true
+    },
+    {
+      "kendall_tau": 0.636364,
+      "mean_deviation": 2.333333,
+      "n_contestants": 14,
+      "season": 32,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.636364,
+      "mean_deviation": 1.909091,
+      "n_contestants": 13,
+      "season": 33,
+      "tech_winner": false
+    },
+    {
+      "kendall_tau": 0.454545,
+      "mean_deviation": 2.75,
+      "n_contestants": 14,
+      "season": 34,
+      "tech_winner": false
+    }
+  ]
+}

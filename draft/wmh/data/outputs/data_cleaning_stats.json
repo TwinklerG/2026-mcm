@@ -1,0 +1,37 @@
+{
+  "missing_sources": [
+    {
+      "source": "Judge slot not used",
+      "description": "Fewer judges in some seasons/weeks (e.g. Judge 4 absent)",
+      "count": 2499,
+      "action": "Retained (no imputation)"
+    },
+    {
+      "source": "Post-elimination",
+      "description": "No score recorded after contestant eliminated",
+      "count": 6904,
+      "action": "Retained (no imputation)"
+    }
+  ],
+  "total_score_cells": 18524,
+  "special_values": [
+    {
+      "value": "0",
+      "meaning": "Post-elimination",
+      "count": 4671,
+      "action": "Retained"
+    },
+    {
+      "value": "> 10",
+      "meaning": "Bonus (competition rule)",
+      "count": 221,
+      "action": "Retained"
+    },
+    {
+      "value": "(4, 10]",
+      "meaning": "Normal judge score",
+      "count": 8891,
+      "action": "Retained"
+    }
+  ]
+}

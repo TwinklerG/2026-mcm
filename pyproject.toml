@@ -1,0 +1,38 @@
+[project]
+name = "mcm"
+version = "0.2.0"
+description = "MCM 2026"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "polars>=1.37.1",
+    "openpyxl>=3.1.0",
+    "plotly>=6.0.0",
+    "kaleido>=1.2.0",
+    "matplotlib>=3.10.0",
+    "seaborn>=0.13.0",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.0",
+    "statsmodels>=0.14.6",
+    "networkx>=3.6.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "ruff>=0.14.14",
+    "uv>=0.9.27",
+    "pytest>=8.0.0",
+    "nbformat>=5.10.0",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["templates"]

@@ -1,0 +1,141 @@
+{
+  "comparisons": {
+    "age_centered": {
+      "fan_effect": -0.00184831,
+      "idi": 17.18813739,
+      "judge_effect": -0.03284824,
+      "significant_difference": 1.0
+    },
+    "industry_Athlete": {
+      "fan_effect": 0.05210845,
+      "idi": 3.25880011,
+      "judge_effect": -0.12873325,
+      "significant_difference": 1.0
+    },
+    "industry_Entertainment": {
+      "fan_effect": -0.12508574,
+      "idi": 0.80245273,
+      "judge_effect": -0.22307462,
+      "significant_difference": 0.0
+    },
+    "industry_Model": {
+      "fan_effect": -0.21693004,
+      "idi": 2.37349522,
+      "judge_effect": -0.53490052,
+      "significant_difference": 1.0
+    },
+    "industry_Other": {
+      "fan_effect": -0.24568638,
+      "idi": 3.28952241,
+      "judge_effect": -0.68919432,
+      "significant_difference": 1.0
+    },
+    "industry_Singer": {
+      "fan_effect": -0.01855297,
+      "idi": 0.03875646,
+      "judge_effect": -0.02098667,
+      "significant_difference": 0.0
+    },
+    "industry_TV": {
+      "fan_effect": -0.03341763,
+      "idi": 6.78615572,
+      "judge_effect": -0.41926642,
+      "significant_difference": 1.0
+    },
+    "week": {
+      "fan_effect": 0.11357965,
+      "idi": 27.25640602,
+      "judge_effect": 0.31143668,
+      "significant_difference": 1.0
+    }
+  },
+  "fan_model": {
+    "age_centered": {
+      "direction": "negative",
+      "effect": -0.00184831,
+      "significant": true
+    },
+    "industry_Athlete": {
+      "direction": "positive",
+      "effect": 0.05210845,
+      "significant": true
+    },
+    "industry_Entertainment": {
+      "direction": "negative",
+      "effect": -0.12508574,
+      "significant": true
+    },
+    "industry_Model": {
+      "direction": "negative",
+      "effect": -0.21693004,
+      "significant": true
+    },
+    "industry_Other": {
+      "direction": "negative",
+      "effect": -0.24568638,
+      "significant": true
+    },
+    "industry_Singer": {
+      "direction": "negative",
+      "effect": -0.01855297,
+      "significant": false
+    },
+    "industry_TV": {
+      "direction": "negative",
+      "effect": -0.03341763,
+      "significant": true
+    },
+    "judge_score": {
+      "direction": "positive",
+      "effect": 0.00371382,
+      "significant": false
+    },
+    "week": {
+      "direction": "positive",
+      "effect": 0.11357965,
+      "significant": true
+    }
+  },
+  "judge_model": {
+    "age_centered": {
+      "direction": "negative",
+      "effect": -0.03284824,
+      "significant": true
+    },
+    "industry_Athlete": {
+      "direction": "negative",
+      "effect": -0.12873325,
+      "significant": true
+    },
+    "industry_Entertainment": {
+      "direction": "negative",
+      "effect": -0.22307462,
+      "significant": false
+    },
+    "industry_Model": {
+      "direction": "negative",
+      "effect": -0.53490052,
+      "significant": true
+    },
+    "industry_Other": {
+      "direction": "negative",
+      "effect": -0.68919432,
+      "significant": true
+    },
+    "industry_Singer": {
+      "direction": "negative",
+      "effect": -0.02098667,
+      "significant": false
+    },
+    "industry_TV": {
+      "direction": "negative",
+      "effect": -0.41926642,
+      "significant": true
+    },
+    "week": {
+      "direction": "positive",
+      "effect": 0.31143668,
+      "significant": true
+    }
+  }
+}

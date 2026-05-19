@@ -1,0 +1,96 @@
+{
+  "by_week_summary": [
+    {
+      "elim_week": 1,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.2307692307692308,
+      "seasons_with_this_week": 13
+    },
+    {
+      "elim_week": 2,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.2121212121212122,
+      "seasons_with_this_week": 33
+    },
+    {
+      "elim_week": 3,
+      "min_per_season": 1,
+      "max_per_season": 3,
+      "mean_per_season": 1.1379310344827587,
+      "seasons_with_this_week": 29
+    },
+    {
+      "elim_week": 4,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.09375,
+      "seasons_with_this_week": 32
+    },
+    {
+      "elim_week": 5,
+      "min_per_season": 1,
+      "max_per_season": 1,
+      "mean_per_season": 1.0,
+      "seasons_with_this_week": 24
+    },
+    {
+      "elim_week": 6,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.0333333333333334,
+      "seasons_with_this_week": 30
+    },
+    {
+      "elim_week": 7,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.1612903225806452,
+      "seasons_with_this_week": 31
+    },
+    {
+      "elim_week": 8,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.2,
+      "seasons_with_this_week": 30
+    },
+    {
+      "elim_week": 9,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.1428571428571428,
+      "seasons_with_this_week": 28
+    },
+    {
+      "elim_week": 10,
+      "min_per_season": 1,
+      "max_per_season": 2,
+      "mean_per_season": 1.1,
+      "seasons_with_this_week": 10
+    },
+    {
+      "elim_week": 11,
+      "min_per_season": 1,
+      "max_per_season": 1,
+      "mean_per_season": 1.0,
+      "seasons_with_this_week": 4
+    }
+  ],
+  "distribution": [
+    {
+      "n_eliminated": 1,
+      "count": 231
+    },
+    {
+      "n_eliminated": 2,
+      "count": 32
+    },
+    {
+      "n_eliminated": 3,
+      "count": 1
+    }
+  ],
+  "n_withdrew": 10
+}

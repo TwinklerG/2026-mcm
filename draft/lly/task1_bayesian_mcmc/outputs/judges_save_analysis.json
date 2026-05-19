@@ -1,0 +1,12 @@
+{
+  "binomial_test_p_value": 0.56119284,
+  "conclusion": "在 42 次 Judges' Save 中，评委 50% 的情况下救了 Judge Score 更高的选手 (p=0.5612)。未发现显著偏好。",
+  "judges_prefer_technicians": false,
+  "n_judges_save_episodes": 42,
+  "pct_saved_higher_combined": 0.80952381,
+  "pct_saved_higher_fan_share": 0.9047619,
+  "pct_saved_higher_judge_score": 0.5,
+  "saved_higher_combined": 34,
+  "saved_higher_fan_share": 38,
+  "saved_higher_judge_score": 21
+}

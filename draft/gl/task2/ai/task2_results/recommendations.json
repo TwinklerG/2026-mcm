@@ -1,0 +1,23 @@
+{
+  "aggregation_method": {
+    "recommended": "percentage_based",
+    "confidence": "medium",
+    "reasoning": [
+      "Percentage-based method shows higher stability (0.953 vs 0.887)"
+    ]
+  },
+  "judges_save_rule": {
+    "recommended": "consider_removal",
+    "confidence": "medium",
+    "reasoning": []
+  },
+  "quantitative_evidence": {
+    "stability_comparison": {
+      "rank_based": 0.8871850746268657,
+      "percentage_based": 0.9531223880597015,
+      "difference": 0.06593731343283582
+    },
+    "method_discrepancy": 0.19295522388059702,
+    "judge_impact": 0.0
+  }
+}

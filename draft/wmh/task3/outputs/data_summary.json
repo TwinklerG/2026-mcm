@@ -1,0 +1,45 @@
+{
+  "age_range": [
+    14,
+    82
+  ],
+  "industry_distribution": [
+    {
+      "count": 875,
+      "industry_std": "Actor"
+    },
+    {
+      "count": 642,
+      "industry_std": "Athlete"
+    },
+    {
+      "count": 585,
+      "industry_std": "TV"
+    },
+    {
+      "count": 400,
+      "industry_std": "Singer"
+    },
+    {
+      "count": 89,
+      "industry_std": "Entertainment"
+    },
+    {
+      "count": 76,
+      "industry_std": "Model"
+    },
+    {
+      "count": 71,
+      "industry_std": "Other"
+    }
+  ],
+  "n_contestants": 411,
+  "n_industries": 7,
+  "n_observations": 2738,
+  "n_pros": 60,
+  "n_seasons": 34,
+  "weeks_range": [
+    1,
+    11
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "kendall_tau_values": [
+    {
+      "p_value": 1.0,
+      "season": 1,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 2,
+      "tau": 1.0
+    },
+    {
+      "p_value": 1.0,
+      "season": 3,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 4,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 5,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 6,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 7,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 8,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 9,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 10,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 11,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 12,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 13,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 14,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 15,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 16,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 17,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 18,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 19,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 20,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 21,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 22,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 23,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 24,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 25,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.33333333,
+      "season": 26,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 27,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 28,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 29,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 30,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 31,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.01666667,
+      "season": 32,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.01666667,
+      "season": 33,
+      "tau": 1.0
+    },
+    {
+      "p_value": 0.08333333,
+      "season": 34,
+      "tau": 0.8
+    }
+  ],
+  "mean_kendall_tau": 0.99411765,
+  "median_kendall_tau": 1.0,
+  "per_season": {
+    "1": {
+      "actual_ranking": [
+        "Kelly Monaco_S1",
+        "John O'Hurley_S1"
+      ],
+      "pred_ranking": [
+        "Kelly Monaco_S1",
+        "John O'Hurley_S1"
+      ],
+      "winner_correct": true
+    },
+    "2": {
+      "actual_ranking": [
+        "Drew Lachey_S2",
+        "Jerry Rice_S2",
+        "Stacy Keibler_S2"
+      ],
+      "pred_ranking": [
+        "Drew Lachey_S2",
+        "Jerry Rice_S2",
+        "Stacy Keibler_S2"
+      ],
+      "winner_correct": true
+    },
+    "3": {
+      "actual_ranking": [
+        "Emmitt Smith_S3",
+        "Mario Lopez_S3"
+      ],
+      "pred_ranking": [
+        "Emmitt Smith_S3",
+        "Mario Lopez_S3"
+      ],
+      "winner_correct": true
+    },
+    "4": {
+      "actual_ranking": [
+        "Apolo Anton Ohno_S4",
+        "Joey Fatone_S4",
+        "Laila Ali_S4"
+      ],
+      "pred_ranking": [
+        "Apolo Anton Ohno_S4",
+        "Joey Fatone_S4",
+        "Laila Ali_S4"
+      ],
+      "winner_correct": true
+    },
+    "5": {
+      "actual_ranking": [
+        "Helio Castroneves_S5",
+        "Mel B_S5",
+        "Marie Osmond_S5"
+      ],
+      "pred_ranking": [
+        "Helio Castroneves_S5",
+        "Mel B_S5",
+        "Marie Osmond_S5"
+      ],
+      "winner_correct": true
+    },
+    "6": {
+      "actual_ranking": [
+        "Kristi Yamaguchi_S6",
+        "Jason Taylor_S6",
+        "Cristian de la Fuente_S6"
+      ],
+      "pred_ranking": [
+        "Kristi Yamaguchi_S6",
+        "Jason Taylor_S6",
+        "Cristian de la Fuente_S6"
+      ],
+      "winner_correct": true
+    },
+    "7": {
+      "actual_ranking": [
+        "Brooke Burke_S7",
+        "Warren Sapp_S7",
+        "Lance Bass_S7"
+      ],
+      "pred_ranking": [
+        "Brooke Burke_S7",
+        "Warren Sapp_S7",
+        "Lance Bass_S7"
+      ],
+      "winner_correct": true
+    },
+    "8": {
+      "actual_ranking": [
+        "Shawn Johnson_S8",
+        "Gilles Marini_S8",
+        "Melissa Rycroft_S8"
+      ],
+      "pred_ranking": [
+        "Shawn Johnson_S8",
+        "Gilles Marini_S8",
+        "Melissa Rycroft_S8"
+      ],
+      "winner_correct": true
+    },
+    "9": {
+      "actual_ranking": [
+        "Donny Osmond_S9",
+        "Mya_S9",
+        "Kelly Osbourne_S9"
+      ],
+      "pred_ranking": [
+        "Donny Osmond_S9",
+        "Mya_S9",
+        "Kelly Osbourne_S9"
+      ],
+      "winner_correct": true
+    },
+    "10": {
+      "actual_ranking": [
+        "Nicole Scherzinger_S10",
+        "Evan Lysacek_S10",
+        "Erin Andrews_S10"
+      ],
+      "pred_ranking": [
+        "Nicole Scherzinger_S10",
+        "Evan Lysacek_S10",
+        "Erin Andrews_S10"
+      ],
+      "winner_correct": true
+    },
+    "11": {
+      "actual_ranking": [
+        "Jennifer Grey_S11",
+        "Kyle Massey_S11",
+        "Bristol Palin_S11"
+      ],
+      "pred_ranking": [
+        "Jennifer Grey_S11",
+        "Kyle Massey_S11",
+        "Bristol Palin_S11"
+      ],
+      "winner_correct": true
+    },
+    "12": {
+      "actual_ranking": [
+        "Hines Ward_S12",
+        "Kirstie Alley_S12",
+        "Chelsea Kane_S12"
+      ],
+      "pred_ranking": [
+        "Hines Ward_S12",
+        "Kirstie Alley_S12",
+        "Chelsea Kane_S12"
+      ],
+      "winner_correct": true
+    },
+    "13": {
+      "actual_ranking": [
+        "J.R. Martinez_S13",
+        "Rob Kardashian_S13",
+        "Ricki Lake_S13"
+      ],
+      "pred_ranking": [
+        "J.R. Martinez_S13",
+        "Rob Kardashian_S13",
+        "Ricki Lake_S13"
+      ],
+      "winner_correct": true
+    },
+    "14": {
+      "actual_ranking": [
+        "Donald Driver_S14",
+        "Katherine Jenkins_S14",
+        "William Levy_S14"
+      ],
+      "pred_ranking": [
+        "Donald Driver_S14",
+        "Katherine Jenkins_S14",
+        "William Levy_S14"
+      ],
+      "winner_correct": true
+    },
+    "15": {
+      "actual_ranking": [
+        "Melissa Rycroft_S15",
+        "Shawn Johnson_S15",
+        "Kelly Monaco_S15"
+      ],
+      "pred_ranking": [
+        "Melissa Rycroft_S15",
+        "Shawn Johnson_S15",
+        "Kelly Monaco_S15"
+      ],
+      "winner_correct": true
+    },
+    "16": {
+      "actual_ranking": [
+        "Kellie Pickler_S16",
+        "Zendaya_S16",
+        "Jacoby Jones_S16"
+      ],
+      "pred_ranking": [
+        "Kellie Pickler_S16",
+        "Zendaya_S16",
+        "Jacoby Jones_S16"
+      ],
+      "winner_correct": true
+    },
+    "17": {
+      "actual_ranking": [
+        "Amber Riley_S17",
+        "Corbin Bleu_S17",
+        "Jack Osbourne_S17"
+      ],
+      "pred_ranking": [
+        "Amber Riley_S17",
+        "Corbin Bleu_S17",
+        "Jack Osbourne_S17"
+      ],
+      "winner_correct": true
+    },
+    "18": {
+      "actual_ranking": [
+        "Meryl Davis_S18",
+        "Amy Purdy_S18",
+        "Candace Cameron Bure_S18"
+      ],
+      "pred_ranking": [
+        "Meryl Davis_S18",
+        "Amy Purdy_S18",
+        "Candace Cameron Bure_S18"
+      ],
+      "winner_correct": true
+    },
+    "19": {
+      "actual_ranking": [
+        "Alfonso Ribeiro_S19",
+        "Sadie Robertson_S19",
+        "Janel Parrish_S19"
+      ],
+      "pred_ranking": [
+        "Alfonso Ribeiro_S19",
+        "Sadie Robertson_S19",
+        "Janel Parrish_S19"
+      ],
+      "winner_correct": true
+    },
+    "20": {
+      "actual_ranking": [
+        "Rumer Willis_S20",
+        "Riker Lynch_S20",
+        "Noah Galloway_S20"
+      ],
+      "pred_ranking": [
+        "Rumer Willis_S20",
+        "Riker Lynch_S20",
+        "Noah Galloway_S20"
+      ],
+      "winner_correct": true
+    },
+    "21": {
+      "actual_ranking": [
+        "Bindi Irwin_S21",
+        "Nick Carter_S21",
+        "Alek Skarlatos_S21"
+      ],
+      "pred_ranking": [
+        "Bindi Irwin_S21",
+        "Nick Carter_S21",
+        "Alek Skarlatos_S21"
+      ],
+      "winner_correct": true
+    },
+    "22": {
+      "actual_ranking": [
+        "Nyle DiMarco_S22",
+        "Paige VanZant_S22",
+        "Ginger Zee_S22"
+      ],
+      "pred_ranking": [
+        "Nyle DiMarco_S22",
+        "Paige VanZant_S22",
+        "Ginger Zee_S22"
+      ],
+      "winner_correct": true
+    },
+    "23": {
+      "actual_ranking": [
+        "Laurie Hernandez_S23",
+        "James Hinchcliffe_S23",
+        "Calvin Johnson Jr._S23"
+      ],
+      "pred_ranking": [
+        "Laurie Hernandez_S23",
+        "James Hinchcliffe_S23",
+        "Calvin Johnson Jr._S23"
+      ],
+      "winner_correct": true
+    },
+    "24": {
+      "actual_ranking": [
+        "Rashad Jennings_S24",
+        "David Ross_S24",
+        "Normani_S24"
+      ],
+      "pred_ranking": [
+        "Rashad Jennings_S24",
+        "David Ross_S24",
+        "Normani_S24"
+      ],
+      "winner_correct": true
+    },
+    "25": {
+      "actual_ranking": [
+        "Jordan Fisher_S25",
+        "Lindsey Stirling_S25",
+        "Frankie Muniz_S25"
+      ],
+      "pred_ranking": [
+        "Jordan Fisher_S25",
+        "Lindsey Stirling_S25",
+        "Frankie Muniz_S25"
+      ],
+      "winner_correct": true
+    },
+    "26": {
+      "actual_ranking": [
+        "Adam Rippon_S26",
+        "Josh Norman_S26",
+        "Tonya Harding_S26"
+      ],
+      "pred_ranking": [
+        "Adam Rippon_S26",
+        "Josh Norman_S26",
+        "Tonya Harding_S26"
+      ],
+      "winner_correct": true
+    },
+    "27": {
+      "actual_ranking": [
+        "Bobby Bones_S27",
+        "Milo Manheim_S27",
+        "Evanna Lynch_S27"
+      ],
+      "pred_ranking": [
+        "Bobby Bones_S27",
+        "Milo Manheim_S27",
+        "Evanna Lynch_S27"
+      ],
+      "winner_correct": true
+    },
+    "28": {
+      "actual_ranking": [
+        "Hannah Brown_S28",
+        "Kel Mitchell_S28",
+        "Ally Brooke_S28"
+      ],
+      "pred_ranking": [
+        "Hannah Brown_S28",
+        "Kel Mitchell_S28",
+        "Ally Brooke_S28"
+      ],
+      "winner_correct": true
+    },
+    "29": {
+      "actual_ranking": [
+        "Kaitlyn Bristowe_S29",
+        "Nev Schulman_S29",
+        "Nelly_S29"
+      ],
+      "pred_ranking": [
+        "Kaitlyn Bristowe_S29",
+        "Nev Schulman_S29",
+        "Nelly_S29"
+      ],
+      "winner_correct": true
+    },
+    "30": {
+      "actual_ranking": [
+        "Iman Shumpert_S30",
+        "JoJo Siwa_S30",
+        "Cody Rigsby_S30"
+      ],
+      "pred_ranking": [
+        "Iman Shumpert_S30",
+        "JoJo Siwa_S30",
+        "Cody Rigsby_S30"
+      ],
+      "winner_correct": true
+    },
+    "31": {
+      "actual_ranking": [
+        "Charli D'Amelio_S31",
+        "Gabby Windey_S31",
+        "Wayne Brady_S31"
+      ],
+      "pred_ranking": [
+        "Charli D'Amelio_S31",
+        "Gabby Windey_S31",
+        "Wayne Brady_S31"
+      ],
+      "winner_correct": true
+    },
+    "32": {
+      "actual_ranking": [
+        "Xochitl Gomez_S32",
+        "Jason Mraz_S32",
+        "Ariana Madix_S32"
+      ],
+      "pred_ranking": [
+        "Xochitl Gomez_S32",
+        "Jason Mraz_S32",
+        "Ariana Madix_S32"
+      ],
+      "winner_correct": true
+    },
+    "33": {
+      "actual_ranking": [
+        "Joey Graziadei_S33",
+        "Ilona Maher_S33",
+        "Chandler Kinney_S33"
+      ],
+      "pred_ranking": [
+        "Joey Graziadei_S33",
+        "Ilona Maher_S33",
+        "Chandler Kinney_S33"
+      ],
+      "winner_correct": true
+    },
+    "34": {
+      "actual_ranking": [
+        "Robert Irwin_S34",
+        "Alix Earle_S34",
+        "Jordan Chiles_S34"
+      ],
+      "pred_ranking": [
+        "Robert Irwin_S34",
+        "Alix Earle_S34",
+        "Jordan Chiles_S34"
+      ],
+      "winner_correct": true
+    }
+  },
+  "top3_position_accuracy": 1.0,
+  "top3_position_correct": 100,
+  "top3_total": 100,
+  "winner_accuracy": 1.0,
+  "winner_correct": 34,
+  "winner_total": 34
+}
